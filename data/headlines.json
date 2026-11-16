@@ -1,273 +1,306 @@
 {
-  "generatedAt": "2026-11-15T22:55:56.533537Z",
+  "generatedAt": "2026-11-16T02:48:53.063786Z",
   "items": [
     {
-      "title": "세무사 수석 “초소형 카메라 찍고, AI 전송” 부정행위 인정",
-      "summary": "세무사 수석 합격자가 초소형 카메라와 AI를 이용한 부정행위 사실을 자수했다.",
-      "url": "https://www.hani.co.kr/arti/society/society_general/1287363.html",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-11-15T22:42:24Z",
-      "storyKey": "세무사수석초소형카메라찍고ai전송부정행위인정",
-      "isNew": true
-    },
-    {
-      "title": "은퇴설 속 황인범·김민재·황희찬 출격에도 한국 축구 참패",
-      "summary": "김민재, 황인범, 황희찬이 동시에 출격하고 사우디에 21년 만에 패배하는 등 한국 축구의 에이스 활용법과 세대 갈등설을 둘러싼 논란이 이어지고 있다.",
-      "url": "https://www.chosun.com/sports/football/2026/11/16/MZRWEOBYGI3WGZDDGFRTSZTDHA/",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-15T22:37:00Z",
-      "storyKey": "은퇴설머리박고뛴96즈축구중심입증김민재황인범황희찬카타르전승리핵심카드",
-      "isNew": true
-    },
-    {
-      "title": "FBI “북한, 소프트웨어 관리자 속여 대규모 악성코드 유포 시도”",
-      "summary": "FBI가 북한의 소프트웨어 관리자를 대상으로 한 대규모 악성코드 유포 시도를 경고했다.",
-      "url": "https://www.spnews.co.kr/news/articleView.html?idxno=112644",
-      "source": "SPN 서울평양뉴스",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-11-15T22:19:18Z",
-      "storyKey": "fbi소프트웨어관리자속여대규모악성코드유포시도",
-      "isNew": true
-    },
-    {
-      "title": "뉴욕 한인사회, 내년 경주 세계한상대회에 1천명 규모 방문단 파견",
-      "summary": "뉴욕 한인사회가 내년 경주 세계한상대회에 1천 명 규모의 방문단을 보낼 예정이다.",
-      "url": "https://www.dongponews.net/news/articleView.html?idxno=61693",
-      "source": "재외동포신문",
+      "title": "\"'AI 반칙' 못 막으면 사회 신뢰 무너진다\" 신문들, 경고음",
+      "summary": "",
+      "url": "http://www.journalist.or.kr/news/article.html?no=62080",
+      "source": "한국기자협회",
       "country": "한국",
       "category": "사회",
-      "publishedAt": "2026-11-15T22:17:08Z",
-      "storyKey": "뉴욕한인사회내년경주세계한상대회에1천명규모방문단보낸다",
+      "publishedAt": "2026-11-16T02:18:39Z",
+      "storyKey": "ai반칙못막으면사회신뢰무너진다신문들경고음",
       "isNew": true
     },
     {
-      "title": "인공지능을 위한 전혀 다른 새로운 접근법",
-      "summary": "인공지능 분야에서 기존과 완전히 다른 새로운 접근법이 제시되었다.",
-      "url": "https://cleantechnica.com/2026/11/15/a-radically-different-approach-to-ai/",
-      "source": "CleanTechnica",
+      "title": "'AI 스마트 안경', 시험장에서 소지만 해도 내년까지 응시 못합니다",
+      "summary": "",
+      "url": "https://www.korea.kr/news/reporterView.do?newsId=148974322&pWise=sub&pWiseSub=R1",
+      "source": "대한민국 정책브리핑",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-11-16T02:11:45Z",
+      "storyKey": "ai스마트안경시험장에서소지만해도내년까지응시못합니다",
+      "isNew": true
+    },
+    {
+      "title": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes: SMMT, NBIS, HELP, MSTR In Focus",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-020421221.html",
+      "source": "Yahoo Finance",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-16T02:04:00Z",
+      "storyKey": "dowsp500nasdaqfuturesedgelowerasmarketsbracefornvidiaearningsanthropicipofedminutessmmtnbishelpmstrinfocus",
+      "isNew": true
+    },
+    {
+      "title": "한화비전 클라우드 서비스 글로벌 보안 검증 통과",
+      "summary": "",
+      "url": "http://www.aptn.co.kr/news/articleView.html?idxno=113272",
+      "source": "아파트관리신문",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-16T01:39:14Z",
+      "storyKey": "한화비전클라우드서비스글로벌보안검증통과",
+      "isNew": true
+    },
+    {
+      "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+      "summary": "",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+      "source": "The Guardian",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-16T01:37:00Z",
+      "storyKey": "elonmuskjoins158000otherscallingfornvidiatobringbackjensenhuanginopenletter",
+      "isNew": true
+    },
+    {
+      "title": "HLTH26: Apple launches 200K-person study to examine how consumers use health AI",
+      "summary": "",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-apple-kicks-new-study-examine-use-ai-chatbots-health",
+      "source": "Fierce Healthcare",
       "country": "미국",
       "category": "AI",
-      "publishedAt": "2026-11-15T22:05:07Z",
-      "storyKey": "aradicallydifferentapproachtoai",
+      "publishedAt": "2026-11-16T01:35:00Z",
+      "storyKey": "hlth26applelaunches200kpersonstudytoexaminehowconsumersusehealthai",
       "isNew": true
     },
     {
-      "title": "스페이스X, 지구로 돌아오는 스타십 로켓 공중 포획 성공",
-      "summary": "스페이스X가 사상 최초로 지구로 귀환하는 스타십 로켓의 상단부를 공중에서 포획하는 데 성공했다.",
+      "title": "코스피·코스닥 동반 상승 출발...장중 하락세 전환",
+      "summary": "",
+      "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611161013310871_005.html",
+      "source": "YTN",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-11-16T01:13:00Z",
+      "storyKey": "코스피코스닥동반상승출발장중하락세전환",
+      "isNew": true
+    },
+    {
+      "title": "동양생명, ESG평가 사회 부문 'A등급' 획득",
+      "summary": "",
+      "url": "https://www.etnews.com/20261116000058",
+      "source": "전자신문",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-11-16T00:25:00Z",
+      "storyKey": "동양생명esg평가사회부문a등급획득",
+      "isNew": true
+    },
+    {
+      "title": "한 총리, ‘수능 AI 부정행위’ 대응팀 구성…“시험 뒤 이상징후도 조사”",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/politics/assembly/1287477.html",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-16T00:21:00Z",
+      "storyKey": "한총리수능ai부정행위대응팀구성시험뒤이상징후도조사",
+      "isNew": true
+    },
+    {
+      "title": "최혜진, LPGA 투어 10번째 준우승…우승 문턱서 좌절",
+      "summary": "",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261116091809k4j",
+      "source": "연합뉴스TV",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-16T00:18:00Z",
+      "storyKey": "최혜진lpga투어10번째준우승우승문턱서좌절",
+      "isNew": true
+    },
+    {
+      "title": "Thousands of US flights cancelled or delayed two days after grounding of planes nationwide",
+      "summary": "",
+      "url": "https://www.bbc.com/news/articles/cw1mdlv0k2r4o",
+      "source": "BBC",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-16T00:03:29Z",
+      "storyKey": "thousandsofusflightscancelledordelayedtwodaysaftergroundingofplanesnationwide",
+      "isNew": false
+    },
+    {
+      "title": "에이프리카 ‘치타’, KT클라우드 마켓플레이스 입점…AI 플랫폼 공급 확대",
+      "summary": "",
+      "url": "https://stock.mk.co.kr/news/view/1199218",
+      "source": "매일경제 마켓",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-15T23:59:15Z",
+      "storyKey": "에이프리카치타kt클라우드마켓플레이스입점ai플랫폼공급확대",
+      "isNew": true
+    },
+    {
+      "title": "Kirk Cousins emotional after win in Vikings return, reflects on 'tough 3 years'",
+      "summary": "",
+      "url": "https://www.espn.com/nfl/story/_/id/50495965/kirk-cousins-emotional-getting-win-return-vikings",
+      "source": "ESPN",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-15T23:44:00Z",
+      "storyKey": "kirkcousinsemotionalafterwininvikingsreturnreflectsontough3years",
+      "isNew": true
+    },
+    {
+      "title": "리얼미터 \"이 대통령 국정 지지도 36.4%…0.5%p 상승\"",
+      "summary": "",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261116082803nkC",
+      "source": "연합뉴스TV",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-15T23:28:00Z",
+      "storyKey": "리얼미터이대통령국정지지도36405p상승",
+      "isNew": true
+    },
+    {
+      "title": "S&P 500 Forecast: SPX rises despite Nvidia’s decline",
+      "summary": "",
+      "url": "https://www.stonex.com/en-gb/news-and-analysis/sandp-500-forecast-spx-rises-despite-nvidia-s-decline/",
+      "source": "StoneX",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-15T23:09:09Z",
+      "storyKey": "sp500forecastspxrisesdespitenvidiasdecline",
+      "isNew": false
+    },
+    {
+      "title": "Our five-year-old has hearing loss and may one day be blind. Here is where I find hope",
+      "summary": "",
+      "url": "https://www.theguardian.com/society/2026/nov/16/our-five-year-old-has-hearing-loss-and-may-one-day-be-blind-here-is-where-i-find-hope",
+      "source": "The Guardian",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-11-15T23:03:00Z",
+      "storyKey": "ourfiveyearoldhashearinglossandmayonedaybeblindhereiswhereifindhope",
+      "isNew": true
+    },
+    {
+      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
+      "summary": "",
+      "url": "https://www.britannica.com/money/NVIDIA-Corporation",
+      "source": "Britannica",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-15T23:00:09Z",
+      "storyKey": "nvidiacorporationhistorygpusartificialintelligence",
+      "isNew": true
+    },
+    {
+      "title": "한국, 부끄러운 ‘준우승’…APBC 결승전 일본에 1-5 패",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/international/international_general/1287457.html",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-15T22:53:00Z",
+      "storyKey": "한국부끄러운준우승apbc결승전일본에15패",
+      "isNew": true
+    },
+    {
+      "title": "“젠슨 황, 엔비디아 최고경영자 복귀 검토…백악관 지지 확보 계획”",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/international/international_general/1287473.html",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-11-15T22:51:00Z",
+      "storyKey": "젠슨황엔비디아최고경영자복귀검토백악관지지확보계획",
+      "isNew": true
+    },
+    {
+      "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+      "summary": "",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+      "source": "NPR",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-11-15T22:41:22Z",
+      "storyKey": "farfromhomevoyager1isnowfartherthananythingmanhassentintospace",
+      "isNew": true
+    },
+    {
+      "title": "SpaceX catches Starship rocket on return to Earth",
+      "summary": "",
       "url": "https://www.washingtonpost.com/technology/2026/11/15/spacex-catches-starship-rocket-return-earth/",
       "source": "The Washington Post",
       "country": "미국",
       "category": "과학",
-      "publishedAt": "2026-11-15T22:03:13Z",
+      "publishedAt": "2026-11-15T22:30:00Z",
       "storyKey": "spacexcatchesstarshiprocketonreturntoearth",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "한덕수 총리, 스마트기기 활용 부정행위 관련 회의 주재",
-      "summary": "한성숙 총리가 스마트기기를 활용한 부정행위와 관련된 정부 주요일정을 소화한다.",
-      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247500",
-      "source": "세이프타임즈",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-11-15T22:02:22Z",
-      "storyKey": "오늘의주요일정16일한성숙총리스마트기기활용부정행위관련회의",
-      "isNew": true
-    },
-    {
-      "title": "미 항공편 운항 중단 사태를 두고 의회와 이전 행정부 공방",
-      "summary": "미국 전역의 항공편 운항 중단 사태의 원인과 책임을 두고 트럼프 행정부와 민주당 간의 공방이 벌어지고 있다.",
-      "url": "https://www.washingtonpost.com/transportation/2026/11/15/sean-duffy-blames-congress-prior-administrations-ground-stop-chaos/",
-      "source": "The Washington Post",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-15T21:59:42Z",
-      "storyKey": "duffyblamescongressprioradministrationsforairtravelhaltchaos",
-      "isNew": true
-    },
-    {
-      "title": "한국 야구, APBC 결승서 일본에 패해 준우승…11년째 일본전 무승",
-      "summary": "한국 야구대표팀이 APBC 결승에서 일본에 패배하며 준우승에 머물렀고, 일본전 13연패 및 11년 무승 부진을 이어갔다.",
-      "url": "https://news.ikbc.co.kr/article/view/kbc202611160003",
-      "source": "KBC광주방송",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-15T21:57:41Z",
-      "storyKey": "11년째일본전무승부끄러운준우승한국야구apbc결승서15완패",
-      "isNew": true
-    },
-    {
-      "title": "젠슨 황 엔비디아 CEO 복귀 논의 및 백악관 설득 시도 보도",
-      "summary": "젠슨 황 엔비디아 CEO의 복귀 논의와 함께 임원 폭언 및 물병 투척 의혹 등 거취를 둘러싼 논란이 제기되고 있다.",
-      "url": "https://imnews.imbc.com/news/2026/world/article/6865863_36925.html",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-11-15T21:24:22Z",
-      "storyKey": "젠슨황엔비디아ceo복귀논의중백악관설득시도",
-      "isNew": true
-    },
-    {
-      "title": "외신, 젠슨 황의 엔비디아 최고경영자 복귀 측근과 논의 보도",
-      "summary": "외신에 따르면 젠슨 황이 측근들과 함께 엔비디아 CEO 복귀를 논의하고 있으며, 사퇴 배경과 정치적 파장이 주목받고 있다.",
-      "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-15T21:22:37Z",
-      "storyKey": "jensenhuangdiscussescomebackasnvidiaceowithalliesftreports",
-      "isNew": true
-    },
-    {
-      "title": "커크 커즌스 복귀한 미네소타 바이킹스, 그린베이 패커스 격파",
-      "summary": "커크 커즌스가 복귀한 미네소타 바이킹스가 그린베이 패커스를 상대로 대승을 거두며 팀을 상위권 반열에 올렸다.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-pummel-packers-30-10-in-kirk-cousins-return",
-      "source": "NBC Sports",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-15T21:09:05Z",
-      "storyKey": "vikingspummelpackers3010inkirkcousinsreturn",
-      "isNew": true
-    },
-    {
-      "title": "다우존스, 나스닥 100 및 S&P 500 주간 증시 전망",
-      "summary": "이번 주 다우존스와 나스닥 100, S&P 500 등 주요 미국 증시의 주간 전망이 발표되었다.",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63277592/dow-jones-nasdaq-100-and-sp-500-outlooks-key-stock-market-news-this-week",
-      "source": "Benzinga",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-15T20:30:08Z",
-      "storyKey": "dowjonesnasdaq100andsp500outlookskeystockmarketnewsthisweek",
-      "isNew": true
-    },
-    {
-      "title": "미국 전역 항공기 운항 중단 이틀째 수천 편 결항 및 지연",
-      "summary": "미국 전역의 항공기 운항 중단 사태 여파로 이틀째 수천 편의 항공편이 결항되거나 지연되었다.",
-      "url": "https://www.bbc.com/news/articles/cw1mdlv0k2r4o",
-      "source": "BBC",
+      "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
+      "summary": "",
+      "url": "https://www.nytimes.com/2026/11/15/us/faa-groundstop-flights-status-delays-canceled.html",
+      "source": "The New York Times",
       "country": "미국",
       "category": "정치",
-      "publishedAt": "2026-11-15T19:20:53Z",
-      "storyKey": "thousandsofusflightscancelledordelayedtwodaysaftergroundingofplanesnationwide",
+      "publishedAt": "2026-11-15T22:06:59Z",
+      "storyKey": "flightdelaysandcancellationspersistassystemrecoversfromgroundstop",
       "isNew": true
     },
     {
-      "title": "인공지능 붐의 거친 이면",
-      "summary": "인공지능 붐이 가져오고 있는 급격한 변화와 그에 따른 이면이 조명되었다.",
-      "url": "https://hai.stanford.edu/news/the-jagged-edge-of-the-ai-boom",
-      "source": "Stanford HAI",
+      "title": "Billy Evans Reacts to Amanda Seyfried’s Portrayal of Elizabeth Holmes in ‘You Can See Everything’",
+      "summary": "",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/billy-evans-reacts-amanda-seyfried-portrayal-elizabeth-holmes-1236755698/",
+      "source": "The Hollywood Reporter",
       "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-15T18:58:30Z",
-      "storyKey": "thejaggededgeoftheaiboom",
+      "category": "문화",
+      "publishedAt": "2026-11-15T20:31:49Z",
+      "storyKey": "billyevansreactstoamandaseyfriedsportrayalofelizabethholmesinyoucanseeeverything",
       "isNew": true
     },
     {
-      "title": "조니 데п 주연 영화 '에비네저', 해외 흥행으로 4,200만 달러 기록",
-      "summary": "조니 뎁이 주연을 맡은 영화 '에비네저'가 해외에서 4,200만 달러의 오프닝 성적을 거두며 박스오피스 상위권에 올랐다.",
+      "title": "'The Ultimate Gaming Machine' - Xbox Reveals Tons Of New Project Helix Information",
+      "summary": "",
+      "url": "https://www.purexbox.com/news/2026/11/the-ultimate-gaming-machine-xbox-reveals-tons-of-new-project-helix-information",
+      "source": "Pure Xbox",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-11-15T18:47:29Z",
+      "storyKey": "theultimategamingmachinexboxrevealstonsofnewprojecthelixinformation",
+      "isNew": true
+    },
+    {
+      "title": "Box Office Global: Johnny Depp's 'Ebenezer' Richer Abroad with $42M Bow",
+      "summary": "",
       "url": "https://deadline.com/2026/11/box-office-global-ebenezer-ramayana-godzilla-minus-zero-1237224479/",
       "source": "Deadline",
       "country": "미국",
       "category": "문화",
       "publishedAt": "2026-11-15T18:00:00Z",
       "storyKey": "boxofficeglobaljohnnydeppsebenezerricherabroadwith42mbow",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "미국 대학 협의회, 등록·재정지원 시스템에 5,700만 달러 소프트웨어 개편 검토",
-      "summary": "미국 대학 협의회가 학사 행정 및 재정 지원 시스템을 위한 대규모 소프트웨어 개편을 검토 중이다.",
-      "url": "https://fortworthreport.org/2026/11/15/tcc-trustees-to-weigh-57m-in-software-overhaul-for-registration-financial-aid-payroll/",
-      "source": "Fort Worth Report",
+      "title": "Cybersecurity group retools after funding cut",
+      "summary": "",
+      "url": "https://www.naco.org/news/cybersecurity-group-retools-after-funding-cut",
+      "source": "National Association of Counties",
       "country": "미국",
       "category": "IT",
-      "publishedAt": "2026-11-15T18:00:00Z",
-      "storyKey": "tcctrusteestoweigh57minsoftwareoverhaulforregistrationfinancialaidpayroll",
+      "publishedAt": "2026-11-15T17:04:40Z",
+      "storyKey": "cybersecuritygroupretoolsafterfundingcut",
       "isNew": true
     },
     {
-      "title": "미국암협회, 전립선암 선별검사 지침 대폭 개정 발표",
-      "summary": "미국암협회가 전립선암 선별검사 가이드라인에 대한 주요 변경 사항을 새롭게 발표했다.",
-      "url": "https://katiecouric.com/health/new-prostate-cancer-screenining-guidelines-explained/",
-      "source": "Katie Couric Media",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-11-15T17:22:31Z",
-      "storyKey": "theamericancancersocietyjustreleasedmajorchangestoprostatecancerscreeningguidelines",
-      "isNew": false
-    },
-    {
-      "title": "이번 홀리데이 시즌에 적극 추천하는 기술 제품들",
-      "summary": "다가오는 홀리데이 시즌을 맞아 유용한 주요 기술 제품들이 추천되었다.",
-      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
-      "source": "TechCrunch",
-      "country": "미국",
+      "title": "‘젠슨황 스캔들’ 메가스피드 “앨리스 황 작년 8월 퇴사…현재 역할 없어”",
+      "summary": "",
+      "url": "https://www.segye.com/newsView/20261115511330",
+      "source": "세계일보",
+      "country": "한국",
       "category": "기술",
-      "publishedAt": "2026-11-15T16:00:00Z",
-      "storyKey": "thetechproductsweenthusiasticallyrecommendthisholidayseason",
-      "isNew": false
-    },
-    {
-      "title": "대법원 ‘내란 혐의’ 첫 판단 임박…한덕수 구속만료 전 선고 가능성",
-      "summary": "한덕수 전 총리의 석방 여부와 구속 연장을 두고 정치권의 공방이 이어지는 가운데, 대법원의 선고 가능성이 제기되고 있다.",
-      "url": "https://www.hani.co.kr/arti/society/society_general/1287447.html",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-15T15:20:00Z",
-      "storyKey": "대법원내란혐의첫판단나오나한덕수구속만료전선고가능성",
+      "publishedAt": "2026-11-15T15:11:02Z",
+      "storyKey": "젠슨황스캔들메가스피드앨리스황작년8월퇴사현재역할없어",
       "isNew": true
     },
     {
-      "title": "2026년 로큰롤 명예의 전당 헌액식 주요 하이라이트 11선",
-      "summary": "필 콜린스와 우탱 클랜 등 전설적인 아티스트들이 참석한 2026년 로큰롤 명예의 전당 헌액식의 주요 순간들이 공개되었다.",
-      "url": "https://www.billboard.com/lists/2026-rock-roll-hall-fame-ceremony-recap-best-moments/",
-      "source": "Billboard",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-15T11:12:25Z",
-      "storyKey": "canyoufeelitintheairtonight11bestmomentsfrom2026rockrollhalloffameinductionceremony",
-      "isNew": false
-    },
-    {
-      "title": "나사 보이저 1호 임무가 바꾼 목성에 대한 인류의 시각",
-      "summary": "나사의 보이저 1호가 우주 탐사 역사상 신기원을 열며 목성에 대한 인류의 과학적 시각을 영구적으로 변화시켰다.",
-      "url": "https://www.livescience.com/space/space-exploration/voyager-1-forever-changed-our-view-of-jupiter-space-photo-of-the-week",
-      "source": "Live Science",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-11-15T11:00:00Z",
-      "storyKey": "nasasvoyager1missionforeverchangedourviewofjupiterphotos",
-      "isNew": true
-    },
-    {
-      "title": "청와대, 국가자격시험 ‘AI 부정행위’ 의심 사례 전수조사 착수",
-      "summary": "자격시험에서 초소형 웨어러블과 AI를 활용한 부정행위가 드러나면서 청와대가 전수조사에 나섰다.",
-      "url": "https://www.hani.co.kr/arti/politics/bluehouse/1287415.html",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-15T09:46:00Z",
-      "storyKey": "청와대국가자격시험ai부정행위의심사례전수조사",
-      "isNew": false
-    },
-    {
-      "title": "코스피 상장사 3분의 1이 대주주 지분 과반 및 저PBR 기록",
-      "summary": "국내 코스피 상장사의 상당수가 대주주 지분이 과반을 차지하면서 저PBR 상태에 머물러 있는 것으로 나타났다.",
-      "url": "https://www.mk.co.kr/news/stock/12209373",
-      "source": "매일경제",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-11-15T08:33:02Z",
-      "storyKey": "단독코스피3분의1이대주주지분과반저pbr",
-      "isNew": true
-    },
-    {
-      "title": "‘회춘 영양제’ NAD의 배신… “건강하다면 복용 필요 없어”",
-      "summary": "노화 방지 영양제로 알려진 NAD가 건강한 사람에게는 굳이 먹을 이유가 없다는 지적이 나왔다.",
+      "title": "‘회춘 영양제’ NAD의 배신... “건강하면 굳이 먹을 이유 없어”",
+      "summary": "",
       "url": "https://www.chosun.com/economy/science/2026/11/15/SIP7M5ANJRFW3EWBONWPHY3MOY/",
       "source": "조선일보",
       "country": "한국",
@@ -277,19 +310,8 @@
       "isNew": false
     },
     {
-      "title": "AI 시대 맞아 사이버보안 교육체계의 대전환 필요성 제기",
-      "summary": "인공지능 시대의 도래에 따라 사이버보안 분야의 교육 체계를 전면적으로 전환해야 한다는 의견이 제기되었다.",
-      "url": "https://www.etnews.com/20261113000023",
-      "source": "전자신문",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-11-15T07:00:00Z",
-      "storyKey": "et시론ai시대사이버보안교육체계의대전환필요",
-      "isNew": false
-    },
-    {
-      "title": "젠슨 황 전기 작가 “겸손은 연기, 반대하면 폭언” 폭로",
-      "summary": "젠슨 황의 전기 작가가 그의 실제 성품과 관련한 일화를 폭로했다.",
+      "title": "\"겸손은 연기, 반대하면 폭언\"… 젠슨 황 전기 작가의 폭로",
+      "summary": "",
       "url": "https://www.chosun.com/economy/tech_it/2026/11/15/K627F2S2CNFL5NG7Z3VUZCPXLM/",
       "source": "조선일보",
       "country": "한국",
@@ -299,84 +321,17 @@
       "isNew": false
     },
     {
-      "title": "배우 고경표, 만취 운전 사고로 환경미화원 경상 피해 입혀",
-      "summary": "배우 고경표가 만취 상태로 운전하다 사고를 내어 청소업체 직원이 경상을 입는 일이 발생했다.",
+      "title": "[단독] 고경표 ’만취운전’ 사고로 청소업체 직원 1명 경상",
+      "summary": "",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20261115135356kCt",
       "source": "연합뉴스TV",
       "country": "한국",
       "category": "문화",
       "publishedAt": "2026-11-15T04:53:00Z",
       "storyKey": "단독고경표만취운전사고로청소업체직원1명경상",
-      "isNew": true
-    },
-    {
-      "title": "S&P 500 전망: 엔비디아 주가 하락에도 지수는 상승세 기록",
-      "summary": "엔비디아의 주가 하락에도 불구하고 S&P 500 지수는 상승세를 보이며 향후 전망을 이어가고 있다.",
-      "url": "https://www.stonex.com/en-gb/news-and-analysis/sandp-500-forecast-spx-rises-despite-nvidia-s-decline/",
-      "source": "StoneX",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-15T03:45:28Z",
-      "storyKey": "sp500forecastspxrisesdespitenvidiasdecline",
-      "isNew": false
-    },
-    {
-      "title": "한국 해군, F-35B 항모 대신 무인기 탑재 대형 모함 도입 결정",
-      "summary": "한국 해군이 F-35B 탑재 항공모함 계획을 철회하고 무인기 20대를 탑재하는 대형 모함을 선택했다.",
-      "url": "https://www.g-enews.com/article/Industry/2026/11/202611150721222083fbbec65dfb_1",
-      "source": "글로벌이코노믹",
-      "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-11-14T22:37:31Z",
-      "storyKey": "한국해군f35b항모접고무인기20대탑재270m대형모함택했다",
       "isNew": false
     }
   ],
-  "briefing": [
-    "한국과 미국을 비롯한 각국에서 시험 부정행위, 항공 대란, 최고경영자 거취 문제 등 사회 각 분야의 현안과 갈등이 수면 위로 떠오르고 있다.",
-    "인공지능(AI) 기술의 급격한 발전이 세무사 시험 부정행위나 사이버 보안 위협 등 새로운 사회적 과제와 부작용을 동시에 낳고 있다.",
-    "스포츠와 문화계에서는 국제대회 성적 부진과 범죄 및 사건 사고, 그리고 스타들의 복귀와 흥행 소식이 연이어 전해지고 있다."
-  ],
-  "trends": [
-    {
-      "category": "정치",
-      "summary": "한덕수 전 총리의 구속 만료와 내란 혐의 관련 재판 및 사법부의 판단을 두고 정치권의 공방이 이어지고 있다."
-    },
-    {
-      "category": "경제",
-      "summary": "미국 항공 대란의 원인과 예산 편성을 둘러싼 연방 의회와 행정부 간의 책임 공방이 이어지고 있다."
-    },
-    {
-      "category": "기술",
-      "summary": "한국 해군이 대형 무인기 탑재 모함 도입을 결정하는 등 국방 및 첨단 기술 분야의 전략 변화가 나타나고 있다."
-    },
-    {
-      "category": "문화",
-      "summary": "조니 뎁 주연 영화의 해외 흥행 성공과 로큰롤 명예의 전당 헌액식 등 대중문화계 소식이 주목받고 있다."
-    },
-    {
-      "category": "스포츠",
-      "summary": "한국 축구와 야구가 각각 국제대회에서 부진한 성적과 에이스 활용 논란을 겪으며 과제가 남겨졌다."
-    },
-    {
-      "category": "과학",
-      "summary": "스페이스X의 스타십 로켓 공중 포획 성공과 나사 보이저 1호의 탐사 성과 등 우주 탐사 분야의 굵직한 진전이 있었다."
-    },
-    {
-      "category": "IT",
-      "summary": "북한의 소프트웨어 관리자 대상 악성코드 유포 시도 등 사이버 보안 위협에 대한 경고가 이어지고 있다."
-    },
-    {
-      "category": "주식",
-      "summary": "엔비디아의 주가 변동과 맞물려 미국 주요 증시의 흐름이 주목받고 있으며, 국내 코스피는 저PBR 및 대주주 지분 집중 문제가 제기되었다."
-    },
-    {
-      "category": "사회",
-      "summary": "뉴욕 한인사회의 세계한상대회 방문단 파견과 전립선암 검사 지침 개정 등 각계의 사회적 활동이 활발하다."
-    },
-    {
-      "category": "AI",
-      "summary": "국가자격시험에서 초소형 카메라와 인공지능을 결합한 부정행위가 적발되어 정부가 전수조사에 착수했다."
-    }
-  ]
+  "briefing": [],
+  "trends": []
 }
