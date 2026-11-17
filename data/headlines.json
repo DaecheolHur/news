@@ -1,382 +1,337 @@
 {
-  "generatedAt": "2026-11-16T22:15:16.912106Z",
+  "generatedAt": "2026-11-17T04:37:04.012779Z",
   "items": [
     {
-      "title": "한국의 'AI 부정행위' 외신 집중 조명… \"시험 국가 신뢰 흔들려\"",
-      "summary": "한국에서 발생한 AI 부정행위 사건이 외신의 주목을 받으며 시험 제도에 대한 국가적 신뢰가 흔들리고 있다는 지적이 제기됐다.",
-      "url": "http://www.inews24.com/v/2026890",
-      "source": "아이뉴스24",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-11-16T22:12:06Z",
-      "storyKey": "ai부정행위외신도주목시험에대한국가신뢰흔들려",
-      "isNew": true
-    },
-    {
-      "title": "올겨울 텍사스가 코스피 운명을 결정한다",
-      "summary": "올겨울 텍사스의 상황이 코스피의 향방을 결정할 주요 변수로 작용할 전망이다.",
-      "url": "https://core.asiae.co.kr/article/2026111615282474397",
-      "source": "아시아경제",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-11-16T22:12:00Z",
-      "storyKey": "올겨울텍사스가코스피운명을결정한다",
-      "isNew": true
-    },
-    {
-      "title": "멤피스 대학교와 유니버시티 하이스쿨, AI 도입 방안 모색",
-      "summary": "멤피스 대학교와 유니버시티 하이스쿨이 교육 현장에서의 인공지능(AI) 도입 방안을 탐색하고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbTdyeFNNWmRwa3UxcGQwOHJ0QjRHZld4TGxfdWpfWnhFaU1KQmxaclZ2d3lPQjRBNEFOV0JxRExlX0VpSXEzTU5DWUx3WGthdFp3UUpkMFRSWG5nNWtXQmhRU2x5VWN2b2FRc0ZIWlhtUzcwYWxwRXFXTEtxMTk3Y2dVZDFmTzJMSE1jMnQwUGIxVzNBcDNHQ2VMV0laMEYwZnQ1VEZLZG1HTmlQWkdXR3A2NjBqeC0y?oc=5",
-      "source": "The Daily Helmsman",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-16T22:11:38Z",
-      "storyKey": "universityofmemphisuniversityhighschoolexploreaiimplementation",
-      "isNew": true
-    },
-    {
-      "title": "트럼프 행정부, 엔비디아 스캔들의 핵심인 상무부의 칩 규제 허점 폐쇄 지시",
-      "summary": "트럼프 행정부가 엔비디아 스캔들과 연관된 상무부의 반도체 수출 통제 허점을 메우라고 지시했다.",
-      "url": "https://www.washingtonpost.com/technology/2026/11/16/trump-officials-issue-rule-restrict-sales-ai-chips-china/",
-      "source": "The Washington Post",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-16T22:09:42Z",
-      "storyKey": "trumpadministrationorderscommercetoclosechiploopholeatheartofnvidiascandal",
-      "isNew": true
-    },
-    {
-      "title": "사이버 회복력 법: 디지털 요소가 포함된 제품에 대한 새로운 수평적 사이버 보안 의무",
-      "summary": "유럽연합 등의 사이버 회복력 법에 따라 디지털 요소가 포함된 제품에 새로운 수평적 사이버 보안 의무가 부과된다.",
-      "url": "https://www.jdsupra.com/legalnews/cyber-resilience-act-new-horizontal-3930160/",
-      "source": "JD Supra",
+      "title": "New U.S. export rule targets AI chip diversion through Brazil and Southeast Asia",
+      "summary": "",
+      "url": "https://www.latintimes.com/bis-ai-chip-export-controls-five-countries-601426",
+      "source": "Latin Times",
       "country": "미국",
       "category": "IT",
-      "publishedAt": "2026-11-16T22:08:11Z",
-      "storyKey": "cyberresilienceactnewhorizontalcybersecurityobligationsforproductswithdigitalelements",
+      "publishedAt": "2026-11-17T04:34:37Z",
+      "storyKey": "newusexportruletargetsaichipdiversionthroughbrazilandsoutheastasia",
       "isNew": true
     },
     {
-      "title": "체계적 문헌고찰 결과, 커넥티드 홈 연구는 클라우드 아키텍처에 크게 의존",
-      "summary": "최근 체계적 문헌고찰 연구에 따르면 커넥티드 홈 관련 연구들이 클라우드 아키텍처에 높은 의존도를 보이는 것으로 나타났다.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYmNuT05UNGNEUnFuSTlXNmMxdVJ5M0Z2UXVjYlJHSm94TDNVNlBraHE3NmpLOTFXTzRpdWxCWkJKcEI5UGZIRkNLLURubnNxQUJ0MEs4bnNPdV9EUmRuRlZuNmNPTE9xZmU3alBKUUVXN01hb3NvZVFyazN6b1AxMFNkaUxFQWZLSFc2dUVTc19Da01ZN2FNeG51UDg5aG1zMk9IMXZMczVxQ0J1LXBj?oc=5",
-      "source": "Bioengineer.org",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-11-16T22:07:41Z",
-      "storyKey": "systematicreviewfindsconnectedhomeresearchreliesheavilyoncloudarchitectures",
-      "isNew": true
-    },
-    {
-      "title": "[국장방향예측] 코스피 1.08% 하락, SK하이닉스 2.29% 하락",
-      "summary": "국내 증시에서 코스피와 SK하이닉스가 각각 1.08%와 2.29% 하락세를 기록했다.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51U2JiTXBZT2NnOFJNTDUzLU1LYUpjZmhUM0RrYWRya0x5VHQ0elFmNlpacTQwcy1Jemd4QnZITFZzamZrNkEtZWFsa2V4bnBvXzl2YW1TS084bHVMUkFpZkQ3anFqeVktVE5weVJ0c3NXZw?oc=5",
-      "source": "디지털애셋",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-11-16T22:05:00Z",
-      "storyKey": "국장방향예측코스피108sk하이닉스229",
-      "isNew": true
-    },
-    {
-      "title": "체이스 은행, 월요일 미국 온라인 뱅킹 서비스 중단의 원인은 소프트웨어 버그",
-      "summary": "체이스 은행은 최근 발생한 미국 내 온라인 뱅킹 접속 장애 사태의 원인이 소프트웨어 버그 때문이라고 밝혔다.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aWkhBY0piWVJqNDE1UVZBVkcyc3lzS3FoWkZVOGNQVU1BbnJFN0ExdERmTEFEdDZvRVlfRlRjODFLVDlyQlh5VWVOY1ZKSk13T3ZUUlNCclphUFhoMHNBMDBxbXJ3WkZIelVNYks0WmVNSUU?oc=5",
-      "source": "The Next Web",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-11-16T22:04:15Z",
-      "storyKey": "chaseblamesasoftwarebugformondaysusonlinebankingoutages",
-      "isNew": true
-    },
-    {
-      "title": "갯벌 고립 위험 AI로 예측… 소방청, 구조 지원 서비스 개발",
-      "summary": "소방청이 인공지능 기술을 활용해 갯벌 고립 위험을 사전에 예측하고 구조를 지원하는 서비스를 개발했다.",
-      "url": "https://www.sciencetimes.co.kr/nscvrg/view/menu/255?searchCategory=226&nscvrgSn=262681",
-      "source": "사이언스타임즈",
+      "title": "델 테크놀로지스, 엔비디아 기반 AI 팩토리 확장... 에이전틱 AI 인프라 강화",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkSF9fRWsyZlBsUm0ydy1HLXI2RVZCdHo4MFA3a3lFanM1RmVreTVMM1FBdjFnUXJ4U3c2dFBJcmU5TDA5ckV3TXFzTEpiVndBWG5tNkhISXVacnl4dmFtWm50d2twNklKTXBN?oc=5",
+      "source": "보안뉴스",
       "country": "한국",
       "category": "AI",
-      "publishedAt": "2026-11-16T22:02:58Z",
-      "storyKey": "갯벌고립위험ai로예측소방청구조지원서비스개발",
+      "publishedAt": "2026-11-17T04:28:00Z",
+      "storyKey": "델테크놀로지스엔비디아기반ai팩토리확장에이전틱ai인프라강화",
       "isNew": true
     },
     {
-      "title": "고소득 부모일수록 AI를 더 적극적으로 사용하고 자녀에게도 권장",
-      "summary": "고소득 계층의 부모들이 인공지능 도구를 더 빈번하게 활용하며 자녀들에게도 사용을 권장하는 경향이 나타났다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SRUdIazlwb1ZJQTRQLTVITkVsZ0JxaE53RllLd0pwR1lPVTlOSHYxTzRzaUhabG1mN0V3aC16bFhUM2JPdG91bFFOMlpLck1WN0V5WmNOZHk0X0tuQ3ByU1VLc0FMMkVHcWtGZw?oc=5",
-      "source": "디지털포용뉴스",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-11-16T22:01:03Z",
-      "storyKey": "고소득부모가ai를더쓰고자녀에게도쓰라고권한다",
-      "isNew": true
-    },
-    {
-      "title": "[우분투칼럼] 서울에서 보낸 1년, 아프리카 외교의 두 숨은 다리",
-      "summary": "서울에서의 1년을 바탕으로 아프리카 외교를 잇는 두 가지 숨은 가교 역할을 조명하는 칼럼이다.",
-      "url": "https://www.yna.co.kr/view/AKR20261110151500898",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-11-16T22:00:03Z",
-      "storyKey": "우분투칼럼서울에서보낸1년아프리카외교의두숨은다리",
-      "isNew": true
-    },
-    {
-      "title": "FA 시장 본격 개장… 복잡한 삼성 라이온즈와 각 구단 안방 요동",
-      "summary": "프로야구 FA 시장이 본격적으로 문을 연 가운데, kt 6명, SSG 3명 등이 신청했고 포수 4인방의 거취로 각 구단이 치열한 셈법에 들어갔다.",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aRmhIRE1XRzd6cDRLUWJCYTFabVFJTXZEcDl2ZmFVXzNZVWNnNzJUX1hLQjZsazNKUFBlVThDaFRPdG5UTEVuT1p3Nlg?oc=5",
-      "source": "대구MBC",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-16T21:46:17Z",
-      "storyKey": "fa시장본격개장복잡한삼성라이온즈이번에도돌아온연어효과",
-      "isNew": true
-    },
-    {
-      "title": "태극전사, 오늘 카타르와 올해 마지막 A매치… 손흥민 60호골 재도전",
-      "summary": "대표팀이 카타르와 올해 마지막 A매치를 치르는 가운데, 임시 감독 체제에 대한 우려와 손흥민의 60호골 도전 및 이강인의 활약에 관심이 집중된다.",
-      "url": "https://www.donga.com/news/Sports/article/all/20261117/135036267/1",
-      "source": "동아일보",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-16T21:12:17Z",
-      "storyKey": "태극전사오늘카타르와올해마지막a매치손흥민60호골재도전",
-      "isNew": true
-    },
-    {
-      "title": "연준 의장, AI 붐이 가져올 경제적 불확실성 언급",
-      "summary": "미국 연방준비제도 의장이 인공지능(AI) 붐이 경제에 미칠 불확실성에 대해 강조했다.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBYTdqekVHWUZKSGtDNktJaDFJZTgxX3VmdW9qVUphVVl2SjdUSUtyd2kzUVhoUnhVVm5kOTgxY2h3MmlqdUplcmQ3WDNjVEYxRGN4aUVFUFBUcWdsZWVWTzJNX2ZoNV85MWxxMEJDZ213ZFlZTEpSWkFUR3ZGdw?oc=5",
-      "source": "The New York Times",
+      "title": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+      "source": "CNBC",
       "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-16T21:08:30Z",
-      "storyKey": "fedchairmanhighlightseconomicuncertaintyofaiboom",
-      "isNew": true
-    },
-    {
-      "title": "월스트리트, 엔비디아 실적 발표와 앤스로픽 IPO 앞두고 AI 우려로 급락 마감",
-      "summary": "엔비디아의 실적 발표와 앤스로픽의 기업공개를 앞두고 AI 관련 우려가 커지면서 월스트리트 증시가 급락세로 마감했다.",
-      "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-slide-nvidia-earnings-anthropic-debut-loom-2026-11-16/",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-16T21:01:11Z",
-      "storyKey": "wallstreetendssharplyloweronaijittersaheadofnvidiaresultsanthropicipo",
-      "isNew": true
-    },
-    {
-      "title": "세무사 시험 수석 'AI 커닝'에 외신도 충격… \"수능 앞둔 한국 초비상\"",
-      "summary": "세무사 시험 수석 합격자의 AI 부정행위 소식이 외신에 보도되며 수능을 앞둔 국내 시험 관리에 비상이 걸렸다.",
-      "url": "https://www.mt.co.kr/world/2026/11/17/2026111705512459124",
-      "source": "머니투데이",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-11-16T20:54:25Z",
-      "storyKey": "세무사시험수석ai커닝에외신도충격수능앞둔한국초비상머니투데이",
-      "isNew": true
-    },
-    {
-      "title": "엔비디아 실적 및 앤스로픽 IPO 앞두고 증시 하락",
-      "summary": "엔비디아 실적 발표와 앤스로픽 IPO를 대기하며 글로벌 증시가 하락세를 보였다.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
-      "source": "Bloomberg.com",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-16T20:03:49Z",
-      "storyKey": "stocksfallbeforenvidiaearningsanthropicipomarketswrap",
-      "isNew": true
-    },
-    {
-      "title": "“절대 티 안 난다”… 전공시험 때 쓰이는 AI 안경 대여 문의 급증",
-      "summary": "적발이 어렵다는 점을 내세워 전공시험 등에 부정행위용으로 쓰이는 AI 안경 대여 문의가 이어지고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Zbm5QVjVBRjdOSnJ0NkpkNDNTUVNfbkRyc0ZQMFdVbmVvN2hNSi1KN2xZVFlXZkxvUnNBNlB1WTVmXzdGbjJWNTQ2R05aOFdBSWlpdHgxcWZFMG9fODFlQS1LSU9yUENlX21NZHBnYzVGZw?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-11-16T17:28:00Z",
-      "storyKey": "절대티안나요전공시험때성공ai안경대여문의해보니",
-      "isNew": true
-    },
-    {
-      "title": "수능 AI 커닝, 와이파이 차단해도 가능… 정부, 스마트기기 반납 및 통신 차단 추진",
-      "summary": "정부가 수능 시험장에서 모든 스마트기기 반납과 공공 와이파이 차단 등 AI 부정행위를 막기 위한 대책을 추진하고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GRXF2MTljSHAySUQ4MU9oRUNtZEFCRG54REFSb0lQcklzRGctS1pHVkp5ck1GbHJtVGJaVkRqa0hqeG1ESjFXN240RmluQmlwYld0eVVWYkpWQm5tSDNiYW9SVlpTRzk0UHc?oc=5",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-16T17:15:00Z",
-      "storyKey": "수능ai커닝와이파이막아도가능통신차단땐주변피해",
-      "isNew": true
-    },
-    {
-      "title": "구글, 에이전틱 AI 프레임워크가 해킹 위협을 '변곡점'으로 밀어 올린다고 경고",
-      "summary": "구글은 에이전틱 AI 프레임워크의 등장으로 해킹 위협이 새로운 변곡점을 맞이하고 있다고 경고했다.",
-      "url": "https://www.cybersecuritydive.com/news/ai-agentic-frameworks-artex-google-fbi/874753/",
-      "source": "Cybersecurity Dive",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-11-16T16:43:41Z",
-      "storyKey": "agenticaiframeworkspushhackingthreattoinflectionpointgooglewarns",
-      "isNew": true
-    },
-    {
-      "title": "아레나를 넘어: TCU 로치 우수 강좌, ‘헝거게임’ 통해 문화 탐구",
-      "summary": "TCU의 로치 우수 강좌가 소설 '헝거게임'을 통해 현대 문화를 다각도로 탐구하는 과정을 소개한다.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR2tSZDZVVXRfaktTQjVpWllvNHI0SDZNODlzTHlidWRBRmxFY3NYZ2xJV1NLZWQ5eEhYeGI1THZLbUlNRU02aEtTQWdVbkdUV2tsMDV2WC1Ia1cwUWo2MmJYeXNPclJjVVA3QXR4eDVRU1hIdXJRNlFGWVUxOEs1Vy1rREVpRmF0S29udloxU3JXZFdILUM0?oc=5",
-      "source": "Texas Christian University",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-11-16T16:18:58Z",
-      "storyKey": "beyondthearenatcuroachhonorscourseexploresculturethroughthehungergames",
-      "isNew": true
-    },
-    {
-      "title": "클렘슨 대학교, 인공지능 분야 신규 학위 프로그램 3개 신설",
-      "summary": "클렘슨 대학교가 인공지능 분야의 전문 인재 양성을 위해 세 개의 새로운 학위 프로그램을 신설한다.",
-      "url": "https://news.clemson.edu/clemson-university-to-launch-three-new-degree-programs-in-artificial-intelligence/",
-      "source": "Clemson News",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-16T15:32:17Z",
-      "storyKey": "clemsonuniversitytolaunchthreenewdegreeprogramsinartificialintelligence",
-      "isNew": true
-    },
-    {
-      "title": "구글 맵, 이제 맞춤형 여행 일정 생성 기능 지원",
-      "summary": "구글 맵이 새로운 'Ask Maps' 챗봇 기능을 통해 여행 일정 생성 및 예약 업무 등의 편의 기능을 제공하기 시작했다.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFUGVUSTZZVnZCallCS3c1bENEZDM5cDRrOVlPa21XSExrSld0cDFMcEhZR0lKeWo3SWVtUFAyOXlmTmVqUlhnT0FQbTFKeXQxRzJnQnhMWXM0RWZtNllIY0x5SVhXM3Q1LXN4bzhiSEt4a2c2eTdhcENB?oc=5",
-      "source": "The Verge",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-11-16T14:00:00Z",
-      "storyKey": "googlemapscannowcreatetripitinerariesforyou",
-      "isNew": true
-    },
-    {
-      "title": "라이온스 에이단 허치슨, 무릎 부상으로 시즌 아웃",
-      "summary": "디트로이트 라이온스의 에이단 허치슨이 세레머니 도중 무릎 전방십자인대 파열 부상을 입어 2026 시즌 경기에 출전할 수 없게 되었다.",
-      "url": "https://www.espn.com/nfl/story/_/id/50501291/sources-aidan-hutchinson-season-torn-acl",
-      "source": "ESPN",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-16T13:54:00Z",
-      "storyKey": "sourceslionsaidanhutchinsonoutforseasonwithkneeinjury",
-      "isNew": true
-    },
-    {
-      "title": "엔비디아의 돈줄 죄기… 젠슨 황 퇴진 이후 AI 생태계 ‘자금 절벽’ 경고음",
-      "summary": "엔비디아를 둘러싼 자금 흐름 변화와 관련해 젠슨 황 이후 AI 생태계에 자금 절벽이 닥칠 수 있다는 우려가 제기되고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMklCZXlyT19Rck5XTnBxdV9OdGZUY3JoY0xzMGt3ZFNuS1QwZVBHV3VEZFR4bllRMTMzV3ZZZFdIOWdQa0ViRnNZNDNZRjdhX2YyQVNWT1NzNnNnSFMwXzFOYkMxdEVVYnVHaVRtQldNUXItN1RZSDJwZ21kbWdUaDNR0gGWAUFVX3lxTE5XU0s3X0xIbXBMd1dCTGhSMzdoLTZFNDVzNlIwVDhpa0VoVDlxdllhNnV1QmllTHZESHBfY0RGcTFDS0NSYkVncUtYU1VGZmdXTEJwSDNwcjJYd09oVUVEWV9nV2JXZXRCZmNiTkZ1WHVxTi1DT0RuSml0bjd1SEtoX3UtT0JsZHhYa29fcnpIMTFoYjBiZw?oc=5",
-      "source": "Chosunbiz",
-      "country": "한국",
       "category": "경제",
-      "publishedAt": "2026-11-16T11:56:00Z",
-      "storyKey": "돈줄죄는엔비디아젠슨황퇴진이후ai생태계자금절벽경고음",
+      "publishedAt": "2026-11-17T04:27:00Z",
+      "storyKey": "stockfuturesarelittlechangedafternvidiapressurestechtostarttheweekliveupdates",
       "isNew": true
     },
     {
-      "title": "이번 주 사자자리 유성우 관측 가능… '모든 것의 시작이었던 유성우'",
-      "summary": "역사적인 유성우의 기원이 된 사자자리 유성우가 이번 주 밤하늘에 펼쳐질 예정이어서 관측에 대한 기대가 모이고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0aUdGcnBMR2w5ZlZIT2oyNWFuU1RYdnN3NHdpZnJyNkdLenR4VS00TmlPSGhEVVBxaTl6eS1WMVdsZk84Tm9lQlkxWHVuczNRVjJ0VzB2Y3RhOEVKU28xdFBLeHAwTGFJVnNldWNiYlVidw?oc=5",
-      "source": "CNN",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-11-16T11:00:15Z",
-      "storyKey": "seetheleonidmeteorsthisweektheshowerthatstarteditall",
+      "title": "장성 종오리 농장서 AI 항원 검출…고병원성 검사 진행",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nbDNxYkVpcGlXR01FVG80aHBIVnhoT2F0NmltZzdHSW9ibjZVd0c3enctVFBsNlFwTFJEeVd4V1pYbmtjMEhnNjRSWjFuVWRIRUJwLUtvc1AwRWk2TU5XSGhB?oc=5",
+      "source": "KBC광주방송",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-11-17T04:26:20Z",
+      "storyKey": "장성종오리농장서ai항원검출고병원성검사진행",
       "isNew": true
     },
     {
-      "title": "나사(NASA)의 성간 탐사선 보이저 1호, 우주 비행 약 50년 만에 지구에서 1광일 거리 도달 임박",
-      "summary": "우주에서 거의 50년을 보낸 나사의 보이저 1호 탐사선이 지구로부터 1광일 떨어진 역사적인 거리 기록 달성을 앞두고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZkNxMk55c0NhYzNNVW5ySEVUbHdTQWlGVm00dFgzdlA1Ukc1UlBPcENPWEJDbFV5ekRNb29YN1p5VHA0Q2w1Q3UzNU9fcERuUUNFVENZUTdQcWZDMDBLU3BLdjEySjY5WG5mUzBfWVhfYkhrVGxoejhhQXBlY2NEQ3ltLXM5TXlnY3NGS0FNeGw0bW1vTFlyNjZSY0JjZ3lCQXFxbERmSXRLUnI0VWVfcE9oSWJwcTcwdDVaeHVqUG5lZjhDNm95d2paUHJlMTZvUGxDVG5jUk1XWEc3R1BtT2ZBSVZ2ajJLRnc?oc=5",
-      "source": "Space",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-11-16T11:00:00Z",
-      "storyKey": "nasasinterstellarvoyager1probeisabouttoreach1lightdayfromearthafternearly50yearsinspace",
+      "title": "[복지뉴스] AI는 복지를 어떻게 바꿀까…‘사회보장 AI 심포지엄’ 13일부터 사전등록 外",
+      "summary": "",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=156975",
+      "source": "베이비뉴스",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-11-17T03:13:29Z",
+      "storyKey": "복지뉴스ai는복지를어떻게바꿀까사회보장ai심포지엄13일부터사전등록",
       "isNew": true
     },
     {
-      "title": "코스피 3.59% 급락해 5,100선 후퇴… 코스닥도 4.8% 하락",
-      "summary": "국내 증시에서 코스피가 3.59% 급락하며 5,100선으로 밀려났고 코스닥도 4.8% 동반 하락했다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56TDBhNzh6OEFvMXV3QVhMTGN4MFo5Q1BUVm82cWhUZ3NneGp4X1JXRWRNcnQ5RHg5Y0h6cjNHQ3ZyWXFvVUh2Z2YzTTM4ek1UMWdZSDViNGMwUk3SAWBBVV95cUxQd1JoVXB6dDJpVXRnYnFMZkFxdF9lN0sxZHBLQTVicnRHc1MyLXVScXMyNHRsTWJlUmdCbGlMbHlVdndFX2FaWk1GbWFqME91WW1xSzFRX3UwSmVxVGJqdWk?oc=5",
-      "source": "연합뉴스",
+      "title": "엔비디아·AI 규제 투매 여파...코스피, 사흘 째 하락",
+      "summary": "",
+      "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611171155331063_005.html",
+      "source": "YTN",
       "country": "한국",
       "category": "주식",
-      "publishedAt": "2026-11-16T07:10:48Z",
-      "storyKey": "코스피359급락5100선으로후퇴코스닥도48종합",
-      "isNew": false
+      "publishedAt": "2026-11-17T02:55:00Z",
+      "storyKey": "엔비디아ai규제투매여파코스피사흘째하락",
+      "isNew": true
     },
     {
-      "title": "법원행정처장 “한덕수 판결문 대략 완성… 법리에 따라 판단”",
-      "summary": "법원행정처장이 한덕수 관련 판결문이 대략 완성되었으며 법리에 따라 판단할 것이라고 입장을 밝혔다.",
-      "url": "https://imnews.imbc.com/news/2026/society/article/6865985_36918.html",
+      "title": "AI안경도 이어폰도 없었다…세무사 수석이 본 ‘비밀 화면’",
+      "summary": "",
+      "url": "https://www.joongang.co.kr/article/25479219",
+      "source": "중앙일보",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-11-17T02:50:16Z",
+      "storyKey": "ai안경도이어폰도없었다세무사수석이본비밀화면",
+      "isNew": true
+    },
+    {
+      "title": "황인범 \"임시 감독 체제, 대표팀에 긍정적이지 않다\"",
+      "summary": "",
+      "url": "https://www.kyeonggi.com/article/20261117580068",
+      "source": "경기일보",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-17T02:49:29Z",
+      "storyKey": "황인범임시감독체제대표팀에긍정적이지않다",
+      "isNew": true
+    },
+    {
+      "title": "[속보] 정부, 총리 주재 국무회의에서 '조작기소 특검법' 의결",
+      "summary": "",
+      "url": "https://imnews.imbc.com/news/2026/politics/article/6866240_36911.html",
       "source": "MBC 뉴스",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-11-16T05:38:15Z",
-      "storyKey": "법원행정처장한덕수판결문대략완성법리따라판단",
+      "publishedAt": "2026-11-17T02:35:15Z",
+      "storyKey": "속보정부총리주재국무회의에서조작기소특검법의결",
       "isNew": true
     },
     {
-      "title": "고경표, 음주운전 물의 사과… 팬미팅 취소 및 광고 활동 차질",
-      "summary": "배우 고경표가 음주운전 사고로 인해 팬미팅을 취소하고 사과했으며, 경찰이 치상 혐의 검토와 함께 광고 활동에도 타격을 입었다.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTZlUzSDFGNWRBMTFCR19oZnJjLTRLbE85UHdicWJheWkwQjdLLXUyR3A1UTIzbjJUMjNqaXktZlRBV3M4VzVVUUM5SV9wX1B1emNzeENYdUlpeC1jby1nQmFFTHNqMmZDV09HQU00d2NaUQ?oc=5",
+      "title": "Artificial intelligence and spirituality",
+      "summary": "",
+      "url": "https://raed.academy/en/artificial-intelligence-and-spirituality/",
+      "source": "Real Academia Europea de Doctores",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-17T01:29:15Z",
+      "storyKey": "artificialintelligenceandspirituality",
+      "isNew": true
+    },
+    {
+      "title": "호주 2위 유통업체 콜스, 사이버 보안 사고 조사 착수",
+      "summary": "",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147317",
+      "source": "보안뉴스",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-17T01:21:00Z",
+      "storyKey": "호주2위유통업체콜스사이버보안사고조사착수",
+      "isNew": true
+    },
+    {
+      "title": "“두산서 은퇴하고 싶었다” 39살 양의지, 2년 최대 55억 FA 계약",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/sports/baseball/1287664.html",
       "source": "한겨레",
       "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-17T01:11:00Z",
+      "storyKey": "두산서은퇴하고싶었다39살양의지2년최대55억fa계약",
+      "isNew": true
+    },
+    {
+      "title": "“차별금지법 제정의 가장 큰 걸림돌, ‘가짜뉴스’”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZFhrV3BaSkJIUE1QVTJsMDY4TmhzMjdKX3Jnc3pCdnI4bUZnUGQzdFVpcUN6Ykl1WWxQc3pha2tKdmtKYy1HeFJIanZtdGMwanNyR0hwem1NVkJpLUl0UVhuLVNOR1UyMGc?oc=5",
+      "source": "불교IN",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-11-17T01:08:45Z",
+      "storyKey": "차별금지법제정의가장큰걸림돌가짜뉴스",
+      "isNew": true
+    },
+    {
+      "title": "한국선급, 선박 사이버보안·AI 안전관리 대응 강화…국제 해사규제 변화 점검",
+      "summary": "",
+      "url": "http://www.haesanews.com/news/articleView.html?idxno=152811",
+      "source": "해사신문",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-17T00:56:00Z",
+      "storyKey": "한국선급선박사이버보안ai안전관리대응강화국제해사규제변화점검",
+      "isNew": true
+    },
+    {
+      "title": "‘AI 커닝’ 세무사 수석 합격자 경찰 출석…“잘못 책임지겠다”",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/society/society_general/1287657.html",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-17T00:46:00Z",
+      "storyKey": "ai커닝세무사수석합격자경찰출석잘못책임지겠다",
+      "isNew": true
+    },
+    {
+      "title": "Bridges of Peace: Kure Pier 6 safety officer promotes community safety, local history off duty",
+      "summary": "",
+      "url": "https://www.army.mil/article-amp/296812/bridges_of_peace_kure_pier_6_safety_officer_promotes_community_safety_local_history_off_duty",
+      "source": "Army.mil",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-11-17T00:41:36Z",
+      "storyKey": "bridgesofpeacekurepier6safetyofficerpromotescommunitysafetylocalhistoryoffduty",
+      "isNew": true
+    },
+    {
+      "title": "빌 애크먼, 젠슨 황 복귀 시나리오 제시…\"임시주총 제안\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZdUhKR1VhREduZE1TbnpLeWxfYmV1VVduQW40RDE5b25LOGN2U2RlX1VDbXdSaWR6ai10ZVo5ZVNfbHdvMlpJZl9UdjVCVURMa1JFNmUtRmp5VGRqVmw2bGdtblZTTFpESURlWWxXWVTSAXRBVV95cUxOTzlYZWNISFZIb2xTZEZBUmo5bF8wNEVUeTh3cThidGNuUG83a0pLVHFGWmk3X0l4TERwR3lUMFlQNGJoZ3k0elVsXzBBbzJWNVJrTVlCV0twc21qZHdaOG1nYnp6eW5IU3ZzWllmekc3cktrMw?oc=5",
+      "source": "연합인포맥스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-11-17T00:39:00Z",
+      "storyKey": "빌애크먼젠슨황복귀시나리오제시임시주총제안",
+      "isNew": true
+    },
+    {
+      "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
+      "source": "AP News",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-17T00:23:00Z",
+      "storyKey": "atechnicalissueatjpmorganchasetriggersonlinebankingdelaysformajorusbanks",
+      "isNew": true
+    },
+    {
+      "title": "The year ahead will be crunch time for artificial intelligence",
+      "summary": "",
+      "url": "https://www.economist.com/the-world-ahead/2026/11/17/the-year-ahead-will-be-crunch-time-for-artificial-intelligence",
+      "source": "The Economist",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-17T00:06:50Z",
+      "storyKey": "theyearaheadwillbecrunchtimeforartificialintelligence",
+      "isNew": true
+    },
+    {
+      "title": "Robert Pattinson Manifested His James Bond Casting 14 Years Ago",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTduMkJWUThpOUFXSTVoQ0tod2EzN295a01ZTTdZZEREZEtCbS1LR1hxUExMY3ozanEtQ3k3ZEJYVjRLRGtZai1Fd0JWWFJLLXdIWlN5N3NqVkxoOHhXdGhlMmYyOXYzWGRsbExRNWxsc0tNcGhzeGJrX0V5a0tSeGk2SEdyNTFiWnc2cHF4VmNMN1ZLZ1lFRnF4MWMwRmR4TVI2SlNaMzQ3Sk5vLTl2Y1BRQm1Fdw?oc=5",
+      "source": "The Hollywood Reporter",
+      "country": "미국",
       "category": "문화",
-      "publishedAt": "2026-11-16T01:25:00Z",
-      "storyKey": "고경표하지말라던음주운전내가했다주머니에넣은건차키",
+      "publishedAt": "2026-11-16T23:49:46Z",
+      "storyKey": "robertpattinsonmanifestedhisjamesbondcasting14yearsago",
+      "isNew": true
+    },
+    {
+      "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-16T23:45:50Z",
+      "storyKey": "wallstreetendssharplyloweronaijittersaheadofnvidiaresultsanthropicipo",
+      "isNew": false
+    },
+    {
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGFwOTNlbFZZc1BjNzRlMncxb0hoMF9CM0ppM0t1QWhhTk9wSDJzeXRmSi1LWE9aVk1IS1BzR05FNXkyZ2JRanROWjNLMHl4MEV1VHBOWjdaa2VnVUtGXzg5X2JNeGxYdnZHWVI2MXNWNHNORVR0Q3RXOWx2NnFmaElITmFWdUh4MnMwNVVwVQ?oc=5",
+      "source": "The Verge",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-16T22:54:59Z",
+      "storyKey": "unitedairlinessystemoutagedisruptsdeparturesjustdaysafterthebiggroundstop",
+      "isNew": true
+    },
+    {
+      "title": "EFF’s AI Cybersecurity Policy Framework",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRlFpWktDT0ppRUdhVUF1aG04MzhIa1JSUEZKai1SQ2VpNHZIVWdRV1h0MEpMUk44OXYyN3JfQXUwOHdSaWpNQmlFSlJxb2k1Tk90cHZQeW1NSDFLc1BkeklGZmdmNXpPZ3NHb251Y3l4dnk0OHUya0V2anplWldTbmpB?oc=5",
+      "source": "Electronic Frontier Foundation",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-11-16T22:50:00Z",
+      "storyKey": "effsaicybersecuritypolicyframework",
+      "isNew": true
+    },
+    {
+      "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
+      "summary": "",
+      "url": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-ella-langley-raye-rosalia.html",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-11-16T22:25:20Z",
+      "storyKey": "rayerosalaandellalangleytopawomenled2027grammysfield",
+      "isNew": true
+    },
+    {
+      "title": "U.S. Stocks Extend Slide on Nvidia, China Fears",
+      "summary": "",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-slide-on-nvidia-china-fears-ea169587",
+      "source": "WSJ",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-16T22:06:00Z",
+      "storyKey": "usstocksextendslideonnvidiachinafears",
+      "isNew": true
+    },
+    {
+      "title": "엔비디아 독주 흔들리면 구글·AMD로 HBM 공급 분산… “삼성전자가 최대 수혜자”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT1Jhang1bkJKcURhVkdlT0t3ckM3ZW44YTg3eHRxenUwM3FVWkJjVG1BUEU2UEROX3RqcFNJeWdXLWdHVU0yU3NVVmU4MExmaXpxQmYzVDZpQXQ5NG9RMndMVDZfbS00MFAyQ2J5YUNxa3AyYVI1ZUEyTERXQWx5SEhR0gGWAUFVX3lxTE1obFFDTnYwVEZSbG1HeXpMZW0xVExRU3JQLXhVOFlid1lCZWl4dTk0SjBpTkY0SFR5UUg4emJnMVN3ZDdBQnluSDRSa2FubUVxZ3RUVEV6cXBvcXl5UFk2cWFaSWtDUV9JU3RuN0xMNlJ2YmxGRUNnZmlIVHItNmFfT3RmaGNQWE1mWVJuMFRFZ0JrNG9Bdw?oc=5",
+      "source": "Chosunbiz",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-11-16T21:04:31Z",
+      "storyKey": "엔비디아독주흔들리면구글amd로hbm공급분산삼성전자가최대수혜자",
+      "isNew": true
+    },
+    {
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkNnb0JyWWVtVWhWbGRSd1QxRDRSZld4aGtaTU82Vzk1Z1hBUzRNd0I2TkFCSmlGaWE2WGRaN09jX1hIZ3p0VXRKZTBoYWg0RVZpVTFOQXBSd0dTc1NGU1ZFMTYzRVNyLUxtRXpEbTk4TTZvZ2RMUkJ5ckI0dTdOY1lXaEtCYnNIVXlwTjE2U2E3RW9EOW9sNzFTeXpDdktmM05iU0N3?oc=5",
+      "source": "The Verge",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-11-16T19:24:40Z",
+      "storyKey": "appleistestingdailyusagelimitsformorecomplexsiriaiinteractions",
+      "isNew": true
+    },
+    {
+      "title": "NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit",
+      "summary": "",
+      "url": "https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/",
+      "source": "ABC7 New York",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-11-16T18:55:00Z",
+      "storyKey": "nypdsrgdisbandedmamdanitischonnycprotestunit",
+      "isNew": true
+    },
+    {
+      "title": "AI 안경 썼더니, 2026 수능 수학 딱 한 개 틀렸다···22분 만에 ‘98점’",
+      "summary": "",
+      "url": "https://www.khan.co.kr/article/202611162114005",
+      "source": "경향신문",
+      "country": "한국",
+      "category": "과학",
+      "publishedAt": "2026-11-16T12:14:00Z",
+      "storyKey": "ai안경썼더니2026수능수학딱한개틀렸다22분만에98점",
+      "isNew": true
+    },
+    {
+      "title": "“젠슨 황 ‘자아도취적 쾌감’에 푹 빠져…식당서 1000달러 팁 주기도”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZV1FvS0F5a1J2ZmZnczBKRmJiSVpoN0Q3dXEzWXM5S3VKVnB2QUJqS1BFRlNMRWtoRVhXdC1SWjdDbmEtcGYwX2RwNGFZSUw4dkN3cDd2SFFJNHlJQWtYZk5CNnRkNS1ReXBHQlRKRzBYRU3SAWZBVV95cUxPT19ySFYtR2lNQkNvMDRZekJ4ZTdqRTB0UlpHVDFQYUZ6QURkaW1wZzcyM01RSHYwaEtTWUtjMDBYQlVRM2tzNkNpRDRpRFBNclNlaGhNZFRhYnV1N3NtUWtuYVFyNVE?oc=5",
+      "source": "동아일보",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-11-16T03:00:00Z",
+      "storyKey": "젠슨황자아도취적쾌감에푹빠져식당서1000달러팁주기도",
       "isNew": true
     }
   ],
-  "briefing": [
-    "AI 기술이 시험 부정행위, 보안 위협, 소방 구조 등 사회 전반의 핵심 화두로 부상하며 명암을 동시에 드러내고 있다.",
-    "엔비디아 실적 발표와 텍사스 변수, 앤스로픽 IPO 등을 앞두고 글로벌 증시와 국내 코스피가 큰 폭의 변동성과 하락세를 보였다.",
-    "프로야구 FA 시장 개막과 축구 국가대표팀의 A매치 등 스포츠 분야의 주요 일정과 선수들의 거취에 관심이 집중되고 있다."
-  ],
-  "trends": [
-    {
-      "category": "정치",
-      "summary": "사법부의 주요 판결과 수능 시험장 통신 차단 등 정부의 보안 대책을 둘러싼 정치·행정적 논의가 이어지고 있다."
-    },
-    {
-      "category": "경제",
-      "summary": "AI 붐에 따른 자금 흐름 변화와 글로벌 거시경제적 불확실성이 시장 전반에 경고음을 울리고 있다."
-    },
-    {
-      "category": "기술",
-      "summary": "구글 맵의 AI 챗봇 기능 도입 등 일상과 여행을 돕는 실용적 기술 서비스가 확대되고 있다."
-    },
-    {
-      "category": "문화",
-      "summary": "대중문화 콘텐츠를 활용한 이색 대학 강좌가 운영되는 한편 연예인의 일탈로 인한 문화 예술계의 타격이 보도됐다."
-    },
-    {
-      "category": "스포츠",
-      "summary": "프로야구 FA 시장이 열리고 축구 국가대표팀의 카타르전 A매치가 진행되는 등 스포츠계가 활기를 띠고 있다."
-    },
-    {
-      "category": "과학",
-      "summary": "나사의 보이저 1호가 우주 탐사 역사상 기념비적인 거리 기록 경신을 목전에 두고 있다."
-    },
-    {
-      "category": "IT",
-      "summary": "사이버 회복력 법 시행과 온라인 뱅킹 장애, 클라우드 의존도 높은 커넥티드 홈 연구 등이 주목받고 있다."
-    },
-    {
-      "category": "주식",
-      "summary": "엔비디아 실적 발표와 대외적 요인들로 인해 코스피와 월스트리트 증시가 동반 급락세를 기록했다."
-    },
-    {
-      "category": "사회",
-      "summary": "AI를 악용한 시험 부정행위가 수능과 자격증 시험을 앞둔 사회 각계에 큰 충격을 주고 있다."
-    },
-    {
-      "category": "AI",
-      "summary": "교육 현장에서의 AI 도입과 고소득층의 AI 활용 증가, 에이전틱 AI에 따른 해킹 위협 고조 등이 화두다."
-    }
-  ]
+  "briefing": [],
+  "trends": []
 }
