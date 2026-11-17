@@ -1,230 +1,318 @@
 {
-  "generatedAt": "2026-11-17T04:37:04.012779Z",
+  "generatedAt": "2026-11-17T14:35:05.734980Z",
   "items": [
     {
-      "title": "New U.S. export rule targets AI chip diversion through Brazil and Southeast Asia",
-      "summary": "",
-      "url": "https://www.latintimes.com/bis-ai-chip-export-controls-five-countries-601426",
-      "source": "Latin Times",
+      "title": "검단 치과 위생 실무를 변화시키는 인공지능의 역할",
+      "summary": "인공지능이 임상 치과 위생 실무 분야를 어떻게 변화시키고 있는지 다룹니다.",
+      "url": "https://www.rdhmag.com/patient-care/article/55402608/beyond-detection-how-artificial-intelligence-is-transforming-clinical-dental-hygiene-practice",
+      "source": "RDH",
       "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-11-17T04:34:37Z",
-      "storyKey": "newusexportruletargetsaichipdiversionthroughbrazilandsoutheastasia",
-      "isNew": true
-    },
-    {
-      "title": "델 테크놀로지스, 엔비디아 기반 AI 팩토리 확장... 에이전틱 AI 인프라 강화",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkSF9fRWsyZlBsUm0ydy1HLXI2RVZCdHo4MFA3a3lFanM1RmVreTVMM1FBdjFnUXJ4U3c2dFBJcmU5TDA5ckV3TXFzTEpiVndBWG5tNkhISXVacnl4dmFtWm50d2twNklKTXBN?oc=5",
-      "source": "보안뉴스",
-      "country": "한국",
       "category": "AI",
-      "publishedAt": "2026-11-17T04:28:00Z",
-      "storyKey": "델테크놀로지스엔비디아기반ai팩토리확장에이전틱ai인프라강화",
+      "publishedAt": "2026-11-17T14:27:40Z",
+      "storyKey": "beyonddetectionhowartificialintelligenceistransformingclinicaldentalhygienepractice",
       "isNew": true
     },
     {
-      "title": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
-      "summary": "",
+      "title": "엔비디아 실적 발표를 앞두고 홈디포 영향 등으로 다우 선물 400포인트 하락",
+      "summary": "엔비디아의 실적 발표와 앤트로픽의 IPO를 앞두고 월스트리트 주가가 하락세를 보이며 다우와 S&P 500 선물도 약세를 나타냈습니다.",
       "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
       "source": "CNBC",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-11-17T04:27:00Z",
-      "storyKey": "stockfuturesarelittlechangedafternvidiapressurestechtostarttheweekliveupdates",
+      "publishedAt": "2026-11-17T14:03:00Z",
+      "storyKey": "dowfuturesslide400pointsweighedbyhomedepottradersawaitnvidiaearningsliveupdates",
       "isNew": true
     },
     {
-      "title": "장성 종오리 농장서 AI 항원 검출…고병원성 검사 진행",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nbDNxYkVpcGlXR01FVG80aHBIVnhoT2F0NmltZzdHSW9ibjZVd0c3enctVFBsNlFwTFJEeVd4V1pYbmtjMEhnNjRSWjFuVWRIRUJwLUtvc1AwRWk2TU5XSGhB?oc=5",
-      "source": "KBC광주방송",
+      "title": "인공지능과 경제의 상관관계",
+      "summary": "인공지능 기술이 경제 전반에 미치는 영향에 대해 설명합니다.",
+      "url": "https://www.brookings.edu/articles/artificial-intelligence-and-the-economy/",
+      "source": "Brookings",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-17T13:42:37Z",
+      "storyKey": "artificialintelligenceandtheeconomy",
+      "isNew": true
+    },
+    {
+      "title": "연속 공정 제조 환경에서 공장을 멈출 수 없을 때 OT 보안이 다른 접근을 요구하는 이유",
+      "summary": "가동 중단이 불가능한 제조 공정의 특성상 운영기술(OT) 보안에 차별화된 접근이 필요한 이유를 분석합니다.",
+      "url": "https://industrialcyber.co/features/continuous-process-manufacturing-why-ot-cybersecurity-demands-different-approach-when-plants-cannot-stop/",
+      "source": "Industrial Cyber",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-11-17T13:15:59Z",
+      "storyKey": "continuousprocessmanufacturingwhyotcybersecuritydemandsdifferentapproachwhenplantscannotstop",
+      "isNew": true
+    },
+    {
+      "title": "김강우, 아내 얼굴 공개로 100만 뷰 달성…“내향인이라 웨딩 촬영도 안 해”",
+      "summary": "배우 김강우가 아내의 얼굴을 공개해 화제를 모은 가운데, 과거 활동 중단 사연과 다정한 가정생활이 함께 조명되었습니다.",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/ME3WMOBUMNTGGMLBGMYTQNRTMI/",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-11-17T12:45:00Z",
+      "storyKey": "김강우아내얼굴공개에100만뷰내향인이라웨딩촬영도안했는데",
+      "isNew": true
+    },
+    {
+      "title": "'아쉬운 골 결정력' 김은중호 U-21 축구대표팀, 멕시코와 평가전 0-0 무승부",
+      "summary": "김은중 감독이 이끄는 U-21 축구대표팀이 멕시코와의 평가전에서 득점 없이 무승부를 기록했습니다.",
+      "url": "https://m.newspim.com/news/view/20261117001365",
+      "source": "뉴스핌",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-17T12:13:00Z",
+      "storyKey": "아쉬운골결정력김은중호u21축구대표팀멕시코와평가전00무승부",
+      "isNew": true
+    },
+    {
+      "title": "‘젠슨 황 쇼크’…미국, 중국의 AI 반도체 ‘클라우드 우회로’ 봉쇄",
+      "summary": "미국이 중국 기업들의 AI 반도체 클라우드 우회 접속로를 차단하는 조치를 단행했습니다.",
+      "url": "https://www.khan.co.kr/article/202611172045005",
+      "source": "경향신문",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-17T11:45:00Z",
+      "storyKey": "젠슨황쇼크미중국ai반도체클라우드우회로봉쇄",
+      "isNew": true
+    },
+    {
+      "title": "트럼프의 새로운 AI 칩 규정으로 동남아시아 시장 요동",
+      "summary": "미국의 새로운 AI 칩 규제와 엔비디아의 법적 리스크 경고로 인해 중국의 AI 접근을 둘러싼 긴장이 고조되고 있습니다.",
+      "url": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-17T11:40:40Z",
+      "storyKey": "trumpsnewaichiprulesrattlesoutheastasia",
+      "isNew": true
+    },
+    {
+      "title": "코스피 9개월 만에 5,000선 붕괴…이젠 악재가 된 AI",
+      "summary": "엔비디아 관련 충격과 AI 관련 악재가 겹치면서 코스피 지수가 9개월 만에 5,000선 아래로 떨어졌습니다.",
+      "url": "https://www.hani.co.kr/arti/economy/economy_general/1287753.html",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-11-17T11:39:00Z",
+      "storyKey": "코스피9개월만에5천깨졌다이젠악재가된ai",
+      "isNew": true
+    },
+    {
+      "title": "\"AI 부정행위 우려\" 수험생, 헌재에 수능 효력정지 신청",
+      "summary": "수능을 앞두고 AI를 활용한 부정행위 우려가 커지면서 수험생이 헌법재판소에 수능 효력정지를 신청했습니다.",
+      "url": "https://www.yna.co.kr/view/AKR20261117167700004",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-17T11:08:19Z",
+      "storyKey": "ai부정행위우려수험생헌재에19일수능효력정지신청",
+      "isNew": true
+    },
+    {
+      "title": "NFL 11주차 파워랭킹: 빌스와 49ers 선두 유지 속 커커 쿠친스의 바이킹스 상승세",
+      "summary": "NFL 11주차 파워랭킹에서 빌스와 49ers가 상위권을 유지한 가운데 미네소타 바이킹스가 상승세를 보였습니다.",
+      "url": "https://www.nytimes.com/athletic/7786923/2026/11/17/nfl-power-rankings-week-11-bills-49ers-vikings-cousins/",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-17T10:30:23Z",
+      "storyKey": "nflweek11powerrankingsbills49ersstillontopbutkirkcousinsvikingsonrisetheathletic",
+      "isNew": true
+    },
+    {
+      "title": "AI 안경에 이어 펜까지…의사·약사 국가시험도 비상",
+      "summary": "첨단 기기를 활용한 부정행위 우려가 확산되면서 각종 전문직 자격시험 관리에도 비상이 걸렸습니다.",
+      "url": "https://www.chosun.com/national/welfare-medical/2026/11/16/FXR2ZL2VRZAKRDYPPLNUSTB3BQ/",
+      "source": "조선일보",
       "country": "한국",
       "category": "AI",
-      "publishedAt": "2026-11-17T04:26:20Z",
-      "storyKey": "장성종오리농장서ai항원검출고병원성검사진행",
+      "publishedAt": "2026-11-17T10:08:49Z",
+      "storyKey": "ai안경막아도펜은의사약사시험도비상",
       "isNew": true
     },
     {
-      "title": "[복지뉴스] AI는 복지를 어떻게 바꿀까…‘사회보장 AI 심포지엄’ 13일부터 사전등록 外",
-      "summary": "",
+      "title": "수험생 옷 단추 스티커까지 등장…재난문자로 숨긴 스마트폰 적발한다",
+      "summary": "다양한 수법의 첨단 부정행위를 막기 위해 당국이 단속을 강화하고 있습니다.",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1287724.html",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-11-17T09:55:00Z",
+      "storyKey": "수험생옷단추마다스티커재난문자로숨긴스마트폰적발한다",
+      "isNew": true
+    },
+    {
+      "title": "제임스 본드 캐스팅 보도 당시 로버트 패틴슨의 행보 공개",
+      "summary": "배우 로버트 패틴슨의 제임스 본드 캐스팅과 관련된 비하인드 스토리와 당시 상황이 전해졌습니다.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-james-bond-cast-news-robert-eggers-werwulf-1236756972/",
+      "source": "The Hollywood Reporter",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-11-17T09:22:09Z",
+      "storyKey": "wenowknowwhatrobertpattinsonwasdoingwhenthejamesbondcastingnewsbroke",
+      "isNew": true
+    },
+    {
+      "title": "[복지뉴스] AI는 복지를 어떻게 바꿀까…‘사회보장 AI 심포지엄’ 13일부터 사전등록 시작",
+      "summary": "인공지능이 가져올 복지 분야의 변화를 논의하는 사회보장 AI 심포지엄의 사전등록 소식이 전해졌습니다.",
       "url": "https://www.ibabynews.com/news/articleView.html?idxno=156975",
       "source": "베이비뉴스",
       "country": "한국",
       "category": "사회",
-      "publishedAt": "2026-11-17T03:13:29Z",
+      "publishedAt": "2026-11-17T09:00:47Z",
       "storyKey": "복지뉴스ai는복지를어떻게바꿀까사회보장ai심포지엄13일부터사전등록",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "엔비디아·AI 규제 투매 여파...코스피, 사흘 째 하락",
-      "summary": "",
-      "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611171155331063_005.html",
-      "source": "YTN",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-11-17T02:55:00Z",
-      "storyKey": "엔비디아ai규제투매여파코스피사흘째하락",
-      "isNew": true
-    },
-    {
-      "title": "AI안경도 이어폰도 없었다…세무사 수석이 본 ‘비밀 화면’",
-      "summary": "",
-      "url": "https://www.joongang.co.kr/article/25479219",
-      "source": "중앙일보",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-11-17T02:50:16Z",
-      "storyKey": "ai안경도이어폰도없었다세무사수석이본비밀화면",
-      "isNew": true
-    },
-    {
-      "title": "황인범 \"임시 감독 체제, 대표팀에 긍정적이지 않다\"",
-      "summary": "",
-      "url": "https://www.kyeonggi.com/article/20261117580068",
-      "source": "경기일보",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-17T02:49:29Z",
-      "storyKey": "황인범임시감독체제대표팀에긍정적이지않다",
-      "isNew": true
-    },
-    {
-      "title": "[속보] 정부, 총리 주재 국무회의에서 '조작기소 특검법' 의결",
-      "summary": "",
-      "url": "https://imnews.imbc.com/news/2026/politics/article/6866240_36911.html",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-17T02:35:15Z",
-      "storyKey": "속보정부총리주재국무회의에서조작기소특검법의결",
-      "isNew": true
-    },
-    {
-      "title": "Artificial intelligence and spirituality",
-      "summary": "",
-      "url": "https://raed.academy/en/artificial-intelligence-and-spirituality/",
-      "source": "Real Academia Europea de Doctores",
+      "title": "오늘 밤 사자자리 유성우 절정! 꼭 알아야 할 관측 정보",
+      "summary": "올해 사자자리 유성우가 오늘 밤 절정에 달하며 맑은 날씨 속에 관측 기회가 찾아왔습니다.",
+      "url": "https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-nov-17-18-heres-what-you-need-to-know",
+      "source": "Space",
       "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-17T01:29:15Z",
-      "storyKey": "artificialintelligenceandspirituality",
+      "category": "과학",
+      "publishedAt": "2026-11-17T08:53:39Z",
+      "storyKey": "theleonidmeteorshowerpeakstonighthereswhatyouneedtoknow",
       "isNew": true
     },
     {
-      "title": "호주 2위 유통업체 콜스, 사이버 보안 사고 조사 착수",
-      "summary": "",
-      "url": "https://www.boannews.com/news/articleView.html?idxno=147317",
-      "source": "보안뉴스",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-11-17T01:21:00Z",
-      "storyKey": "호주2위유통업체콜스사이버보안사고조사착수",
+      "title": "주간 시장 논평",
+      "summary": "한 주간의 글로벌 금융 시장 동향을 정리한 논평입니다.",
+      "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
+      "source": "BlackRock",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-17T08:52:25Z",
+      "storyKey": "weeklymarketcommentary",
       "isNew": true
     },
     {
-      "title": "“두산서 은퇴하고 싶었다” 39살 양의지, 2년 최대 55억 FA 계약",
-      "summary": "",
-      "url": "https://www.hani.co.kr/arti/sports/baseball/1287664.html",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-17T01:11:00Z",
-      "storyKey": "두산서은퇴하고싶었다39살양의지2년최대55억fa계약",
-      "isNew": true
-    },
-    {
-      "title": "“차별금지법 제정의 가장 큰 걸림돌, ‘가짜뉴스’”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZFhrV3BaSkJIUE1QVTJsMDY4TmhzMjdKX3Jnc3pCdnI4bUZnUGQzdFVpcUN6Ykl1WWxQc3pha2tKdmtKYy1HeFJIanZtdGMwanNyR0hwem1NVkJpLUl0UVhuLVNOR1UyMGc?oc=5",
-      "source": "불교IN",
+      "title": "2027 수능 AI 부정행위 비상…AP·CNN 등 외신이 주목한 이유",
+      "summary": "한국의 수능 시험에서 대두된 AI 부정행위 우려에 대해 주요 외신들도 큰 관심을 보이고 있습니다.",
+      "url": "https://www.edpl.co.kr/news/articleView.html?idxno=22103",
+      "source": "교육플러스",
       "country": "한국",
       "category": "사회",
-      "publishedAt": "2026-11-17T01:08:45Z",
-      "storyKey": "차별금지법제정의가장큰걸림돌가짜뉴스",
+      "publishedAt": "2026-11-17T08:42:55Z",
+      "storyKey": "2027수능ai부정행위비상apcnn등외신이주목한이유",
       "isNew": true
     },
     {
-      "title": "한국선급, 선박 사이버보안·AI 안전관리 대응 강화…국제 해사규제 변화 점검",
-      "summary": "",
-      "url": "http://www.haesanews.com/news/articleView.html?idxno=152811",
-      "source": "해사신문",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-11-17T00:56:00Z",
-      "storyKey": "한국선급선박사이버보안ai안전관리대응강화국제해사규제변화점검",
-      "isNew": true
-    },
-    {
-      "title": "‘AI 커닝’ 세무사 수석 합격자 경찰 출석…“잘못 책임지겠다”",
-      "summary": "",
-      "url": "https://www.hani.co.kr/arti/society/society_general/1287657.html",
-      "source": "한겨레",
+      "title": "일본, 조국 입국 거부에 \"법에 따른 조치\"…외교부 유감 표명",
+      "summary": "조국 대표의 일본 입국이 거부된 가운데 일본 정부는 적법한 조치라고 주장하고 외교부는 유감을 표명했습니다.",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261117172323jZf",
+      "source": "연합뉴스TV",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-11-17T00:46:00Z",
-      "storyKey": "ai커닝세무사수석합격자경찰출석잘못책임지겠다",
+      "publishedAt": "2026-11-17T08:23:00Z",
+      "storyKey": "조국입국거부에법에따른조치외교부유감표명",
       "isNew": true
     },
     {
-      "title": "Bridges of Peace: Kure Pier 6 safety officer promotes community safety, local history off duty",
-      "summary": "",
+      "title": "[사이버보안, 패러다임 전환] ① 주요국, 사이버보안 컨트롤타워 재편 및 조정 권한 강화",
+      "summary": "주요 국가들이 사이버보안 대응 역량을 높이기 위해 컨트롤타워를 재편하고 조정 권한을 강화하고 있습니다.",
+      "url": "https://www.etnews.com/20261117000311",
+      "source": "전자신문",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-17T07:00:00Z",
+      "storyKey": "사이버보안패러다임전환1주요국사이버보안컨트롤타워재편조정권한강화",
+      "isNew": true
+    },
+    {
+      "title": "러시아 ‘우주 핵무기’ 위협…핵폭탄 한 발이면 저궤도 위성 98% 마비",
+      "summary": "러시아의 우주 핵무기 위협으로 인해 단 한 발의 핵폭탄으로도 저궤도 위성의 대부분이 마비될 수 있다는 우려가 제기되었습니다.",
+      "url": "https://www.chosun.com/economy/science/2026/11/17/D6E6LM55PZEUHKNAQ7T2JZGB7U/",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "과학",
+      "publishedAt": "2026-11-17T06:23:46Z",
+      "storyKey": "러시아우주핵무기위협핵폭탄한발이면저궤도위성98마비",
+      "isNew": true
+    },
+    {
+      "title": "모레노 축구대표팀 임시 감독, 카타르전 마치면 스페인으로 귀국",
+      "summary": "임시 체제로 대표팀을 이끄는 모레노 감독이 카타르 평가전을 끝으로 스페인으로 귀국할 예정입니다.",
+      "url": "https://www.yna.co.kr/view/AKR20261117119500007",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-17T06:04:31Z",
+      "storyKey": "모레노축구대표팀임시감독카타르전마치면스페인으로귀국",
+      "isNew": true
+    },
+    {
+      "title": "\"의무공개매수 원안 통과 시 코스피 4,200선 급락 가능…PBR 1배\"",
+      "summary": "의무공개매수 제도 원안이 통과될 경우 코스피 지수가 큰 폭으로 하락할 수 있다는 전망이 나왔습니다.",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445176",
+      "source": "연합인포맥스",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-11-17T05:32:05Z",
+      "storyKey": "의무공개매수원안통과시코스피4200급락가능pbr1배",
+      "isNew": true
+    },
+    {
+      "title": "지구에서 1광일 떨어진 인류 최초의 물체: 나사 보이저 1호의 의미",
+      "summary": "나사의 보이저 1호가 발사 후 약 50년 만에 지구로부터 1광일 거리 진입을 앞두고 있습니다.",
+      "url": "https://www.dw.com/en/nasas-voyager-1-reaches-a-light-day-away-from-earth/a-79961817",
+      "source": "DW.com",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-11-17T04:41:54Z",
+      "storyKey": "thefirsthumanmadeobjecttotravelonelightdayfromearthmakesenseofnasasvoyager1",
+      "isNew": true
+    },
+    {
+      "title": "갤럭시 S27 울트라, 삼성의 가장 상징적인 기능을 없앨 수도",
+      "summary": "삼성의 차기 갤럭시 S27 울트라 모델에서 디자인과 주요 특징에 큰 변화가 있을 것으로 예상됩니다.",
+      "url": "https://www.androidpolice.com/galaxy-s27-ultra-could-finally-kill-samsung-most-iconic-feature/",
+      "source": "Android Police",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-11-17T03:06:00Z",
+      "storyKey": "thegalaxys27ultracouldfinallykillsamsungsmosticonicfeature",
+      "isNew": true
+    },
+    {
+      "title": "구레 부두 6번지 안전 관리관, 근무 외 시간 지역사회 안전과 역사 홍보에 기여",
+      "summary": "구레 부두의 안전 관리관이 지역사회 안전 증진과 로컬 역사 알기에 힘쓰고 있습니다.",
       "url": "https://www.army.mil/article-amp/296812/bridges_of_peace_kure_pier_6_safety_officer_promotes_community_safety_local_history_off_duty",
       "source": "Army.mil",
       "country": "미국",
       "category": "사회",
       "publishedAt": "2026-11-17T00:41:36Z",
       "storyKey": "bridgesofpeacekurepier6safetyofficerpromotescommunitysafetylocalhistoryoffduty",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "빌 애크먼, 젠슨 황 복귀 시나리오 제시…\"임시주총 제안\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZdUhKR1VhREduZE1TbnpLeWxfYmV1VVduQW40RDE5b25LOGN2U2RlX1VDbXdSaWR6ai10ZVo5ZVNfbHdvMlpJZl9UdjVCVURMa1JFNmUtRmp5VGRqVmw2bGdtblZTTFpESURlWWxXWVTSAXRBVV95cUxOTzlYZWNISFZIb2xTZEZBUmo5bF8wNEVUeTh3cThidGNuUG83a0pLVHFGWmk3X0l4TERwR3lUMFlQNGJoZ3k0elVsXzBBbzJWNVJrTVlCV0twc21qZHdaOG1nYnp6eW5IU3ZzWllmekc3cktrMw?oc=5",
-      "source": "연합인포맥스",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-11-17T00:39:00Z",
-      "storyKey": "빌애크먼젠슨황복귀시나리오제시임시주총제안",
-      "isNew": true
-    },
-    {
-      "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
-      "source": "AP News",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-17T00:23:00Z",
-      "storyKey": "atechnicalissueatjpmorganchasetriggersonlinebankingdelaysformajorusbanks",
-      "isNew": true
-    },
-    {
-      "title": "The year ahead will be crunch time for artificial intelligence",
-      "summary": "",
-      "url": "https://www.economist.com/the-world-ahead/2026/11/17/the-year-ahead-will-be-crunch-time-for-artificial-intelligence",
-      "source": "The Economist",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-17T00:06:50Z",
-      "storyKey": "theyearaheadwillbecrunchtimeforartificialintelligence",
-      "isNew": true
-    },
-    {
-      "title": "Robert Pattinson Manifested His James Bond Casting 14 Years Ago",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTduMkJWUThpOUFXSTVoQ0tod2EzN295a01ZTTdZZEREZEtCbS1LR1hxUExMY3ozanEtQ3k3ZEJYVjRLRGtZai1Fd0JWWFJLLXdIWlN5N3NqVkxoOHhXdGhlMmYyOXYzWGRsbExRNWxsc0tNcGhzeGJrX0V5a0tSeGk2SEdyNTFiWnc2cHF4VmNMN1ZLZ1lFRnF4MWMwRmR4TVI2SlNaMzQ3Sk5vLTl2Y1BRQm1Fdw?oc=5",
-      "source": "The Hollywood Reporter",
+      "title": "'헝거게임: 섶의 해돋이' 시사회에서 빛난 제니퍼 로렌스의 드레스 자태",
+      "summary": "영화 '헝거게임' 프리미어 시사회에 참석한 제니퍼 로렌스가 뛰어난 드레스 패션으로 주목을 받았습니다.",
+      "url": "https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/",
+      "source": "Variety",
       "country": "미국",
       "category": "문화",
-      "publishedAt": "2026-11-16T23:49:46Z",
-      "storyKey": "robertpattinsonmanifestedhisjamesbondcasting14yearsago",
+      "publishedAt": "2026-11-17T00:32:00Z",
+      "storyKey": "jenniferlawrencestunsashungergamessunriseonthereapingpremiere",
       "isNew": true
     },
     {
-      "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
+      "title": "뉴욕경찰(NYPD) SRG 해체: 마마다니와 티슈의 시위 전담 부대 개편",
+      "summary": "뉴욕시가 논란이 되었던 경찰의 시위 전담 부대(SRG)를 해체하고 민간 대응 체제로 전환하기로 했습니다.",
+      "url": "https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/",
+      "source": "ABC7 New York",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-11-17T00:20:17Z",
+      "storyKey": "nypdsrgdisbandedmamdanitischonnycprotestunit",
+      "isNew": false
+    },
+    {
+      "title": "엔비디아 실적과 앤트로픽 IPO 앞두고 AI 경계감에 월스트리트 급락",
+      "summary": "엔비디아의 실적 발표와 앤트로픽의 상장을 앞두고 AI 관련 주식들의 불안감으로 인해 월스트리트 증시가 큰 폭으로 하락 마감했습니다.",
+      "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-slide-nvidia-earnings-anthropic-debut-loom-2026-11-16/",
       "source": "Reuters",
       "country": "미국",
       "category": "주식",
@@ -233,105 +321,62 @@
       "isNew": false
     },
     {
-      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGFwOTNlbFZZc1BjNzRlMncxb0hoMF9CM0ppM0t1QWhhTk9wSDJzeXRmSi1LWE9aVk1IS1BzR05FNXkyZ2JRanROWjNLMHl4MEV1VHBOWjdaa2VnVUtGXzg5X2JNeGxYdnZHWVI2MXNWNHNORVR0Q3RXOWx2NnFmaElITmFWdUh4MnMwNVVwVQ?oc=5",
-      "source": "The Verge",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-16T22:54:59Z",
-      "storyKey": "unitedairlinessystemoutagedisruptsdeparturesjustdaysafterthebiggroundstop",
-      "isNew": true
-    },
-    {
-      "title": "EFF’s AI Cybersecurity Policy Framework",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRlFpWktDT0ppRUdhVUF1aG04MzhIa1JSUEZKai1SQ2VpNHZIVWdRV1h0MEpMUk44OXYyN3JfQXUwOHdSaWpNQmlFSlJxb2k1Tk90cHZQeW1NSDFLc1BkeklGZmdmNXpPZ3NHb251Y3l4dnk0OHUya0V2anplWldTbmpB?oc=5",
-      "source": "Electronic Frontier Foundation",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-11-16T22:50:00Z",
-      "storyKey": "effsaicybersecuritypolicyframework",
-      "isNew": true
-    },
-    {
-      "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
-      "summary": "",
-      "url": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-ella-langley-raye-rosalia.html",
-      "source": "The New York Times",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-16T22:25:20Z",
-      "storyKey": "rayerosalaandellalangleytopawomenled2027grammysfield",
-      "isNew": true
-    },
-    {
-      "title": "U.S. Stocks Extend Slide on Nvidia, China Fears",
-      "summary": "",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-slide-on-nvidia-china-fears-ea169587",
-      "source": "WSJ",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-16T22:06:00Z",
-      "storyKey": "usstocksextendslideonnvidiachinafears",
-      "isNew": true
-    },
-    {
       "title": "엔비디아 독주 흔들리면 구글·AMD로 HBM 공급 분산… “삼성전자가 최대 수혜자”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT1Jhang1bkJKcURhVkdlT0t3ckM3ZW44YTg3eHRxenUwM3FVWkJjVG1BUEU2UEROX3RqcFNJeWdXLWdHVU0yU3NVVmU4MExmaXpxQmYzVDZpQXQ5NG9RMndMVDZfbS00MFAyQ2J5YUNxa3AyYVI1ZUEyTERXQWx5SEhR0gGWAUFVX3lxTE1obFFDTnYwVEZSbG1HeXpMZW0xVExRU3JQLXhVOFlid1lCZWl4dTk0SjBpTkY0SFR5UUg4emJnMVN3ZDdBQnluSDRSa2FubUVxZ3RUVEV6cXBvcXl5UFk2cWFaSWtDUV9JU3RuN0xMNlJ2YmxGRUNnZmlIVHItNmFfT3RmaGNQWE1mWVJuMFRFZ0JrNG9Bdw?oc=5",
+      "summary": "엔비디아의 독주 체제 변화에 따라 HBM 공급망이 분산되면서 삼성전자가 주요 수혜를 입을 것이라는 분석이 나왔습니다.",
+      "url": "https://biz.chosun.com/it-science/ict/2026/11/17/FFNIURI66BGO3G47ZTM4VI5OLA/",
       "source": "Chosunbiz",
       "country": "한국",
       "category": "기술",
-      "publishedAt": "2026-11-16T21:04:31Z",
+      "publishedAt": "2026-11-16T21:03:00Z",
       "storyKey": "엔비디아독주흔들리면구글amd로hbm공급분산삼성전자가최대수혜자",
-      "isNew": true
-    },
-    {
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkNnb0JyWWVtVWhWbGRSd1QxRDRSZld4aGtaTU82Vzk1Z1hBUzRNd0I2TkFCSmlGaWE2WGRaN09jX1hIZ3p0VXRKZTBoYWg0RVZpVTFOQXBSd0dTc1NGU1ZFMTYzRVNyLUxtRXpEbTk4TTZvZ2RMUkJ5ckI0dTdOY1lXaEtCYnNIVXlwTjE2U2E3RW9EOW9sNzFTeXpDdktmM05iU0N3?oc=5",
-      "source": "The Verge",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-11-16T19:24:40Z",
-      "storyKey": "appleistestingdailyusagelimitsformorecomplexsiriaiinteractions",
-      "isNew": true
-    },
-    {
-      "title": "NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit",
-      "summary": "",
-      "url": "https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/",
-      "source": "ABC7 New York",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-11-16T18:55:00Z",
-      "storyKey": "nypdsrgdisbandedmamdanitischonnycprotestunit",
-      "isNew": true
-    },
-    {
-      "title": "AI 안경 썼더니, 2026 수능 수학 딱 한 개 틀렸다···22분 만에 ‘98점’",
-      "summary": "",
-      "url": "https://www.khan.co.kr/article/202611162114005",
-      "source": "경향신문",
-      "country": "한국",
-      "category": "과학",
-      "publishedAt": "2026-11-16T12:14:00Z",
-      "storyKey": "ai안경썼더니2026수능수학딱한개틀렸다22분만에98점",
-      "isNew": true
-    },
-    {
-      "title": "“젠슨 황 ‘자아도취적 쾌감’에 푹 빠져…식당서 1000달러 팁 주기도”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZV1FvS0F5a1J2ZmZnczBKRmJiSVpoN0Q3dXEzWXM5S3VKVnB2QUJqS1BFRlNMRWtoRVhXdC1SWjdDbmEtcGYwX2RwNGFZSUw4dkN3cDd2SFFJNHlJQWtYZk5CNnRkNS1ReXBHQlRKRzBYRU3SAWZBVV95cUxPT19ySFYtR2lNQkNvMDRZekJ4ZTdqRTB0UlpHVDFQYUZ6QURkaW1wZzcyM01RSHYwaEtTWUtjMDBYQlVRM2tzNkNpRDRpRFBNclNlaGhNZFRhYnV1N3NtUWtuYVFyNVE?oc=5",
-      "source": "동아일보",
-      "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-11-16T03:00:00Z",
-      "storyKey": "젠슨황자아도취적쾌감에푹빠져식당서1000달러팁주기도",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "briefing": [],
-  "trends": []
+  "briefing": [
+    "미국 증시는 엔비디아의 실적 발표와 앤트로픽 IPO를 앞두고 AI 관련 주식들의 불안감 속에서 하락세를 보였습니다.",
+    "한국 증시에서는 엔비디아 충격과 AI 관련 악재 여파로 코스피가 9개월 만에 5,000선 아래로 떨어졌습니다.",
+    "국내외에서 AI 기술 발전과 함께 수능 및 전문직 시험의 AI 부정행위 방지 대책과 보안 강화가 주요 현안으로 부각되었습니다."
+  ],
+  "trends": [
+    {
+      "category": "정치",
+      "summary": "조국 대표의 일본 입국 거부와 외교부의 유감 표명이 있었으며, 뉴욕시에서는 논란이 된 경찰 시위 전담 부대의 해체가 추진되었습니다."
+    },
+    {
+      "category": "경제",
+      "summary": "미국 증시가 엔비디아 실적 발표를 앞두고 하락세를 보였고, 국내 코스피는 AI 악재와 맞물려 9개월 만에 5,000선이 붕괴되었습니다."
+    },
+    {
+      "category": "기술",
+      "summary": "제조업 공장의 중단 없는 가동을 위한 OT 보안의 필요성과 함께 삼성전자의 차기작 디자인 변화 및 HBM 공급망 다변화 전망이 주목받았습니다."
+    },
+    {
+      "category": "문화",
+      "summary": "배우 김강우의 가정사 공개와 제니퍼 로렌스가 참석한 영화 '헝거게임' 프리미어 시사회 소식이 대중의 관심을 모았습니다."
+    },
+    {
+      "category": "스포츠",
+      "summary": "김은중호 U-21 축구대표팀이 멕시코와 무승부를 기록했고, NFL 11주차 파워랭킹 및 대표팀 임시 감독 관련 소식이 전해졌습니다."
+    },
+    {
+      "category": "과학",
+      "summary": "오늘 밤 사자자리 유성우가 절정을 맞이하는 가운데, 나사의 보이저 1호가 지구로부터 1광일 거리 진입을 앞두고 있습니다."
+    },
+    {
+      "category": "IT",
+      "summary": "미국이 중국의 AI 반도체 클라우드 우회로를 봉쇄하고 주요국들이 사이버보안 컨트롤타워를 재편하는 움직임을 보였습니다."
+    },
+    {
+      "category": "주식",
+      "summary": "엔비디아 실적 발표와 앤트로픽 IPO를 앞두고 글로벌 증시가 AI 관련 주가 변동성에 촉각을 곤두세웠습니다."
+    },
+    {
+      "category": "사회",
+      "summary": "수능과 각종 자격시험에서 AI를 활용한 부정행위 우려가 커지면서 당국이 고강도 단속과 대책 마련에 나섰습니다."
+    },
+    {
+      "category": "AI",
+      "summary": "인공지능 기술이 임상 치과 위생과 사회복지 분야 등 다양한 실무 영역으로 빠르게 확산되며 새로운 변화를 이끌고 있습니다."
+    }
+  ]
 }
