@@ -1,382 +1,382 @@
 {
-  "generatedAt": "2026-11-19T13:24:21.004478Z",
+  "generatedAt": "2026-11-19T22:14:05.912073Z",
   "items": [
     {
-      "title": "앤트로픽 상장 생중계: AI 거물, 주당 83달러로 거래 시작 준비",
-      "summary": "앤트로픽의 1조 달러 규모 데뷔는 월스트리트에서 인공지능이 가진 위험과 보상을 동시에 시험대에 올리는 역사적 순간이 되고 있습니다.",
-      "url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026",
-      "source": "WSJ",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-19T12:28:00Z",
-      "storyKey": "anthropicipoliveaigiantpreparestostarttradingat83ashare",
-      "isNew": true
-    },
-    {
-      "title": "프로배구 흥국생명-GS칼텍스전서 관중 쓰러져…20여 분 중단",
-      "summary": "인천에서 여자프로배구 경기를 관람하던 남성이 쓰러져 현장에서 심폐소생술을 받은 뒤 병원으로 이송되었습니다.",
-      "url": "https://www.yna.co.kr/view/AKR20261119179600007",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-19T12:22:48Z",
-      "storyKey": "프로배구흥국생명gs칼텍스전서관중쓰러져20여분중단",
-      "isNew": true
-    },
-    {
-      "title": "월마트, 3분기 실적 호조에 힘입어 2026년 전망치 또 상향",
-      "summary": "부유한 쇼핑객들의 소비 증가와 전자상거래 부문의 매출 급등으로 월마트가 연간 실적 전망치를 다시 한번 높였습니다.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/walmart-beats-q3-earnings-expectations-raises-2026-outlook-again-120803355.html",
+      "title": "앤트로픽 상장 첫날 17% 상승 마감, 기업가치 1.27조 달러 기록",
+      "summary": "앤트로픽이 첫 기업공개(IPO)에서 시초가 대비 17% 상승하며 1조 2,700억 달러의 가치로 거래를 마감했고, 7명의 공동 창업자는 각각 약 20억 달러의 막대한 자산을 얻게 되었다.",
+      "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html",
       "source": "Yahoo Finance",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-11-19T12:08:03Z",
-      "storyKey": "walmartbeatsq3earningsexpectationsraises2026outlookagain",
+      "publishedAt": "2026-11-19T22:00:01Z",
+      "storyKey": "anthropicipoliveanthropicstockclosesup17frominitialpricefor127tvaluationinfirstdayoftrading",
       "isNew": true
     },
     {
-      "title": "엘라 랭글리, 컨트리 음악 시상식 휩쓸어… 테일러 스위프트는 키스 우반과 공연",
-      "summary": "텍사스 출신의 가수 랭글리가 테일러 스위프트를 제치고 컨트리 음악 시상식에서 주요 부문을 석권했습니다.",
-      "url": "https://www.bbc.com/news/articles/cw1md5m39n35o",
-      "source": "BBC",
+      "title": "경기도서관, 30일까지 인공지능(AI) 관련 문화행사 펼쳐",
+      "summary": "경기도서관이 30일까지 인공지능(AI)과 관련된 다양한 문화행사를 개최한다.",
+      "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=72020",
+      "source": "경기도뉴스포털",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-11-19T22:00:00Z",
+      "storyKey": "경기도서관30일까지인공지능ai관련문화행사펼쳐",
+      "isNew": true
+    },
+    {
+      "title": "흔들리는 시험제도, 한국사회 버팀목의 붕괴 위기",
+      "summary": "최근 흔들리는 시험제도로 인해 한국 사회의 중요한 버팀목이 붕괴될 위기에 처해 있다.",
+      "url": "https://www.yna.co.kr/view/AKR20261119089500546",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-11-19T21:55:01Z",
+      "storyKey": "율곡로흔들리는시험제도한국사회버팀목의붕괴위기",
+      "isNew": true
+    },
+    {
+      "title": "학자들이 교육에서 학습을 희생시키지 않고 AI를 활용하는 방안을 고심하다",
+      "summary": "학자들이 학생들의 학습 능력을 희생시키지 않으면서 교육 현장에 AI를 효과적으로 도입하는 방안을 모색하고 있다.",
+      "url": "https://hub.jhu.edu/2026/11/19/johns-hopkins-data-science-and-ai-institute-fall-2026-symposium/",
+      "source": "Johns Hopkins University",
       "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-19T12:01:35Z",
-      "storyKey": "ellalangleysweepscountrymusicawardsastaylorswiftperformswithkeithurban",
+      "category": "AI",
+      "publishedAt": "2026-11-19T21:45:00Z",
+      "storyKey": "scholarsconsiderhowtouseaiineducationwithoutsacrificinglearning",
       "isNew": true
     },
     {
-      "title": "몸을 움직이며 즐기는 소프트웨어 특집",
-      "summary": "몸을 움직이며 즐기는 소프트웨어 관련 소식을 한국닌텐도주식회사가 전합니다.",
-      "url": "https://www.nintendo.com/kr/news/article/tQSIchjEGkFsJqoqLfj9B",
-      "source": "Nintendo",
+      "title": "앤트로픽의 데뷔가 AI 열풍을 되살리지 못하면서 월스트리트는 큰 폭으로 하락 마감했다",
+      "summary": "앤트로픽의 상장에도 불구하고 AI에 대한 시장의 열기가 살아나지 않으면서 월스트리트 증시는 급락세로 거래를 마쳤다.",
+      "url": "https://www.reuters.com/business/nasdaq-futures-jump-anthropics-record-ipo-pricing-fuels-hopes-strong-debut-2026-11-19/",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-19T21:38:51Z",
+      "storyKey": "wallstreetendssharplylowerasanthropicsdebutfailstoreviveaifervor",
+      "isNew": true
+    },
+    {
+      "title": "하루 늦게 덮친 엔비디아 후폭풍, 한국 네오클라우드 '급락'",
+      "summary": "엔비디아의 여파가 하루 늦게 국내 시장에 미치면서 한국의 네오클라우드 관련 종목들이 급락했다.",
+      "url": "https://www.hankyung.com/article/2026111979176",
+      "source": "한국경제",
       "country": "한국",
       "category": "IT",
-      "publishedAt": "2026-11-19T11:16:14Z",
-      "storyKey": "몸을움직이며즐기는소프트웨어특집news한국닌텐도주식회사",
+      "publishedAt": "2026-11-19T21:30:01Z",
+      "storyKey": "하루늦게덮친엔비디아후폭풍네오클라우드급락종목",
       "isNew": true
     },
     {
-      "title": "앤트로픽 효과에 반등… 코스피 5,100선 탈환",
-      "summary": "앤트로픽 관련 영향으로 코스피 지수가 반등하며 5,100선을 회복했습니다.",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH202611192016158aS",
-      "source": "연합뉴스TV",
+      "title": "외국인, 지난달 국내주식 26조 순매도…두 달째 '팔자'",
+      "summary": "외국인 투자자들이 지난달 국내 주식을 26조 원어치 순매도하며 두 달째 매도 우위를 이어갔다.",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445637",
+      "source": "연합인포맥스",
       "country": "한국",
       "category": "주식",
-      "publishedAt": "2026-11-19T11:16:00Z",
-      "storyKey": "앤트로픽효과에반등코스피5100선탈환",
+      "publishedAt": "2026-11-19T21:00:16Z",
+      "storyKey": "외국인지난달국내주식26조순매도두달째팔자",
       "isNew": true
     },
     {
-      "title": "폭우와 돌발 홍수로 플로리다 중부 위협하는 폭풍우 시스템",
-      "summary": "플로리다 남부에는 하룻밤 사이 1리터가 넘는 비가 내리는 등 이상 기후로 인한 광범위한 홍수 피해가 발생하고 있습니다.",
-      "url": "https://www.wesh.com/article/central-florida-flood-threat-heavy-rain/74474918",
-      "source": "WESH",
+      "title": "앤트로픽의 성공적인 IPO 이후 주식시장이 하락한 이유는 무엇인가?",
+      "summary": "앤트로픽의 성공적인 상장 직후에도 주식시장이 하락세를 보인 배경에 관심이 쏠리고 있다.",
+      "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-19T20:57:56Z",
+      "storyKey": "whyisthestockmarketdownafteranthropicssuccessfulipo",
+      "isNew": true
+    },
+    {
+      "title": "램스 와이드리시버 푸카 나쿠아, 부상자 명단에 있는 동안 3경기 출장 정지 징계 받다",
+      "summary": "NFL 개인 행동 규정을 위반한 LA 램스의 올프로 와이드리시버 푸카 나쿠아가 부상자 명단(IR)에 등재된 기간 동안 3경기 출장 정지 징계를 소화하게 되었다.",
+      "url": "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir",
+      "source": "ESPN",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-19T20:38:00Z",
+      "storyKey": "ramswrpukanacuatoserve3gamesuspensionwhileonir",
+      "isNew": true
+    },
+    {
+      "title": "‘GTA 6’ 판매량, 이미 크리스토퍼 놀란의 ‘오디세이’를 넘어서다",
+      "summary": "신작 게임 'GTA 6'의 판매량이 크리스토퍼 놀란의 작품 기록을 이미 추월했으며, 대중과 경제 전반에 큰 파장을 예고하고 있다.",
+      "url": "https://www.hollywoodreporter.com/business/digital/gta-6-sales-the-odyssey-1236759454/",
+      "source": "The Hollywood Reporter",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-11-19T19:48:16Z",
+      "storyKey": "gta6saleshavealreadysurpassedchristophernolanstheodyssey",
+      "isNew": true
+    },
+    {
+      "title": "나사의 보이저 1호, 경이로운 1광일 거리에서 지구와 교신하다",
+      "summary": "발사 후 49년이 지난 NASA의 보이저 1호가 지구로부터 1광일 떨어진 거리에서 데이터를 전송하며 건재함을 알렸다.",
+      "url": "https://apnews.com/article/voyager-nasa-light-day-interstellar-space-db9f5f8d9ec3a40f1f434446baf326b5",
+      "source": "AP News",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-11-19T19:26:00Z",
+      "storyKey": "nasasvoyager1phoneshomefromanaweinspiringonelightdayaway",
+      "isNew": true
+    },
+    {
+      "title": "미국 주택담보대출 금리, 5주 만에 첫 상승세 기록",
+      "summary": "미국의 30년 고정 주택담보대출 평균 금리가 이번 주 7.28%로 상승하며 4주 연속 하락세를 마감하고 3주 만에 최고치로 치솟았다.",
+      "url": "https://www.cnn.com/2026/11/19/economy/us-mortgage-rates-rise",
+      "source": "CNN",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-19T18:39:27Z",
+      "storyKey": "usmortgageratesriseforthefirsttimeinfiveweekscnnbusiness",
+      "isNew": true
+    },
+    {
+      "title": "‘클리프 부스의 추가 모험’ 리뷰: 쿠엔틴 타란티노와 데이비드 핀처가 뭉쳐 브래드 피트의 화려한 귀환을 이끌다",
+      "summary": "타란티노와 핀처가 협력하여 만든 넷플릭스 영화 '클리프 부스의 추가 모험'이 브래드 피트의 출연과 함께 평단과 관객들로부터 뜨거운 반응을 얻고 있다.",
+      "url": "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt",
+      "source": "The Guardian",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-11-19T18:36:00Z",
+      "storyKey": "thefurthermisadventuresofcliffboothreviewtarantinoandfincherjoinforcesforbradpittsgloriousreturn",
+      "isNew": true
+    },
+    {
+      "title": "정실 정치",
+      "summary": "정실 정치와 관련된 사회적 이슈가 조명되고 있다.",
+      "url": "https://phenomenalworld.org/interviews/patronage-politics/",
+      "source": "Phenomenal World",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-11-19T18:17:16Z",
+      "storyKey": "patronagepolitics",
+      "isNew": true
+    },
+    {
+      "title": "소프트웨어 베이루트에 오신 것을 환영합니다",
+      "summary": "소프트웨어 베이루트와 관련된 IT 소식이 전해졌다.",
+      "url": "https://www.theatlantic.com/ideas/2026/11/software-beirut-ai-outages/689508/",
+      "source": "The Atlantic",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-11-19T18:17:00Z",
+      "storyKey": "welcometosoftwarebeirut",
+      "isNew": true
+    },
+    {
+      "title": "공화당의 중간선거 패배 후 MAGA와 거리두는 일론 머스크, 트럼프는 여전히 친구라 칭하다",
+      "summary": "일론 머스크가 공화당의 중간선거 패배 이후 자신을 정치적 중도 성향이라 밝히며 MAGA 노선에서 물러났으나, 도널드 트럼프 전 대통령은 여전히 그를 친구로 평가했다.",
+      "url": "https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05",
+      "source": "AP News",
       "country": "미국",
       "category": "정치",
-      "publishedAt": "2026-11-19T11:09:00Z",
-      "storyKey": "heavyrainflashfloodingthreatencentralfloridaasstormsystemmovesthrough",
+      "publishedAt": "2026-11-19T18:13:00Z",
+      "storyKey": "muskbacksawayfrommagaafterrepublicansmidtermlossesbuttrumpsayshesstillafriend",
       "isNew": true
     },
     {
-      "title": "인쇄본: '인공지능 시대의 한국학'",
-      "summary": "인공지능 시대를 다룬 '한국학' 관련 인쇄 도서 소식입니다.",
+      "title": "앤트로픽, 상장 첫날 롤러코스터…시초가 대비 10% 급락",
+      "summary": "나스닥에 상장한 앤트로픽이 공모가 83달러로 첫날 롤러코스터 장세를 보이며 스페이스X의 조달액 기록을 넘어설 것으로 예상되는 가운데 뉴욕증시 전반은 급락했다.",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445632",
+      "source": "연합인포맥스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-11-19T17:34:42Z",
+      "storyKey": "앤트로픽상장첫날롤러코스터시초가대비10급락상보",
+      "isNew": true
+    },
+    {
+      "title": "시공간이 존재하지 않는다면? 물리학자들이 현실의 근원을 추적하다",
+      "summary": "물리학자들이 시공간이 존재하지 않을 수 있다는 가정 하에 우리 현실이 더 깊은 차원에서 기원한다는 단서를 쫓고 있다.",
+      "url": "https://www.livescience.com/physics-mathematics/what-if-space-and-time-dont-exist-physicists-are-chasing-hints-that-our-reality-emerges-from-something-deeper",
+      "source": "Live Science",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-11-19T17:00:00Z",
+      "storyKey": "whatifspaceandtimedontexistphysicistsarechasinghintsthatourrealityemergesfromsomethingdeeper",
+      "isNew": true
+    },
+    {
+      "title": "인쇄본: ‘인공지능 시대의 한국학’",
+      "summary": "인공지능 시대를 맞아 한국학의 방향을 다룬 도서가 출간되었다.",
       "url": "https://www.purdue.edu/newsroom/purduetoday/2026/Q4/in-print-korean-studies-in-the-artificial-intelligence-era",
       "source": "Purdue University",
       "country": "미국",
       "category": "AI",
-      "publishedAt": "2026-11-19T10:08:25Z",
+      "publishedAt": "2026-11-19T16:30:00Z",
       "storyKey": "inprintkoreanstudiesintheartificialintelligenceera",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "라스트 마일 클라우드 연결을 간소화하는 Lumen 및 Partner Cross-Cloud Interconnect",
-      "summary": "루멘과 파트너사가 라스트 마일 클라우드 연결을 간소화하는 서비스를 제공합니다.",
-      "url": "https://cloud.google.com/blog/ko/products/networking/partner-cross-cloud-interconnect-for-last-mile-delivered-by-lumen",
-      "source": "Google Cloud",
+      "title": "몸을 움직이며 즐기는 소프트웨어 특집",
+      "summary": "한국닌텐도주식회사가 몸을 움직이며 즐길 수 있는 소프트웨어 특집 소식을 전했다.",
+      "url": "https://www.nintendo.com/kr/news/article/tQSIchjEGkFsJqoqLfj9B",
+      "source": "Nintendo",
       "country": "한국",
       "category": "IT",
-      "publishedAt": "2026-11-19T10:04:18Z",
-      "storyKey": "라스트마일클라우드연결을간소화하는lumen및partnercrosscloudinterconnect",
-      "isNew": true
+      "publishedAt": "2026-11-19T16:18:26Z",
+      "storyKey": "몸을움직이며즐기는소프트웨어특집news한국닌텐도주식회사",
+      "isNew": false
     },
     {
-      "title": "'트럼프 이민정책'에 한인사회 촉각… 주미대사관, 긴급 간담회",
-      "summary": "트럼프 행정부의 이민정책 변화에 대응하기 위해 주미대사관이 한인사회를 대상으로 긴급 간담회를 개최했습니다.",
-      "url": "https://www.dongponews.net/news/articleView.html?idxno=61783",
-      "source": "재외동포신문",
+      "title": "이강인, 황인범 제치고 AFC 올해의 국제선수상...최초 2회 연속 수상",
+      "summary": "대한민국 축구 국가대표 이강인이 아시아축구연맹(AFC) 시상식에서 남자 국제선수상에 선정되며 한국 선수 최초로 2년 연속 수상의 영예를 안았다.",
+      "url": "https://www.newspim.com/news/view/20261120000008",
+      "source": "뉴스핌",
       "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-11-19T10:01:49Z",
-      "storyKey": "트럼프이민정책에한인사회촉각주미대사관긴급간담회",
+      "category": "스포츠",
+      "publishedAt": "2026-11-19T15:35:00Z",
+      "storyKey": "이강인황인범제치고afc올해의국제선수상최초2회연속수상",
       "isNew": true
     },
     {
-      "title": "\"같은 호텔방에 잠옷 차림으로\"… 최동석, 박지윤에 재반박",
-      "summary": "이혼 소송 중인 박지윤과 최동석이 상호 간의 부정행위 의혹과 사생활 폭로를 두고 팽팽하게 맞서고 있습니다.",
+      "title": "2026 CMA 어워즈: 최고의 순간들과 화제의 수상 결과",
+      "summary": "2026년 컨트리 음악 어워즈(CMA)에서 엘라 랭글리가 테일러 스위프트 등을 제치고 다관왕을 차지하며 주요 부문 상을 쓸어 담았다.",
+      "url": "https://www.rollingstone.com/music/music-country-lists/cma-awards-2026-best-worst-moments-1235660457/",
+      "source": "Rolling Stone",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-11-19T15:22:37Z",
+      "storyKey": "cmaawards202612bestworstandmostwtfmoments",
+      "isNew": true
+    },
+    {
+      "title": "손흥민 리더십 논란과 96라인 은퇴설에도 스페인 매체는 한국 대표팀을 극찬하다",
+      "summary": "대표팀 내 갈등과 부진 논란에도 불구하고, 임시 지휘봉을 내려놓은 모레노 감독 체제의 한국 축구 대표팀이 스페인 매체로부터 긍정적인 평가를 받았다.",
+      "url": "https://www.mt.co.kr/sports/2026/11/19/202611191445770406O",
+      "source": "머니투데이",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-19T14:59:00Z",
+      "storyKey": "손흥민리더십논란에96라인은퇴설까지터졌는데스페인은한국대표팀극찬모레노의한국은날고있다머니투데이",
+      "isNew": true
+    },
+    {
+      "title": "교육부 “수능 부정행위자 98명…스마트기기 활용 5건 적발”",
+      "summary": "교육부가 수능 시험장에서 초소형 카메라와 이어폰 등 스마트기기를 이용한 부정행위 5건을 포함해 총 98명을 적발했으며, 정부는 전수조사와 엄단을 예고했다.",
+      "url": "https://www.hani.co.kr/arti/society/schooling/1288221.html",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-19T13:42:00Z",
+      "storyKey": "교육부수능부정행위자98명스마트기기활용5건적발",
+      "isNew": true
+    },
+    {
+      "title": "민주당, 조희대 탄핵 당론 추진키로…“한덕수 판결은 반역”",
+      "summary": "더불어민주당이 대법원의 '한덕수 파기환송' 판결을 역사적 반역으로 규정하고 조희대 대법원장 탄핵 추진을 당론으로 검토하기로 했다.",
+      "url": "https://imnews.imbc.com/news/2026/politics/article/6867034_36911.html",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-19T10:50:05Z",
+      "storyKey": "민주당조희대탄핵당론추진키로한덕수판결은반역",
+      "isNew": true
+    },
+    {
+      "title": "\"같은 호텔방에 잠옷 차림으로\"…최동석, 박지윤에 재반박",
+      "summary": "박지윤의 부정행위가 법원의 위자료 지급 판결 근거가 된 가운데, 최동석이 관련 보도에 대해 입장을 재반박하며 공방이 이어지고 있다.",
       "url": "https://www.hankyung.com/article/2026111983257",
       "source": "한국경제",
       "country": "한국",
       "category": "문화",
       "publishedAt": "2026-11-19T09:55:52Z",
       "storyKey": "같은호텔방에잠옷차림으로최동석박지윤에재반박",
-      "isNew": true
-    },
-    {
-      "title": "\"포상금 최대 1억 원\"… 권익위, 수능 부정행위 집중 신고 기간 운영",
-      "summary": "교육부 집계 결과 수능 관련 부정행위가 다수 적발되었으며, 당국은 위급재난문자 활용 및 전수조사 등 강력한 대응에 나섰습니다.",
-      "url": "https://imnews.imbc.com/news/2026/society/article/6867013_36918.html",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-19T09:30:22Z",
-      "storyKey": "포상금최대1억원권익위수능부정행위집중신고기간운영",
-      "isNew": true
-    },
-    {
-      "title": "클라우드 간에 불꽃놀이 쏘아 올리기",
-      "summary": "클라우드 환경 간의 기술적 연동과 혁신을 다루는 내용입니다.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
-      "source": "NASA Science (.gov)",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-11-19T09:23:11Z",
-      "storyKey": "tossingfireworksfromcloudtocloud",
       "isNew": false
     },
     {
-      "title": "“올해 수능 풀어줘” AI에 입력하니… 챗GPT 10분도 안 돼 만점",
-      "summary": "인공지능 챗GPT에 올해 수능 문제를 입력한 결과 10분이 채 되지 않아 만점을 기록했습니다.",
-      "url": "https://www.joongang.co.kr/article/25480229",
-      "source": "중앙일보",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-11-19T09:12:50Z",
-      "storyKey": "올해수능풀어줘ai에입력하니챗gpt10분도안돼만점팩플",
-      "isNew": true
-    },
-    {
-      "title": "세상을 바꾸는 AI, 컴퓨팅 및 인공지능 대학이 방향 설정에 기여하고자 합니다",
-      "summary": "인공지능이 세상을 변화시키는 가운데, 관련 대학들이 올바른 방향성을 정립하기 위한 노력을 기울이고 있습니다.",
-      "url": "https://www.dailycardinal.com/article/2026/11/ai-is-changing-the-world-college-of-computing-and-artificial-intelligence-wants-to-help-decide-how",
-      "source": "The Daily Cardinal",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-19T09:06:37Z",
-      "storyKey": "aiischangingtheworldcollegeofcomputingandartificialintelligencewantstohelpdecidehow",
-      "isNew": true
-    },
-    {
-      "title": "나사(NASA) 보이저 1호, 발사 50년 만에 지구로부터 1광일 거리 기록",
-      "summary": "미국 항공우주국(NASA)의 보이저 1호가 지구로부터 1광일 떨어진 역사적인 거리에 도달했습니다.",
-      "url": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch",
-      "source": "Al Jazeera",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-11-19T08:51:20Z",
-      "storyKey": "nasasvoyager1hitsrecordonelightdaydistance50yearsafterlaunch",
-      "isNew": true
-    },
-    {
-      "title": "[속보] 대법, 한덕수 ‘내란 혐의’ 일부 무죄 취지 파기환송… “윤석열 막기 어려웠다고 계엄 가담 아냐”",
-      "summary": "대법원이 계엄 선포 전 국무회의 건의 등에 대해 무죄 취지로 파기환송한 가운데, 야권은 이에 반발하며 대법원장 탄핵을 추진하기로 했습니다.",
-      "url": "https://www.khan.co.kr/article/202611191708001",
-      "source": "경향신문",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-19T08:08:00Z",
-      "storyKey": "속보대법한덕수내란혐의일부무죄취지파기환송윤석열막기어려웠다고계엄가담아냐",
-      "isNew": true
-    },
-    {
-      "title": "넷플릭스 '이타주의자들', FTX 암호화폐 사기꾼들을 불쾌하지만 눈을 뗄 수 없는 괴짜로 그리다",
-      "summary": "넷플릭스의 새로운 드라마 시리즈가 유명 배우들의 열연을 통해 FTX 암호화폐 스캔들의 비하인드를 독특한 시선으로 재조명했습니다.",
-      "url": "https://www.ign.com/articles/the-altruists-review-netflix",
-      "source": "IGN",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-19T08:01:00Z",
-      "storyKey": "netflixsthealtruistsmakestheftxcryptoscammersouttobeunpleasantyethighlywatchableweirdos",
-      "isNew": true
-    },
-    {
-      "title": "한국 현대사 57년의 기록… ‘아스팔트 사진기자’ 최재영 사진전",
-      "summary": "한국 현대사의 현장을 57년간 기록해 온 최재영 사진기자의 사진전이 개최되었습니다.",
-      "url": "https://news.jtbc.co.kr/article/NB12328888",
-      "source": "JTBC",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-11-19T07:50:00Z",
-      "storyKey": "한국현대사57년의기록아스팔트사진기자최재영사진전",
-      "isNew": true
-    },
-    {
-      "title": "서로 다른 시장 리듬으로 분화하는 미국 주식시장",
-      "summary": "미국 주식시장이 각기 다른 종목과 섹터별로 서로 다른 흐름과 주기를 보이며 갈라지고 있습니다.",
-      "url": "https://www.alliancebernstein.com/corporate/en/insights/investment-insights/us-stocks-are-splitting-into-different-market-rhythms.html",
-      "source": "AllianceBernstein",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-19T07:49:26Z",
-      "storyKey": "usstocksaresplittingintodifferentmarketrhythms",
-      "isNew": true
-    },
-    {
-      "title": "제미나이 20~30초 만에… 수능 국어·수학 만점",
-      "summary": "구글의 제미나이가 수능 국어와 수학 영역 문제를 단 20~30초 만에 모두 풀어내며 만점을 기록했습니다.",
-      "url": "https://www.chosun.com/national/national_general/2026/11/19/VKGHUPNIABAFVAHCIKEKZSQBXE/",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-11-19T06:32:10Z",
-      "storyKey": "제미나이2030초만에수능국어수학만점",
-      "isNew": true
-    },
-    {
-      "title": "13년 만의 기다림 끝에 극찬 속에 출시된 그랜드 테프트 오토 VI(GTA 6)",
-      "summary": "전 세계적으로 큰 기대를 모았던 '그랜드 테프트 오토 VI'가 오랜 기다림 끝에 출시되어 뜨거운 반응을 얻고 있습니다.",
-      "url": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait",
-      "source": "Al Jazeera",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-11-19T06:14:04Z",
-      "storyKey": "grandtheftautovilaunchestoravereviewsafter13yearwait",
-      "isNew": true
-    },
-    {
-      "title": "‘단추 스티커’ 조치에도… 용인 시험장서 초소형 카메라 발견",
-      "summary": "부정행위 방지를 위한 강화된 조치에도 불구하고 수능 시험장에서 초소형 카메라가 발견되는 사건이 발생했습니다.",
+      "title": "‘단추 스티커’ 조치에도…용인 시험장서 초소형 카메라 발견",
+      "summary": "수능 부정행위를 막기 위한 방지책에도 불구하고 용인의 한 시험장에서 초소형 카메라가 발견되었다.",
       "url": "https://www.chosun.com/national/incident/2026/11/19/TC526BPOJBHHPAVTM3YAK5ZXKU/",
       "source": "조선일보",
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-11-19T05:41:00Z",
       "storyKey": "단추스티커조치에도용인시험장서초소형카메라발견",
-      "isNew": true
-    },
-    {
-      "title": "대한민국 수출 1조 달러 돌파… K-반도체가 해냈다",
-      "summary": "반도체 호황에 힘입어 대한민국이 전 세계에서 4번째로 수출 1조 달러를 달성하며 새로운 기록을 세웠습니다.",
-      "url": "https://zdnet.co.kr/view/?no=20261119142717",
-      "source": "지디넷코리아",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-11-19T05:29:23Z",
-      "storyKey": "대한민국수출1조달러돌파k반도체가해냈다",
-      "isNew": true
-    },
-    {
-      "title": "발테리 보타스, 2027년 캐딜락 팀 합류 확정으로 소모적 논란 해소",
-      "summary": "발테리 보타스가 2027년 시즌 캐딜락 F1 팀과의 계약을 확정 지으며 향후 거취를 둘러싼 잡음이 해소되었습니다.",
-      "url": "https://www.formula1.com/en/latest/article/we-can-get-rid-of-the-noise-bottas-relieved-to-have-cadillac-future-confirmed-for-2027.5LE0fIkWvK7hk8syPThmkE",
-      "source": "Formula 1",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-19T03:13:00Z",
-      "storyKey": "wecangetridofthenoisevaltteribottasrelievedtohavecadillacfutureconfirmedfor2027",
-      "isNew": true
-    },
-    {
-      "title": "엔비디아 및 중국 우려로 하락세 연장된 미국 주식시장",
-      "summary": "엔비디아 관련 요인과 중국에 대한 우려가 겹치면서 미국 주식시장의 하락세가 이어졌습니다.",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-slide-on-nvidia-china-fears-ea169587",
-      "source": "WSJ",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-18T23:22:55Z",
-      "storyKey": "usstocksextendslideonnvidiachinafears",
       "isNew": false
     },
     {
-      "title": "韓 모레노 감독 계약연장 물음표… 日 모리야스는 박수 받으며 퇴장",
-      "summary": "한국 축구대표팀이 2026년을 마무리하는 경기에서 아쉬움을 남기며 모레노 감독의 전술 역량과 거취에 의문이 제기되었습니다.",
-      "url": "https://www.donga.com/news/Sports/article/all/20261119/135050536/2",
-      "source": "동아일보",
+      "title": "\"이런 기능까지 생겼다고?\"…카톡 업데이트 보니 '깜짝'",
+      "summary": "카카오톡이 새로운 기능이 포함된 업데이트를 선보여 사용자들의 이목을 끌고 있다.",
+      "url": "https://www.hankyung.com/article/202611197092g",
+      "source": "한국경제",
       "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-18T19:30:00Z",
-      "storyKey": "모레노감독계약연장물음표모리야스는박수받으며퇴장",
-      "isNew": false
+      "category": "기술",
+      "publishedAt": "2026-11-19T03:08:40Z",
+      "storyKey": "이런기능까지생겼다고카톡업데이트보니깜짝",
+      "isNew": true
     },
     {
-      "title": "페르미랩 소장, 명예로운 미국물리학회상 수상",
-      "summary": "페르미 국립가속기연구소의 소장이 미국물리학회로부터 권위 있는 상을 받았습니다.",
-      "url": "https://news.fnal.gov/2026/11/fermilab-director-receives-prestigious-american-physical-society-award/",
-      "source": "Fermilab (.gov)",
-      "country": "미국",
+      "title": "기아, 노사 합동 사랑나누기 기부 캠페인 실시",
+      "summary": "기아가 노사 합동으로 주변 이웃을 돕기 위한 사랑나누기 기부 캠페인을 진행했다.",
+      "url": "https://www.hyundaimotorgroup.com/ko/news/kia-labor-management-love-sharing-donation-campaign",
+      "source": "Hyundai Motor Group",
+      "country": "한국",
       "category": "사회",
-      "publishedAt": "2026-11-18T19:17:49Z",
-      "storyKey": "fermilabdirectorreceivesprestigiousamericanphysicalsocietyaward",
-      "isNew": false
+      "publishedAt": "2026-11-18T23:30:00Z",
+      "storyKey": "기아노사합동사랑나누기기부캠페인실시뉴스현대자동차그룹",
+      "isNew": true
     },
     {
-      "title": "1광일 간 보이저, 태양계 비밀 열고 인류 대사 되다",
-      "summary": "태양계를 벗어나 우주를 항해 중인 보이저 호가 인류의 위대한 과학적 이현상을 이어가고 있습니다.",
-      "url": "https://www.chosun.com/economy/science/2026/11/19/EKMA3C3CSJHWNKXQTEN32NGENI/",
-      "source": "조선일보",
+      "title": "누리호 5차 발사 성공 최종 확인…“목표궤도 진입 정상 수행”",
+      "summary": "한국의 우주 발사체 누리호 5차 발사가 목표 궤도에 정상 진입하며 성공적으로 완료된 것이 최종 확인되었다.",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716239",
+      "source": "KBS 뉴스",
       "country": "한국",
       "category": "과학",
-      "publishedAt": "2026-11-18T15:48:33Z",
-      "storyKey": "1간보이저태양계비밀열고인류대사되다",
-      "isNew": false
-    },
-    {
-      "title": "22kg 성체 영장류를 향한 독수리의 포식 흔적 발견",
-      "summary": "사하라 사막에서 독수리가 커다란 개코원숭이를 사냥한 흔적이 발견되면서 고대 조인류와의 관계에 대한 학술적 관심이 쏠리고 있습니다.",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajpa.70377",
-      "source": "Wiley Online Library",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-11-18T09:49:11Z",
-      "storyKey": "signsofeaglepredationona22kgadultprimate",
+      "publishedAt": "2026-11-18T08:10:00Z",
+      "storyKey": "누리호5차발사성공최종확인목표궤도진입정상수행",
       "isNew": true
     }
   ],
   "briefing": [
-    "인공지능 기술의 발전이 가속화되면서 앤트로픽의 대규모 상장과 챗GPT·제미나이의 수능 만점 등 AI가 경제와 교육 분야 전반에 큰 파장을 일으키고 있습니다.",
-    "한국은 반도체 호황에 힘입어 세계 4번째로 수출 1조 달러를 돌파하며 경제적 성과를 거둔 반면, 사법부 판결과 이민 정책 변화 등으로 사회·정치적 긴장감도 고조되고 있습니다.",
-    "미국에서는 월마트의 실적 호조와 대형 게임 및 미디어 콘텐츠의 연이은 흥행이 이어지는 한편, 기후 변화와 우주 탐사 분야에서도 유의미한 이들이 나타나고 있습니다."
+    "엔트로픽의 대규모 IPO 상장과 첫날 주가 변동성이 글로벌 증시와 AI 관련 투자 심리에 큰 파장을 일으키고 있다.",
+    "국내에서는 수능 부정행위 적발, 정치권의 대법원장 탄핵 추진, 연예인 사생활 공방 등 다양한 사회적 현안이 대두되고 있다.",
+    "이강인의 AFC 올해의 국제선수상 2년 연속 수상과 누리호 5차 발사 성공 등 스포츠와 과학 분야에서 고무적인 성과가 이어졌다."
   ],
   "trends": [
     {
       "category": "정치",
-      "summary": "대법원의 내란 혐의 관련 파기환송 판결과 야권의 사법부 대응, 트럼프 이민정책에 대응하는 한인사회의 움직임이 주목받고 있습니다."
+      "summary": "정치권에서는 더불어민주당이 사법부 판결에 반발하며 조희대 대법원장 탄핵 추진을 검토하고 나섰다."
     },
     {
       "category": "경제",
-      "summary": "앤트로픽의 대규모 상장 추진과 월마트의 실적 호조, 그리고 한국의 수출 1조 달러 돌파 소식이 주요 경제 이슈로 부각되었습니다."
+      "summary": "미국 주택담보대출 금리가 5주 만에 상승세로 돌아섰고 앤트로픽의 대규모 IPO가 경제계의 주요 화두가 되었다."
     },
     {
       "category": "기술",
-      "summary": "대형 기대작 게임의 글로벌 출시와 수능 시험장에서의 초소형 카메라 적발 등 첨단 기술과 보안 이슈가 교차하고 있습니다."
+      "summary": "수능 시험장 등에서 초소형 카메라를 이용한 부정행위가 적발되어 보안 및 방지 대책이 도마에 올랐다."
     },
     {
       "category": "문화",
-      "summary": "컨트리 음악 시상식의 수상 결과와 연예인 간의 사생활 공방, 그리고 암호화폐 스캔들을 다룬 넷플릭스 작품이 화제를 모았습니다."
+      "summary": "영화 '클리프 부스의 추가 모험'과 대형 음악 시상식 등 대중문화 콘텐츠들이 대중의 큰 관심을 받고 있다."
     },
     {
       "category": "스포츠",
-      "summary": "프로배구 경기 중 관중 응급 상황 발생과 A매치를 마친 축구대표팀의 거취 문제, F1 드라이버의 계약 소식이 전해졌습니다."
+      "summary": "이강인이 아시아축구연맹 남자 국제선수상 2년 연속 수상의 영예를 안았고 대표팀 관련 소식이 전해졌다."
     },
     {
       "category": "과학",
-      "summary": "발사 50주년을 맞은 보이저 1호의 1광일 거리 도달과 고대 영장류를 사냥한 독수리 흔적 등 유의미한 연구 결과가 발표되었습니다."
+      "summary": "누리호 5차 발사가 성공적으로 목표 궤도에 안착했으며 보이저 1호의 교신 소식도 전해졌다."
     },
     {
       "category": "IT",
-      "summary": "클라우드 연결 간소화 솔루션과 신체 활동 중심의 소프트웨어 콘텐츠 등이 관련 업계에서 관심을 끌고 있습니다."
+      "summary": "엔비디아 여파로 국내 네오클라우드 종목이 급락하고 카카오톡 업데이트 등 플랫폼 변화가 이어졌다."
     },
     {
       "category": "주식",
-      "summary": "앤트로픽 상장 기대감에 코스피가 반등한 반면, 미국 증시는 엔비디아 및 중국 관련 우려로 혼조세를 보였습니다."
+      "summary": "외국인 투자자의 두 달 연속 대규모 순매도와 앤트로픽 상장 직후 증시 하락세가 겹쳤다."
     },
     {
       "category": "사회",
-      "summary": "수능 부정행위 집중 단속과 현대사 기록 사진전 개최, 플로리다주의 폭우 및 홍수 피해가 보도되었습니다."
+      "summary": "시험제도의 신뢰성 위기와 기아의 노사 합동 기부 캠페인 등 사회 각계의 이슈가 보도되었다."
     },
     {
       "category": "AI",
-      "summary": "챗GPT와 제미나이가 수능 전 영역에서 만점을 기록하고, 인공지능 시대의 학문적 방향성을 모색하는 움직임이 활발합니다."
+      "summary": "앤트로픽의 상장과 경기도서관의 AI 관련 문화행사 개최 등 인공지능 기술의 영향력이 다방면으로 확대되고 있다."
     }
   ]
 }
