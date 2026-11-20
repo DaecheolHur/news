@@ -1,295 +1,317 @@
 {
-  "generatedAt": "2026-11-19T22:14:05.912073Z",
+  "generatedAt": "2026-11-20T03:29:29.868074Z",
   "items": [
     {
-      "title": "앤트로픽 상장 첫날 17% 상승 마감, 기업가치 1.27조 달러 기록",
-      "summary": "앤트로픽이 첫 기업공개(IPO)에서 시초가 대비 17% 상승하며 1조 2,700억 달러의 가치로 거래를 마감했고, 7명의 공동 창업자는 각각 약 20억 달러의 막대한 자산을 얻게 되었다.",
-      "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html",
-      "source": "Yahoo Finance",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-19T22:00:01Z",
-      "storyKey": "anthropicipoliveanthropicstockclosesup17frominitialpricefor127tvaluationinfirstdayoftrading",
-      "isNew": true
-    },
-    {
-      "title": "경기도서관, 30일까지 인공지능(AI) 관련 문화행사 펼쳐",
-      "summary": "경기도서관이 30일까지 인공지능(AI)과 관련된 다양한 문화행사를 개최한다.",
-      "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=72020",
-      "source": "경기도뉴스포털",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-11-19T22:00:00Z",
-      "storyKey": "경기도서관30일까지인공지능ai관련문화행사펼쳐",
-      "isNew": true
-    },
-    {
-      "title": "흔들리는 시험제도, 한국사회 버팀목의 붕괴 위기",
-      "summary": "최근 흔들리는 시험제도로 인해 한국 사회의 중요한 버팀목이 붕괴될 위기에 처해 있다.",
-      "url": "https://www.yna.co.kr/view/AKR20261119089500546",
+      "title": "코이카, 시민사회협력 성과 공유 '시소데이' 개최",
+      "summary": "코이카가 시민사회협력 사업의 성과를 공유하는 '시소데이'를 개최했다.",
+      "url": "https://www.yna.co.kr/view/RPR20261120005100353",
       "source": "연합뉴스",
       "country": "한국",
       "category": "사회",
-      "publishedAt": "2026-11-19T21:55:01Z",
-      "storyKey": "율곡로흔들리는시험제도한국사회버팀목의붕괴위기",
+      "publishedAt": "2026-11-20T02:56:31Z",
+      "storyKey": "코이카시민사회협력성과공유시소데이개최",
       "isNew": true
     },
     {
-      "title": "학자들이 교육에서 학습을 희생시키지 않고 AI를 활용하는 방안을 고심하다",
-      "summary": "학자들이 학생들의 학습 능력을 희생시키지 않으면서 교육 현장에 AI를 효과적으로 도입하는 방안을 모색하고 있다.",
-      "url": "https://hub.jhu.edu/2026/11/19/johns-hopkins-data-science-and-ai-institute-fall-2026-symposium/",
-      "source": "Johns Hopkins University",
+      "title": "백악관 국가사이버국장 사임, 트럼프 대통령이 커스틴 데이비스 임명",
+      "summary": "기술 장애 사태로 비판을 받은 숀 캐린크로스 백악관 국가사이버국장이 사임하고 트럼프 대통령이 커스틴 데이비스를 후임으로 임명했다.",
+      "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/",
+      "source": "CBS News",
       "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-19T21:45:00Z",
-      "storyKey": "scholarsconsiderhowtouseaiineducationwithoutsacrificinglearning",
+      "category": "정치",
+      "publishedAt": "2026-11-20T02:50:29Z",
+      "storyKey": "whitehousenationalcyberdirectorleavinghispost",
       "isNew": true
     },
     {
-      "title": "앤트로픽의 데뷔가 AI 열풍을 되살리지 못하면서 월스트리트는 큰 폭으로 하락 마감했다",
-      "summary": "앤트로픽의 상장에도 불구하고 AI에 대한 시장의 열기가 살아나지 않으면서 월스트리트 증시는 급락세로 거래를 마쳤다.",
-      "url": "https://www.reuters.com/business/nasdaq-futures-jump-anthropics-record-ipo-pricing-fuels-hopes-strong-debut-2026-11-19/",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-19T21:38:51Z",
-      "storyKey": "wallstreetendssharplylowerasanthropicsdebutfailstoreviveaifervor",
-      "isNew": true
-    },
-    {
-      "title": "하루 늦게 덮친 엔비디아 후폭풍, 한국 네오클라우드 '급락'",
-      "summary": "엔비디아의 여파가 하루 늦게 국내 시장에 미치면서 한국의 네오클라우드 관련 종목들이 급락했다.",
-      "url": "https://www.hankyung.com/article/2026111979176",
-      "source": "한국경제",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-11-19T21:30:01Z",
-      "storyKey": "하루늦게덮친엔비디아후폭풍네오클라우드급락종목",
-      "isNew": true
-    },
-    {
-      "title": "외국인, 지난달 국내주식 26조 순매도…두 달째 '팔자'",
-      "summary": "외국인 투자자들이 지난달 국내 주식을 26조 원어치 순매도하며 두 달째 매도 우위를 이어갔다.",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445637",
-      "source": "연합인포맥스",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-11-19T21:00:16Z",
-      "storyKey": "외국인지난달국내주식26조순매도두달째팔자",
-      "isNew": true
-    },
-    {
-      "title": "앤트로픽의 성공적인 IPO 이후 주식시장이 하락한 이유는 무엇인가?",
-      "summary": "앤트로픽의 성공적인 상장 직후에도 주식시장이 하락세를 보인 배경에 관심이 쏠리고 있다.",
-      "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
-      "source": "The New York Times",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-19T20:57:56Z",
-      "storyKey": "whyisthestockmarketdownafteranthropicssuccessfulipo",
-      "isNew": true
-    },
-    {
-      "title": "램스 와이드리시버 푸카 나쿠아, 부상자 명단에 있는 동안 3경기 출장 정지 징계 받다",
-      "summary": "NFL 개인 행동 규정을 위반한 LA 램스의 올프로 와이드리시버 푸카 나쿠아가 부상자 명단(IR)에 등재된 기간 동안 3경기 출장 정지 징계를 소화하게 되었다.",
-      "url": "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir",
-      "source": "ESPN",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-19T20:38:00Z",
-      "storyKey": "ramswrpukanacuatoserve3gamesuspensionwhileonir",
-      "isNew": true
-    },
-    {
-      "title": "‘GTA 6’ 판매량, 이미 크리스토퍼 놀란의 ‘오디세이’를 넘어서다",
-      "summary": "신작 게임 'GTA 6'의 판매량이 크리스토퍼 놀란의 작품 기록을 이미 추월했으며, 대중과 경제 전반에 큰 파장을 예고하고 있다.",
-      "url": "https://www.hollywoodreporter.com/business/digital/gta-6-sales-the-odyssey-1236759454/",
-      "source": "The Hollywood Reporter",
+      "title": "GTA 6, 판매액 20억 달러 돌파하며 기록 경신",
+      "summary": "GTA 6가 판매액 20억 달러를 돌파하며 업계 역대 기록을 경신했다.",
+      "url": "https://www.bbc.com/news/articles/c9zr5nyv5dj2o",
+      "source": "BBC",
       "country": "미국",
       "category": "기술",
-      "publishedAt": "2026-11-19T19:48:16Z",
-      "storyKey": "gta6saleshavealreadysurpassedchristophernolanstheodyssey",
+      "publishedAt": "2026-11-20T02:48:47Z",
+      "storyKey": "gta6breaksrecordsassalestop2bnindustryestimate",
       "isNew": true
     },
     {
-      "title": "나사의 보이저 1호, 경이로운 1광일 거리에서 지구와 교신하다",
-      "summary": "발사 후 49년이 지난 NASA의 보이저 1호가 지구로부터 1광일 떨어진 거리에서 데이터를 전송하며 건재함을 알렸다.",
+      "title": "교육부, 수능 전자기기 부정행위 111건 적발…대통령 전수조사 지시",
+      "summary": "교육부가 수능 전자기기 부정행위 총 111건을 적발한 가운데, 대통령이 수능 문제지 AI 업로드 전수조사와 엄단을 지시했다.",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6867202_36918.html",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-20T02:09:34Z",
+      "storyKey": "속보교육부수능전자기기부정행위총111건적발",
+      "isNew": true
+    },
+    {
+      "title": "병원 사이버보안 대응책 논의…의료계·보안 전문가 1200명 집결",
+      "summary": "의료계와 보안 전문가 1200명이 모여 병원 사이버보안 대응책을 논의했다.",
+      "url": "https://www.etnews.com/20261120000135",
+      "source": "전자신문",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-20T02:01:51Z",
+      "storyKey": "병원사이버보안대응책논의의료계보안전문가1200명집결",
+      "isNew": true
+    },
+    {
+      "title": "한국여성재단, 성평등 사회 위한 새로운 시도 공모 시작",
+      "summary": "한국여성재단이 성평등 사회를 위한 새로운 시도를 찾는 공모를 시작했다.",
+      "url": "https://futurechosun.com/archives/167229",
+      "source": "더나은미래",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-11-20T01:53:00Z",
+      "storyKey": "성평등사회위한새로운시도찾습니다한국여성재단공모시작",
+      "isNew": true
+    },
+    {
+      "title": "트럼프, 커스틴 데이비스를 새 국가사이버국장으로 지명",
+      "summary": "트럼프 대통령이 커스틴 데이비스를 새로운 국가사이버국장으로 지명했다.",
+      "url": "https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving",
+      "source": "Axios",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-11-20T01:26:39Z",
+      "storyKey": "scooptrumpnameskirstendaviesasnewnationalcyberdirector",
+      "isNew": true
+    },
+    {
+      "title": "AI 세무사 시험 만점 기록 및 실제 고득점자 33배 증가",
+      "summary": "인공지능이 세무사 시험에서 만점을 기록했으며 실제 고득점자도 33배 증가했다.",
+      "url": "https://www.yna.co.kr/view/AKR20261120050300017",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-11-20T01:00:00Z",
+      "storyKey": "ai가세무사시험풀었더니만점실제고득점자도33배증가",
+      "isNew": true
+    },
+    {
+      "title": "앤트로픽 상장에도 미 증시 하락 및 코스피 약세 개장",
+      "summary": "앤트로픽의 상장에도 불구하고 미국 증시가 하락하고 코스피도 약세로 개장했다.",
+      "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611200953499926_005.html",
+      "source": "YTN",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-11-20T00:53:00Z",
+      "storyKey": "앤트로픽상장에도미증시코스피도약세개장",
+      "isNew": true
+    },
+    {
+      "title": "민주당, 한덕수 파기환송 판결 반발하며 조희대 대법원장 탄핵 추진",
+      "summary": "민주당이 한덕수 판결을 반역사적이라고 비판하며 조희대 대법원장 탄핵안을 당론으로 추진하기로 했다.",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1288236.html",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-20T00:40:00Z",
+      "storyKey": "민주조희대탄핵공식화한덕수파기환송에반역사적판결",
+      "isNew": true
+    },
+    {
+      "title": "유락, 오만 사이버보안 전시 참가해 AI 디지털 포렌식 선보여",
+      "summary": "유락이 오만 사이버보안 전시회에 참가하여 AI 디지털 포렌식 기술을 선보였다.",
+      "url": "https://www.ddaily.co.kr/page/view/2026112009295322850",
+      "source": "디지털데일리",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-20T00:35:26Z",
+      "storyKey": "유락오만사이버보안전시참가ai디지털포렌식선봬",
+      "isNew": true
+    },
+    {
+      "title": "아마존 세이지메이커 인퍼런스: 2026년 런칭 리뷰 파트 2",
+      "summary": "아마존 세이지메이커 인퍼런스의 2026년 런칭 관련 두 번째 리뷰 내용이 공개됐다.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+      "source": "Amazon Web Services (AWS)",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-20T00:34:07Z",
+      "storyKey": "amazonsagemakerinference2026launchesinreviewpart2",
+      "isNew": true
+    },
+    {
+      "title": "앤트로픽 IPO로 연구원 등 직원 대다수가 벼락부자 등극",
+      "summary": "앤트로픽이 810조 원 규모의 기록적인 IPO를 성공시키며 임직원 대다수가 백만장자가 되었다.",
+      "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-20T00:25:47Z",
+      "storyKey": "anthropicsipoturnstechresearchersintoovernightmillionaires",
+      "isNew": true
+    },
+    {
+      "title": "앤트로픽 IPO 흥행 속에서도 AI 과잉투자 공포로 증시 및 반도체주 하락",
+      "summary": "앤트로픽 IPO 흥행에도 불구하고 AI 수익성 우려와 과잉투자 공포로 뉴욕증시와 반도체주가 부진했다.",
+      "url": "https://zdnet.co.kr/view/?no=20261120092052",
+      "source": "지디넷코리아",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-11-20T00:24:52Z",
+      "storyKey": "앤트로픽ipo에12조원이상몰렸는데공모청약빠진이유",
+      "isNew": true
+    },
+    {
+      "title": "이강인, 한국 선수 최초 AFC 올해의 국제선수상 2년 연속 수상",
+      "summary": "이강인이 황인범과 우에다 등을 제치고 사상 최초로 AFC 올해의 국제선수상을 2년 연속 수상했다.",
+      "url": "https://imnews.imbc.com/news/2026/sports/article/6867171_36946.html",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-19T23:49:53Z",
+      "storyKey": "이강인사상첫afc올해의국제선수상황인범우에다제쳐",
+      "isNew": true
+    },
+    {
+      "title": "식수 관련 보도",
+      "summary": "식수와 관련된 내용이 다뤄졌다.",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+      "source": "World Health Organization (WHO)",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-11-19T23:06:18Z",
+      "storyKey": "drinkingwater",
+      "isNew": true
+    },
+    {
+      "title": "캘리포니아 법무장관, 엔비디아의 대중국 칩 우회 수출 의혹 조사 착수",
+      "summary": "캘리포니아 법무장관이 엔비디아를 상대로 대중국 AI 칩 우회 수출 의혹과 관련된 조사 소환장을 발부했다.",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+      "source": "CNBC",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-19T22:49:04Z",
+      "storyKey": "californiaattorneygeneralissuesnvidiasubpoenainprobeofchinachipdiversion",
+      "isNew": true
+    },
+    {
+      "title": "성범죄 유죄 강지환, 틱톡 라이브로 7년 만에 근황 공개",
+      "summary": "성범죄로 유죄를 선고받았던 배우 강지환이 틱톡 라이브 방송을 통해 뜨개질을 하며 7년 만에 근황을 전했다.",
+      "url": "https://www.news1.kr/entertain/celebrity-topic/6360330",
+      "source": "뉴스1",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-11-19T22:42:03Z",
+      "storyKey": "성범죄유죄강지환7년만에직접전한근황뜨개질하며틱톡서소통",
+      "isNew": true
+    },
+    {
+      "title": "램스 푸카 나쿠아, 개인 행동 규칙 위반으로 3경기 출전 정지",
+      "summary": "NFL 램스의 푸카 나쿠아가 개인 행동 규칙 위반으로 부상자 명단에 있는 동안 3경기 출전 정지 처분을 받았다.",
+      "url": "https://www.cbssports.com/nfl/news/rams-puka-nacua-suspended-three-games-will-serve-ban-during-injured-reserve-stint/",
+      "source": "CBS Sports",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-19T21:46:34Z",
+      "storyKey": "ramspukanacuasuspendedthreegameswillservebanduringinjuredreservestint",
+      "isNew": true
+    },
+    {
+      "title": "뉴욕주, 공공 이익 위한 엠파이어 AI 슈퍼컴퓨팅 센터 착공",
+      "summary": "뉴욕주 호컬 주지사가 공공 이익을 위한 인공지능 활용을 선도할 영구 엠파이어 AI 슈퍼컴퓨팅 센터 착공식을 개최했다.",
+      "url": "https://www.governor.ny.gov/news/governor-hochul-breaks-ground-permanent-empire-ai-supercomputing-center-marking-major",
+      "source": "Governor Kathy Hochul (.gov)",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-19T21:34:26Z",
+      "storyKey": "governorhochulbreaksgroundonpermanentempireaisupercomputingcentermarkingmajormilestoneinnewyorksnationalleadershipinusingartificialintelligenceforthepublicgood",
+      "isNew": true
+    },
+    {
+      "title": "투자자 불확실성 속 미국 주식시장 급락",
+      "summary": "투자자들이 불확실성 속에서 위험 관리에 나서며 미국 주식시장이 급락했다.",
+      "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/",
+      "source": "CBS News",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-19T21:25:11Z",
+      "storyKey": "stocksplungeasinvestorstakecoveramidgrowinguncertainty",
+      "isNew": true
+    },
+    {
+      "title": "과학자들, 미래 달 기지 식량 자원으로 감자 재배 성공",
+      "summary": "과학자들이 모의 달 토양에서 지구에서와 유사한 성능으로 감자를 재배하는 데 성공했다.",
+      "url": "https://www.theguardian.com/science/2026/nov/19/potatoes-moon-base-nasa",
+      "source": "The Guardian",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-11-19T20:54:00Z",
+      "storyKey": "spudsinspacescientistssaypotatoescouldbekeyfoodsourceforfuturemoonbase",
+      "isNew": true
+    },
+    {
+      "title": "미국 주식시장, 상승세 완화 속 역사적 랠리 지속 전망",
+      "summary": "미국 주식시장은 상승세가 완화되면서도 역사적 랠리를 이어갈 것으로 전망됐다.",
+      "url": "https://www.goldmansachs.com/insights/articles/us-stocks-predicted-to-extend-historic-rally-as-gains-moderate",
+      "source": "Goldman Sachs",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-19T20:42:21Z",
+      "storyKey": "usstocksarepredictedtoextendtheirhistoricrallyasgainsmoderate",
+      "isNew": true
+    },
+    {
+      "title": "나사 보이저 1호, 지구에서 빛의 하루 거리 도달",
+      "summary": "나사의 보이저 1호가 지구로부터 빛이 하루 동안 이동하는 거리까지 도달하며 정상 데이터를 전송했다.",
       "url": "https://apnews.com/article/voyager-nasa-light-day-interstellar-space-db9f5f8d9ec3a40f1f434446baf326b5",
       "source": "AP News",
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-11-19T19:26:00Z",
       "storyKey": "nasasvoyager1phoneshomefromanaweinspiringonelightdayaway",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "미국 주택담보대출 금리, 5주 만에 첫 상승세 기록",
-      "summary": "미국의 30년 고정 주택담보대출 평균 금리가 이번 주 7.28%로 상승하며 4주 연속 하락세를 마감하고 3주 만에 최고치로 치솟았다.",
-      "url": "https://www.cnn.com/2026/11/19/economy/us-mortgage-rates-rise",
-      "source": "CNN",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-19T18:39:27Z",
-      "storyKey": "usmortgageratesriseforthefirsttimeinfiveweekscnnbusiness",
-      "isNew": true
-    },
-    {
-      "title": "‘클리프 부스의 추가 모험’ 리뷰: 쿠엔틴 타란티노와 데이비드 핀처가 뭉쳐 브래드 피트의 화려한 귀환을 이끌다",
-      "summary": "타란티노와 핀처가 협력하여 만든 넷플릭스 영화 '클리프 부스의 추가 모험'이 브래드 피트의 출연과 함께 평단과 관객들로부터 뜨거운 반응을 얻고 있다.",
+      "title": "쿠엔틴 타란티노와 데이비드 핀처의 협업작 '클리프 부스의 추가 모험' 리뷰",
+      "summary": "브래드 피트의 오스카 수상 역할을 재현한 타란티노 각본, 핀처 연출의 넷플릭스 영화 리뷰가 공개됐다.",
       "url": "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt",
       "source": "The Guardian",
       "country": "미국",
       "category": "문화",
       "publishedAt": "2026-11-19T18:36:00Z",
       "storyKey": "thefurthermisadventuresofcliffboothreviewtarantinoandfincherjoinforcesforbradpittsgloriousreturn",
-      "isNew": true
-    },
-    {
-      "title": "정실 정치",
-      "summary": "정실 정치와 관련된 사회적 이슈가 조명되고 있다.",
-      "url": "https://phenomenalworld.org/interviews/patronage-politics/",
-      "source": "Phenomenal World",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-11-19T18:17:16Z",
-      "storyKey": "patronagepolitics",
-      "isNew": true
-    },
-    {
-      "title": "소프트웨어 베이루트에 오신 것을 환영합니다",
-      "summary": "소프트웨어 베이루트와 관련된 IT 소식이 전해졌다.",
-      "url": "https://www.theatlantic.com/ideas/2026/11/software-beirut-ai-outages/689508/",
-      "source": "The Atlantic",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-11-19T18:17:00Z",
-      "storyKey": "welcometosoftwarebeirut",
-      "isNew": true
-    },
-    {
-      "title": "공화당의 중간선거 패배 후 MAGA와 거리두는 일론 머스크, 트럼프는 여전히 친구라 칭하다",
-      "summary": "일론 머스크가 공화당의 중간선거 패배 이후 자신을 정치적 중도 성향이라 밝히며 MAGA 노선에서 물러났으나, 도널드 트럼프 전 대통령은 여전히 그를 친구로 평가했다.",
-      "url": "https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05",
-      "source": "AP News",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-11-19T18:13:00Z",
-      "storyKey": "muskbacksawayfrommagaafterrepublicansmidtermlossesbuttrumpsayshesstillafriend",
-      "isNew": true
-    },
-    {
-      "title": "앤트로픽, 상장 첫날 롤러코스터…시초가 대비 10% 급락",
-      "summary": "나스닥에 상장한 앤트로픽이 공모가 83달러로 첫날 롤러코스터 장세를 보이며 스페이스X의 조달액 기록을 넘어설 것으로 예상되는 가운데 뉴욕증시 전반은 급락했다.",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445632",
-      "source": "연합인포맥스",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-11-19T17:34:42Z",
-      "storyKey": "앤트로픽상장첫날롤러코스터시초가대비10급락상보",
-      "isNew": true
-    },
-    {
-      "title": "시공간이 존재하지 않는다면? 물리학자들이 현실의 근원을 추적하다",
-      "summary": "물리학자들이 시공간이 존재하지 않을 수 있다는 가정 하에 우리 현실이 더 깊은 차원에서 기원한다는 단서를 쫓고 있다.",
-      "url": "https://www.livescience.com/physics-mathematics/what-if-space-and-time-dont-exist-physicists-are-chasing-hints-that-our-reality-emerges-from-something-deeper",
-      "source": "Live Science",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-11-19T17:00:00Z",
-      "storyKey": "whatifspaceandtimedontexistphysicistsarechasinghintsthatourrealityemergesfromsomethingdeeper",
-      "isNew": true
-    },
-    {
-      "title": "인쇄본: ‘인공지능 시대의 한국학’",
-      "summary": "인공지능 시대를 맞아 한국학의 방향을 다룬 도서가 출간되었다.",
-      "url": "https://www.purdue.edu/newsroom/purduetoday/2026/Q4/in-print-korean-studies-in-the-artificial-intelligence-era",
-      "source": "Purdue University",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-19T16:30:00Z",
-      "storyKey": "inprintkoreanstudiesintheartificialintelligenceera",
       "isNew": false
     },
     {
-      "title": "몸을 움직이며 즐기는 소프트웨어 특집",
-      "summary": "한국닌텐도주식회사가 몸을 움직이며 즐길 수 있는 소프트웨어 특집 소식을 전했다.",
-      "url": "https://www.nintendo.com/kr/news/article/tQSIchjEGkFsJqoqLfj9B",
-      "source": "Nintendo",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-11-19T16:18:26Z",
-      "storyKey": "몸을움직이며즐기는소프트웨어특집news한국닌텐도주식회사",
-      "isNew": false
-    },
-    {
-      "title": "이강인, 황인범 제치고 AFC 올해의 국제선수상...최초 2회 연속 수상",
-      "summary": "대한민국 축구 국가대표 이강인이 아시아축구연맹(AFC) 시상식에서 남자 국제선수상에 선정되며 한국 선수 최초로 2년 연속 수상의 영예를 안았다.",
-      "url": "https://www.newspim.com/news/view/20261120000008",
-      "source": "뉴스핌",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-19T15:35:00Z",
-      "storyKey": "이강인황인범제치고afc올해의국제선수상최초2회연속수상",
-      "isNew": true
-    },
-    {
-      "title": "2026 CMA 어워즈: 최고의 순간들과 화제의 수상 결과",
-      "summary": "2026년 컨트리 음악 어워즈(CMA)에서 엘라 랭글리가 테일러 스위프트 등을 제치고 다관왕을 차지하며 주요 부문 상을 쓸어 담았다.",
+      "title": "2026 CMA 어워즈, 엘라 랭글리 3관왕 석권 및 테일러 스위프트 복귀",
+      "summary": "2026 CMA 어워즈에서 엘라 랭글리가 테일러 스위프트를 제치고 상을 쓸어 담으며 주요 부문에서 활약했다.",
       "url": "https://www.rollingstone.com/music/music-country-lists/cma-awards-2026-best-worst-moments-1235660457/",
       "source": "Rolling Stone",
       "country": "미국",
       "category": "문화",
       "publishedAt": "2026-11-19T15:22:37Z",
       "storyKey": "cmaawards202612bestworstandmostwtfmoments",
-      "isNew": true
-    },
-    {
-      "title": "손흥민 리더십 논란과 96라인 은퇴설에도 스페인 매체는 한국 대표팀을 극찬하다",
-      "summary": "대표팀 내 갈등과 부진 논란에도 불구하고, 임시 지휘봉을 내려놓은 모레노 감독 체제의 한국 축구 대표팀이 스페인 매체로부터 긍정적인 평가를 받았다.",
-      "url": "https://www.mt.co.kr/sports/2026/11/19/202611191445770406O",
-      "source": "머니투데이",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-19T14:59:00Z",
-      "storyKey": "손흥민리더십논란에96라인은퇴설까지터졌는데스페인은한국대표팀극찬모레노의한국은날고있다머니투데이",
-      "isNew": true
-    },
-    {
-      "title": "교육부 “수능 부정행위자 98명…스마트기기 활용 5건 적발”",
-      "summary": "교육부가 수능 시험장에서 초소형 카메라와 이어폰 등 스마트기기를 이용한 부정행위 5건을 포함해 총 98명을 적발했으며, 정부는 전수조사와 엄단을 예고했다.",
-      "url": "https://www.hani.co.kr/arti/society/schooling/1288221.html",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-19T13:42:00Z",
-      "storyKey": "교육부수능부정행위자98명스마트기기활용5건적발",
-      "isNew": true
-    },
-    {
-      "title": "민주당, 조희대 탄핵 당론 추진키로…“한덕수 판결은 반역”",
-      "summary": "더불어민주당이 대법원의 '한덕수 파기환송' 판결을 역사적 반역으로 규정하고 조희대 대법원장 탄핵 추진을 당론으로 검토하기로 했다.",
-      "url": "https://imnews.imbc.com/news/2026/politics/article/6867034_36911.html",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-19T10:50:05Z",
-      "storyKey": "민주당조희대탄핵당론추진키로한덕수판결은반역",
-      "isNew": true
-    },
-    {
-      "title": "\"같은 호텔방에 잠옷 차림으로\"…최동석, 박지윤에 재반박",
-      "summary": "박지윤의 부정행위가 법원의 위자료 지급 판결 근거가 된 가운데, 최동석이 관련 보도에 대해 입장을 재반박하며 공방이 이어지고 있다.",
-      "url": "https://www.hankyung.com/article/2026111983257",
-      "source": "한국경제",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-11-19T09:55:52Z",
-      "storyKey": "같은호텔방에잠옷차림으로최동석박지윤에재반박",
       "isNew": false
     },
     {
-      "title": "‘단추 스티커’ 조치에도…용인 시험장서 초소형 카메라 발견",
-      "summary": "수능 부정행위를 막기 위한 방지책에도 불구하고 용인의 한 시험장에서 초소형 카메라가 발견되었다.",
+      "title": "대한축구협회, 모레노 감독 연장 계약 협상 루머에 결정된 바 없다 입장 표명",
+      "summary": "대한축구협회는 모레노 감독과의 연장 계약 협상 루머에 대해 결정된 사항이 없으며 전력강화위원회 일정조차 미정이라고 밝혔다.",
+      "url": "https://www.chosun.com/sports/football/2026/11/19/GM3TCNDGMRSDIMJYGYZGCYRSGY/",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-19T12:24:00Z",
+      "storyKey": "kfa모레노감독연장계약협상루머결정사항아무것도없다전력강화위원회일정도미정",
+      "isNew": true
+    },
+    {
+      "title": "생성형 AI, 20초 만에 수능 국어·수학 만점 기록",
+      "summary": "생성형 인공지능이 수능 국어와 수학 시험에서 20초 만에 만점을 기록했다.",
+      "url": "https://www.chosun.com/national/national_general/2026/11/19/VKGHUPNIABAFVAHCIKEKZSQBXE/",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-11-19T06:23:00Z",
+      "storyKey": "생성형인공지능20초만에수능국어수학만점",
+      "isNew": true
+    },
+    {
+      "title": "용인 수능 시험장서 단추 스티커 조치에도 초소형 카메라 적발",
+      "summary": "단추 스티커 조치 등에도 불구하고 용인 시험장에서 초소형 카메라가 발견됐다.",
       "url": "https://www.chosun.com/national/incident/2026/11/19/TC526BPOJBHHPAVTM3YAK5ZXKU/",
       "source": "조선일보",
       "country": "한국",
@@ -299,84 +321,62 @@
       "isNew": false
     },
     {
-      "title": "\"이런 기능까지 생겼다고?\"…카톡 업데이트 보니 '깜짝'",
-      "summary": "카카오톡이 새로운 기능이 포함된 업데이트를 선보여 사용자들의 이목을 끌고 있다.",
-      "url": "https://www.hankyung.com/article/202611197092g",
-      "source": "한국경제",
-      "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-11-19T03:08:40Z",
-      "storyKey": "이런기능까지생겼다고카톡업데이트보니깜짝",
-      "isNew": true
-    },
-    {
-      "title": "기아, 노사 합동 사랑나누기 기부 캠페인 실시",
-      "summary": "기아가 노사 합동으로 주변 이웃을 돕기 위한 사랑나누기 기부 캠페인을 진행했다.",
-      "url": "https://www.hyundaimotorgroup.com/ko/news/kia-labor-management-love-sharing-donation-campaign",
-      "source": "Hyundai Motor Group",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-11-18T23:30:00Z",
-      "storyKey": "기아노사합동사랑나누기기부캠페인실시뉴스현대자동차그룹",
-      "isNew": true
-    },
-    {
-      "title": "누리호 5차 발사 성공 최종 확인…“목표궤도 진입 정상 수행”",
-      "summary": "한국의 우주 발사체 누리호 5차 발사가 목표 궤도에 정상 진입하며 성공적으로 완료된 것이 최종 확인되었다.",
+      "title": "누리호 5차 발사 성공 최종 확인 및 목표궤도 진입 정상 수행",
+      "summary": "누리호 5차 발사가 목표 궤도에 정상 진입하며 성공적으로 완료된 것이 최종 확인됐다.",
       "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716239",
       "source": "KBS 뉴스",
       "country": "한국",
       "category": "과학",
       "publishedAt": "2026-11-18T08:10:00Z",
       "storyKey": "누리호5차발사성공최종확인목표궤도진입정상수행",
-      "isNew": true
+      "isNew": false
     }
   ],
   "briefing": [
-    "엔트로픽의 대규모 IPO 상장과 첫날 주가 변동성이 글로벌 증시와 AI 관련 투자 심리에 큰 파장을 일으키고 있다.",
-    "국내에서는 수능 부정행위 적발, 정치권의 대법원장 탄핵 추진, 연예인 사생활 공방 등 다양한 사회적 현안이 대두되고 있다.",
-    "이강인의 AFC 올해의 국제선수상 2년 연속 수상과 누리호 5차 발사 성공 등 스포츠와 과학 분야에서 고무적인 성과가 이어졌다."
+    "인공지능 기술의 급격한 발전과 함께 세무사 시험 및 수능에서 만점을 기록하는 등 사회 전반에 AI 활용과 영향력이 커지고 있다.",
+    "앤트로픽의 대규모 IPO 성공과 AI 과잉투자 우려가 겹치며 뉴욕증시와 국내 증시가 동반 약세를 보이는 등 시장의 변동성이 확대됐다.",
+    "수능 전자기기 부정행위 적발과 대법원 판결을 둘러싼 정치권의 탄핵 추진 등 국내외 주요 기관과 제도를 둘러싼 갈등과 현안이 이어지고 있다."
   ],
   "trends": [
     {
       "category": "정치",
-      "summary": "정치권에서는 더불어민주당이 사법부 판결에 반발하며 조희대 대법원장 탄핵 추진을 검토하고 나섰다."
+      "summary": "민주당이 한덕수 판결에 반발하며 조희대 대법원장 탄핵안 추진을 공식화했다."
     },
     {
       "category": "경제",
-      "summary": "미국 주택담보대출 금리가 5주 만에 상승세로 돌아섰고 앤트로픽의 대규모 IPO가 경제계의 주요 화두가 되었다."
+      "summary": "앤트로픽이 대규모 IPO를 성사시키며 다수의 임직원이 백만장자에 등극했다."
     },
     {
       "category": "기술",
-      "summary": "수능 시험장 등에서 초소형 카메라를 이용한 부정행위가 적발되어 보안 및 방지 대책이 도마에 올랐다."
+      "summary": "GTA 6가 판매액 20억 달러를 돌파하며 게임 업계의 역대 기록을 경신했다."
     },
     {
       "category": "문화",
-      "summary": "영화 '클리프 부스의 추가 모험'과 대형 음악 시상식 등 대중문화 콘텐츠들이 대중의 큰 관심을 받고 있다."
+      "summary": "성범죄 유죄 판결을 받았던 배우 강지환이 틱톡 라이브 방송을 통해 오랜만에 근황을 전했다."
     },
     {
       "category": "스포츠",
-      "summary": "이강인이 아시아축구연맹 남자 국제선수상 2년 연속 수상의 영예를 안았고 대표팀 관련 소식이 전해졌다."
+      "summary": "축구선수 이강인이 한국 선수 최초로 AFC 올해의 국제선수상을 2년 연속 수상했다."
     },
     {
       "category": "과학",
-      "summary": "누리호 5차 발사가 성공적으로 목표 궤도에 안착했으며 보이저 1호의 교신 소식도 전해졌다."
+      "summary": "나사의 보이저 1호가 지구로부터 빛이 하루 걸리는 거리에 도달해 데이터를 전송했다."
     },
     {
       "category": "IT",
-      "summary": "엔비디아 여파로 국내 네오클라우드 종목이 급락하고 카카오톡 업데이트 등 플랫폼 변화가 이어졌다."
+      "summary": "병원 사이버보안 대응책을 논의하기 위해 의료계와 보안 전문가들이 대거 집결했다."
     },
     {
       "category": "주식",
-      "summary": "외국인 투자자의 두 달 연속 대규모 순매도와 앤트로픽 상장 직후 증시 하락세가 겹쳤다."
+      "summary": "앤트로픽 상장 호재에도 불구하고 투자 불확실성 속에서 미국 증시와 코스피가 약세를 보였다."
     },
     {
       "category": "사회",
-      "summary": "시험제도의 신뢰성 위기와 기아의 노사 합동 기부 캠페인 등 사회 각계의 이슈가 보도되었다."
+      "summary": "수능 시험장에서 전자기기 및 초소형 카메라를 이용한 부정행위가 다수 적발됐다."
     },
     {
       "category": "AI",
-      "summary": "앤트로픽의 상장과 경기도서관의 AI 관련 문화행사 개최 등 인공지능 기술의 영향력이 다방면으로 확대되고 있다."
+      "summary": "생성형 AI가 세무사 시험과 수능에서 만점을 기록하며 뛰어난 문제 해결 능력을 입증했다."
     }
   ]
 }
