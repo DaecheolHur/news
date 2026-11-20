@@ -1,382 +1,382 @@
 {
-  "generatedAt": "2026-11-20T13:04:21.081706Z",
+  "generatedAt": "2026-11-20T21:14:51.273839Z",
   "items": [
     {
-      "title": "이강인, 사상 첫 AFC 국제선수상 2연패… 일본 득점왕 제쳤다",
-      "summary": "마드리드로 떠났지만 프랑스에서는 여전히 파리 시절 활약을 인정받아 아시아축구연맹 국제선수상 2년 연속 영예를 안았다.",
-      "url": "https://news.jtbc.co.kr/article/NB12329113",
-      "source": "JTBC",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-20T12:13:00Z",
-      "storyKey": "일본득점왕제쳤다이강인사상첫국제선수상2연패",
+      "title": "S&P 500과 다우지수 조정 국면 진입, AI 투매 속 나스닥 연초 상승분 반납",
+      "summary": "구글 뉴스를 통해 관련 헤드라인과 시장 전망을 확인할 수 있다.",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-20T21:07:00Z",
+      "storyKey": "sp500anddowcloseincorrectionnasdaqerases2026gainasairoutpicksupsteamliveupdates",
       "isNew": true
     },
     {
-      "title": "성 매개 감염증",
-      "summary": "성 매개 감염증에 관한 내용이다.",
-      "url": "https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)",
-      "source": "World Health Organization (WHO)",
+      "title": "백악관, 연이은 서비스 장애 발생 후 최고 사이버보안 책임자 교체",
+      "summary": "연이은 기술 장애 사태 이후 미국 백악관이 새로운 사이버 보안 수장을 임명했다.",
+      "url": "https://www.washingtonpost.com/politics/2026/11/19/white-house-replaces-top-cybersecurity-official/",
+      "source": "The Washington Post",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-11-20T21:05:14Z",
+      "storyKey": "whitehousereplacestopcybersecurityofficialafterstringofoutages",
+      "isNew": true
+    },
+    {
+      "title": "월스트리트, AI 매도세 여파로 급락 마감 및 S&P 500·다우지수 조정 진입",
+      "summary": "인공지능 관련 주식의 대규모 매도세로 인해 월스트리트 증시가 큰 폭으로 하락 마감했다.",
+      "url": "https://www.reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20/",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-20T21:00:59Z",
+      "storyKey": "wallstendssharplyloweronaiselloffsp500dowincorrection",
+      "isNew": true
+    },
+    {
+      "title": "앤스로픽 주가, 기업공개(IPO) 하루 만에 하락세 전환",
+      "summary": "블록버스터급 IPO 직후 첫 거래일 주가가 하락했으며, 시장에서는 단기 가치 평가에 대한 우려와 함께 직원 대부분이 백만장자가 되었다는 소식이 전해졌다.",
+      "url": "https://www.bbc.com/news/articles/c6808ym10vzgo",
+      "source": "BBC",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-20T20:00:53Z",
+      "storyKey": "anthropicsharesfalladayafterblockbusteripo",
+      "isNew": true
+    },
+    {
+      "title": "주요 신장 건강 단체들, 미 예방서비스태스크포스에 만성 신장 질환 선별검사 권고 우선순위 지정 촉구",
+      "summary": "미국의 주요 신장 건강 관련 단체들이 보건 당국에 만성 질환 선별검사 권고안 마련을 강력히 요구했다.",
+      "url": "https://www.newswise.com/articles/leading-kidney-health-organizations-urge-u-s-preventive-services-task-force-to-prioritize-chronic-kidney-disease-screening-recommendation",
+      "source": "Newswise",
       "country": "미국",
       "category": "사회",
-      "publishedAt": "2026-11-20T11:34:16Z",
-      "storyKey": "sexuallytransmittedinfectionsstis",
+      "publishedAt": "2026-11-20T20:00:00Z",
+      "storyKey": "leadingkidneyhealthorganizationsurgeuspreventiveservicestaskforcetoprioritizechronickidneydiseasescreeningrecommendationnewswise",
       "isNew": true
     },
     {
-      "title": "몸을 움직이며 즐기는 소프트웨어 특집",
-      "summary": "몸을 움직이며 즐기는 소프트웨어에 대한 한국닌텐도의 특집 소식이다.",
-      "url": "https://www.nintendo.com/kr/news/article/tQSIchjEGkFsJqoqLfj9B",
-      "source": "Nintendo",
+      "title": "엔비디아, AI 테마 투매에 약세…알파벳에 밀려 시총 4위로 하락",
+      "summary": "인공지능 관련 테마주 전반에 대한 투매 현상으로 엔비디아의 주가가 급락하며 시가총액 순위가 하락했다.",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445831",
+      "source": "연합인포맥스",
       "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-11-20T11:25:19Z",
-      "storyKey": "몸을움직이며즐기는소프트웨어특집news한국닌텐도주식회사",
+      "category": "AI",
+      "publishedAt": "2026-11-20T19:45:45Z",
+      "storyKey": "엔비디아ai테마투매에와르르알파벳에밀려시총4위로",
       "isNew": true
     },
     {
-      "title": "축구협회, 쿠팡플레이 특혜 의혹 전면 부인",
-      "summary": "대한축구협회가 쿠팡플레이 특혜 및 밀어주기 의혹은 악의적으로 곡해한 것이며 규정에 따른 투명한 절차였다고 반박했다.",
-      "url": "https://imnews.imbc.com/news/2026/sports/article/6867372_36946.html",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-20T11:24:24Z",
-      "storyKey": "축구협회쿠팡플레이특혜의혹사실아냐규정따른투명한절차",
+      "title": "'GTA 6', 출시 첫날 매출 37억 9천만 달러 기록",
+      "summary": "작품성이 큰 주목을 받은 신작 게임 'GTA 6'가 발매 첫날 역대급 엔터테인먼트 흥행 기록과 함께 엄청난 판매고를 올렸다.",
+      "url": "https://variety.com/2026/gaming/news/gta-6-sales-billions-first-day-1236954198/",
+      "source": "Variety",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-11-20T19:24:00Z",
+      "storyKey": "gta6hitsmassive379billioninfirstdaysales",
       "isNew": true
     },
     {
-      "title": "간질 격차 해소를 위한 인공지능의 잠재력과 한계",
-      "summary": "간질 치료의 격차를 줄이기 위해 인공지능이 가진 잠재력과 한계점을 다룬다.",
-      "url": "https://www.nature.com/articles/s41582-026-01287-8",
-      "source": "Nature",
+      "title": "스콧 베어즈리 UVA 총장, 대학의 인공지능 분야 미래 비전 제시",
+      "summary": "버지니아대학교(UVA) 총장이 인공지능 분야에서 대학이 나아갈 미래 발전 방향을 발표했다.",
+      "url": "https://news.virginia.edu/content/uva-president-scott-beardsley-charts-universitys-future-artificial-intelligence",
+      "source": "UVA Today",
       "country": "미국",
       "category": "AI",
-      "publishedAt": "2026-11-20T10:54:00Z",
-      "storyKey": "potentialandpitfallsofartificialintelligencetoaddressdisparitiesinepilepsy",
+      "publishedAt": "2026-11-20T19:12:41Z",
+      "storyKey": "uvapresidentscottbeardsleychartsuniversitysfutureinartificialintelligence",
       "isNew": true
     },
     {
-      "title": "구글 클라우드 최신 소식 및 발표",
-      "summary": "구글 클라우드의 최신 동향과 주요 발표 내용이다.",
-      "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud",
-      "source": "Google Cloud",
+      "title": "콜츠, 쿼터백 다니엘 존스 방출 후 앤서니 리처드슨 시니어를 다음 선발로 낙점",
+      "summary": "인디애나폴리스 콜츠가 베테랑 쿼터백 다니엘 존스를 방출하고 팀의 새로운 주전으로 앤서니 리처드슨을 기용하기로 결정했다.",
+      "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
+      "source": "ESPN",
       "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-11-20T10:15:12Z",
-      "storyKey": "googlecloudlatestnewsandannouncements",
+      "category": "스포츠",
+      "publishedAt": "2026-11-20T18:12:00Z",
+      "storyKey": "coltscutqbdanieljonesturntoanthonyrichardsonsrfornextstart",
       "isNew": true
     },
     {
-      "title": "조세호, 저조한 유튜브 조회수와 엇갈린 반응에 진땀",
-      "summary": "조세호가 1년 만에 유튜브로 복귀했으나 저조한 조회수와 시기상조라는 쓴소리를 마주했고 아내가 구독을 호소했다.",
-      "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112018380927349",
+      "title": "최근 기술 장애 이후 새 미국 사이버 보안 수장 취임",
+      "summary": "미국에서 잇따른 기술적 결함과 장애 대응을 위해 신임 사이버 보안 책임자가 공식 취임했다.",
+      "url": "https://www.voakorea.com/amp/8226115.html",
+      "source": "VOA 한국어 홈페이지",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-20T17:59:46Z",
+      "storyKey": "최근기술장애이후새미국사이버보안수장취임",
+      "isNew": true
+    },
+    {
+      "title": "[한국은 지금] 이 대통령 “국가시험제도 전면 신속 개편”",
+      "summary": "이 대통령이 국가시험 제도를 전면적이고 신속하게 개편할 것을 지시했다.",
+      "url": "https://www.voakorea.com/a/8226098.html",
+      "source": "VOA 한국어 홈페이지",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-11-20T17:34:56Z",
+      "storyKey": "한국은지금이대통령국가시험제도전면신속개편",
+      "isNew": true
+    },
+    {
+      "title": "‘리트 만점자’ 이진우의 비극적 죽음으로 드러난 한국 사회의 민낯",
+      "summary": "법학적성시험(LEET) 만점자로 알려진 이진우의 안타까운 사망 사건을 통해 사회적 문제들이 수면 위로 떠올랐다.",
+      "url": "https://www.daily25news.com/news/articleView.html?idxno=9227",
+      "source": "데일리25",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-11-20T17:00:00Z",
+      "storyKey": "리트만점자이진우의죽음한국사회의민낯이한꺼번에드러났다",
+      "isNew": true
+    },
+    {
+      "title": "더 나은 인공지능 구축을 위해 대규모 정밀 작업을 수행할 인력 필요",
+      "summary": "고품질의 인공지능 시스템을 개발하기 위해서는 세심하고 꼼꼼한 작업을 대규모로 수행할 사람들의 역할이 중요하다.",
+      "url": "https://federalnewsnetwork.com/workforce/2026/11/building-better-artificial-intelligence-requires-people-willing-to-do-meticulous-work-at-scale/",
+      "source": "Federal News Network",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-20T16:59:12Z",
+      "storyKey": "buildingbetterartificialintelligencerequirespeoplewillingtodometiculousworkatscale",
+      "isNew": true
+    },
+    {
+      "title": "손흥민 소속팀 LAFC 부진 속 MLS 플레이오프 명예회복 과제",
+      "summary": "손흥민의 최근 득점력 저하와 소속팀의 감독 교체 및 부진 속에서 미국 언론이 플레이오프 전망과 냉정한 평가를 내놓았다.",
+      "url": "https://www.donga.com/news/Sports/article/all/20261121/135063807/2",
+      "source": "동아일보",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-20T16:40:00Z",
+      "storyKey": "손흥민꺾였나",
+      "isNew": true
+    },
+    {
+      "title": "마이크 존슨 하원의장, 하원 공화당 의원들에게 의정 활동 참석 촉구",
+      "summary": "미국 하원의장이 의원들의 잦은 결석으로 인한 입법 차질을 막기 위해 본회의 투표와 의정 활동에 성실히 임할 것을 요구했다.",
+      "url": "https://www.politico.com/live-updates/2026/11/20/congress/johnson-says-show-up-for-work-01177834",
+      "source": "Politico",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-11-20T16:34:28Z",
+      "storyKey": "mikejohnsonsmessagetohouserepublicansshowupforwork",
+      "isNew": true
+    },
+    {
+      "title": "주가 하락의 6가지 이유와 투자자 대응 전략",
+      "summary": "최근 주식 시장의 하락세를 유발한 원인들을 분석하고 이에 대처하는 방안을 제시했다.",
+      "url": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/",
+      "source": "CBS News",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-20T16:27:00Z",
+      "storyKey": "6reasonsstocksarefallingandwhatyoushoulddoaboutit",
+      "isNew": true
+    },
+    {
+      "title": "'헝거게임: 수확의 날 아침', 프리뷰에서 2,100만 달러 기록하며 프랜차이즈 역대 2위 성적 달성",
+      "summary": "인기 프랜차이즈의 신작 영화 '헝거게임: 수확의 날 아침'이 사전 상영에서 시리즈 중 두 번째로 높은 흥행 수익을 거뒀다.",
+      "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/",
+      "source": "Deadline",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-11-20T16:05:00Z",
+      "storyKey": "hungergamessunriseonthereapingsows21minpreviewssecondbestforfranchise",
+      "isNew": true
+    },
+    {
+      "title": "로버트 패틴슨, 비싼 스크린 테스트와 아마존 임원들의 결정으로 차기 제임스 본드 낙점",
+      "summary": "아마존 경영진의 적극적인 개입과 오디션을 거쳐 로버트 패틴슨이 새로운 007 제임스 본드 주연으로 최종 발탁됐다.",
+      "url": "https://variety.com/2026/film/news/bond-robert-pattinson-screen-test-amazon-execs-1236954194/",
+      "source": "Variety",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-11-20T15:35:00Z",
+      "storyKey": "robertpattinsonsbondascenthowpriceyscreentestsandamazonexecslandedastarry007",
+      "isNew": true
+    },
+    {
+      "title": "민주당, 의원총회서 ‘조희대 대법원장 탄핵소추’ 당론 채택",
+      "summary": "더불어민주당이 의원총회를 거쳐 조희대 대법원장에 대한 탄핵 추진을 공식 당론으로 결정했다.",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1288335.html",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-20T15:14:00Z",
+      "storyKey": "민주당조희대대법원장탄핵소추당론채택",
+      "isNew": false
+    },
+    {
+      "title": "[강천석 칼럼] 수출 1조 달러 달성의 역사와 의미",
+      "summary": "오징어 수출부터 첨단 반도체까지 대한민국이 이뤄낸 80년 간의 수출 1조 달러 달성 과정과 질적 성장의 땀방울을 되짚어 보았다.",
+      "url": "https://www.chosun.com/opinion/column/2026/11/20/4BZ2FHD7IZH2HK6FWWVAB53KAA/",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-11-20T14:55:00Z",
+      "storyKey": "강천석칼럼수출1조달러바닥에고인땀과눈물과설움",
+      "isNew": true
+    },
+    {
+      "title": "'성폭행 유죄' 강지환, 틱톡 복귀 하루 만에 계정 삭제 조치",
+      "summary": "성범죄 유죄 판결을 받았던 배우 강지환이 틱톡을 통해 소통을 시도했으나 논란 끝에 하루 만에 계정이 영구 삭제됐다.",
+      "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112020104015314",
       "source": "머니투데이",
       "country": "한국",
       "category": "문화",
-      "publishedAt": "2026-11-20T10:10:36Z",
-      "storyKey": "복귀조세호저조한조회수에진땀아내제발구독좀머니투데이",
+      "publishedAt": "2026-11-20T11:40:12Z",
+      "storyKey": "성폭행유죄강지환도고영욱처럼틱톡하루만에삭제굴욕머니투데이",
       "isNew": true
     },
     {
-      "title": "앤스로픽, 흥행 성공적인 IPO 이후 주가 하락",
-      "summary": "앤스로픽이 기업공개 이후 대규모 거래로 주목받았으나 첫날 거래 이후 AI 관련 주식의 글로벌 하락세를 막지 못하고 주가가 떨어졌다.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-stock-dives-after-rip-roaring-ipo-095411951.html",
-      "source": "Yahoo Finance",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-20T09:54:11Z",
-      "storyKey": "anthropicstockdivesafterriproaringipo",
-      "isNew": true
-    },
-    {
-      "title": "‘서울대 70명 배출’ 용산전자상가 현수막… AI 부정행위 풍자",
-      "summary": "용산전자상가에 걸린 현수막이 인공지능을 활용한 부정행위 세태를 풍자했다.",
-      "url": "https://www.chosun.com/national/national_general/2026/11/18/6WX6NYP3RJBLHCDRTVKBSYBOCE/",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-11-20T09:39:02Z",
-      "storyKey": "서울대70명배출용산전자상가현수막ai부정행위풍자",
-      "isNew": true
-    },
-    {
-      "title": "미국발 삭풍에 약세 마감… 코스피, 4,900선 붕괴",
-      "summary": "미국 시장의 영향 등으로 코스피 지수가 4,900선을 밑돌며 약세로 마감했다.",
-      "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611201839426402_005.html",
-      "source": "YTN",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-11-20T09:39:00Z",
-      "storyKey": "미국발삭풍에약세마감코스피4900선도붕괴",
-      "isNew": true
-    },
-    {
-      "title": "램스 스타 나쿠아, 품행 위반으로 3경기 출장 정지",
-      "summary": "NFL 규정 위반으로 인해 램스의 리시버 푸카 나쿠아가 부상자 명단에 있는 동안 3경기 출장 정지 처분을 받았다.",
-      "url": "https://www.bbc.com/sport/american-football/articles/c6vg21xdgpqgo",
-      "source": "BBC",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-20T09:38:14Z",
-      "storyKey": "ramsstarnacuasuspendedforpersonalconductviolation",
-      "isNew": true
-    },
-    {
-      "title": "센스톤, 미국 텍사스 수도시설 사이버보안 프로젝트 참여",
-      "summary": "센스톤이 미국 텍사스의 수도시설 관련 사이버보안 프로젝트에 합류한다.",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=65727",
-      "source": "디일렉",
+      "title": "클라우데라, 데이터 주권 지키는 '애니웨어 클라우드' 전략 제시",
+      "summary": "클라우데라가 기업의 데이터 주권을 안전하게 보호할 수 있는 새로운 클라우드 운영 전략을 공개했다.",
+      "url": "https://www.etnews.com/20261120000323",
+      "source": "전자신문",
       "country": "한국",
       "category": "IT",
-      "publishedAt": "2026-11-20T09:12:39Z",
-      "storyKey": "센스톤미국텍사스수도시설사이버보안프로젝트참여한다",
+      "publishedAt": "2026-11-20T09:30:53Z",
+      "storyKey": "클라우데라데이터주권지키는애니웨어클라우드전략제시",
       "isNew": true
     },
     {
-      "title": "학술 출판에서의 인공지능 다룬 저널 편집장 인터뷰",
-      "summary": "학술 출판계에서 인공지능의 역할과 영향에 대해 저널 편집장이 논의했다.",
-      "url": "https://yaledailynews.com/articles/journal-editor-discusses-artificial-intelligence-in-academic-publishing",
-      "source": "Yale Daily News",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-20T09:02:15Z",
-      "storyKey": "journaleditordiscussesartificialintelligenceinacademicpublishing",
-      "isNew": true
-    },
-    {
-      "title": "엔비디아 하락에도 상승세 보인 S&P 500 전망",
-      "summary": "엔비디아의 주가 하락에도 불구하고 S&P 500 지수는 상승세를 나타냈다.",
-      "url": "https://www.stonex.com/en-gb/news-and-analysis/sandp-500-forecast-spx-rises-despite-nvidia-s-decline/",
-      "source": "StoneX",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-20T07:31:22Z",
-      "storyKey": "sp500forecastspxrisesdespitenvidiasdecline",
-      "isNew": true
-    },
-    {
-      "title": "매파적 연준과 AI 매도세에 금값 하락세",
-      "summary": "매파적인 연준 전망과 AI 관련 매도세가 겹치면서 금값이 수개월 내 최악의 주간 하락을 향해 떨어지고 있다.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
-      "source": "Bloomberg.com",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-20T07:15:00Z",
-      "storyKey": "goldsetforworstweeksincemarchonhawkishfedaiselloff",
-      "isNew": true
-    },
-    {
-      "title": "정부, 수능 AI 부정행위 의심 사례 집중 수사 및 방지 대책 추진",
-      "summary": "수능에서 AI를 이용한 부정행위가 다수 적발되면서 정부가 의심 신호를 추적해 수사를 의뢰하고 내년부터 방지 워터마크를 추진한다.",
-      "url": "https://www.khan.co.kr/article/202611201532001",
-      "source": "경향신문",
+      "title": "\"대체 바닥이 어디야\"…코스피 4900선 붕괴, 반등 열쇠는?",
+      "summary": "국내 증시에서 코스피 지수가 급락하며 4900선이 무너진 가운데 향후 시장 반등의 요인에 관심이 집중되고 있다.",
+      "url": "https://www.mt.co.kr/stock/2026/11/20/2026112015522358657",
+      "source": "머니투데이",
       "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-20T06:32:00Z",
-      "storyKey": "수능ai커닝끝까지쫓는다정부수상한신호들다저장해둬의심사례수사의뢰",
+      "category": "주식",
+      "publishedAt": "2026-11-20T08:02:02Z",
+      "storyKey": "대체바닥이어디야코스피4900선붕괴반등열쇠는머니투데이",
       "isNew": true
     },
     {
-      "title": "베피콜롬보 우주선, 8년 만에 수성 도착",
-      "summary": "8년의 비행 끝에 베피콜롬보 탐사선이 태양계의 수성에 도착해 궤도 진입 임무를 수행한다.",
+      "title": "프로야구 롯데·키움, 투수 정철원과 외야수 임지열 1대1 트레이드 단행",
+      "summary": "프로야구 구단 롯데 자이언츠와 키움 히어로즈가 투수 정철원과 외야수 임지열을 맞교환하는 트레이드를 성사시켰다.",
+      "url": "https://www.yna.co.kr/view/AKR20261120137300007",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-20T07:19:54Z",
+      "storyKey": "프로야구롯데키움투수정철원외야수임지열트레이드",
+      "isNew": true
+    },
+    {
+      "title": "베피콜롬보 우주선, 8년 간의 비행 끝에 수성 도착",
+      "summary": "오랜 기간 우주를 항해한 베피콜롬보 탐사선이 태양계의 미스터리 행성인 수성 궤도 진입을 앞두고 접근했다.",
       "url": "https://www.bbc.com/news/articles/c39w9l4v1p9ro",
       "source": "BBC",
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-11-20T05:59:56Z",
       "storyKey": "bepicolombospacecraftarrivingatmercuryaftereightyears",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "민주당, 조희대 대법원장 탄핵소추 당론 채택",
-      "summary": "민주당이 조희대 대법원장에 대한 탄핵소추를 당론으로 정한 가운데 계엄 적법성을 두고 정치권과 법조계의 공방이 이어지고 있다.",
-      "url": "https://www.hani.co.kr/arti/politics/politics_general/1288335.html",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-20T05:28:00Z",
-      "storyKey": "민주당조희대대법원장탄핵소추당론채택",
-      "isNew": true
-    },
-    {
-      "title": "미 법무부, 알래스카 상원 선거 인증 지연 소송 항소 철회",
-      "summary": "민주당 후보가 승리한 알래스카 연방상원 선거 결과와 관련해 법무부가 소송 및 항소를 철회했다.",
-      "url": "https://www.washingtonpost.com/national-security/2026/11/19/justice-dept-drops-appeal-bid-delay-certification-alaska-senate-win/",
-      "source": "The Washington Post",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-11-20T04:30:00Z",
-      "storyKey": "justicedeptdropsappealinbidtodelaycertificationofalaskasenatewin",
-      "isNew": true
-    },
-    {
-      "title": "‘더 트레이터스: 뉴 블러드’ 셰인 베이티, 진실의 불꽃 세레머니 소감 밝혀",
-      "summary": "일반인 참여 시즌으로 치러진 ‘더 트레이터스: 뉴 블러드’가 첫 우승자를 배출하며 최종 피날레를 맞았다.",
-      "url": "https://ew.com/the-traitors-new-blood-shane-beatty-reacts-shocking-finale-ending-interview-exclusive-12259669",
-      "source": "Entertainment Weekly",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-20T04:00:00Z",
-      "storyKey": "thetraitorsnewbloodstarshanebeattyreactstojawdroppingfireoftruthceremony",
-      "isNew": true
-    },
-    {
-      "title": "스마트안경 이용해 수능 부정행위 시도한 수험생 적발",
-      "summary": "수학 문제 풀이 없이 답을 적다 스마트안경을 만지작거리다 적발되자 이를 감추려 한 사례가 드러났다.",
+      "title": "수학 문제 풀이 없이 답 적고 안경 만진 수험생, 적발 후 스마트안경 감추고 뿔테안경 제출",
+      "summary": "부정행위 의심을 받은 수험생이 시험 중 스마트안경을 착용하고 있다가 적발되자 이를 숨기려 한 정황이 드러났다.",
       "url": "https://www.khan.co.kr/article/202611201212001",
       "source": "경향신문",
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-11-20T03:12:00Z",
       "storyKey": "수학문제풀이없이답적고안경만지작적발되자스마트안경감춘채뿔테안경꺼내줘",
-      "isNew": true
-    },
-    {
-      "title": "코스피·코스닥 4%대 급락 속 매도 사이드카 발동",
-      "summary": "지수가 급락하면서 코스피와 코스닥 시장에 매도 사이드카가 발동되었고 삼성전자 등 반도체 주가도 크게 내렸다.",
-      "url": "https://imnews.imbc.com/news/2026/econo/article/6867221_36932.html",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-11-20T02:57:40Z",
-      "storyKey": "속보코스피4대급락에매도사이드카발동",
-      "isNew": true
-    },
-    {
-      "title": "병원 사이버보안 대응책 논의 위해 전문가 1200명 집결",
-      "summary": "의료계와 보안 전문가들이 모여 병원을 향한 사이버보안 대응 방안을 논의했다.",
-      "url": "https://www.etnews.com/20261120000135",
-      "source": "전자신문",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-11-20T02:01:51Z",
-      "storyKey": "병원사이버보안대응책논의의료계보안전문가1200명집결",
       "isNew": false
     },
     {
-      "title": "머스크의 사이버캡 등장에 배터리 업계 긴장",
-      "summary": "일론 머스크의 자율주행 차량인 사이버캡이 배터리 업계의 주요 관심사이자 긴장 요인으로 떠올랐다.",
+      "title": "'리트 만점자' 이진우 부검 실시 및 경찰의 공범 여부 수사 진행",
+      "summary": "안타깝게 숨진 리트 만점자 이진우의 정확한 사인을 밝히기 위해 부검이 진행되었으며 경찰이 주변 정황과 공범 여부를 추적하고 있다.",
+      "url": "https://www.hankyung.com/article/2026112097737",
+      "source": "한국경제",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-20T02:47:00Z",
+      "storyKey": "리트만점자이진우부검결과나왔다경찰공범여부추적",
+      "isNew": true
+    },
+    {
+      "title": "‘머스크 야심작’ 사이버캡과 배터리 업계에 미치는 영향 분석",
+      "summary": "일론 머스크의 자율주행 차량인 사이버캡 출시가 자동차 시장뿐만 아니라 배터리 산업 전반에 긴장감을 불어넣고 있다.",
       "url": "https://biz.chosun.com/industry/company/2026/11/20/KEJ7VKYYONAQLH6DGZWLPOKUIQ/",
       "source": "Chosunbiz",
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-11-20T01:31:00Z",
       "storyKey": "만사정권아니다머스크야심작사이버캡에배터리업계가긴장하는이유는",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "‘헝거게임’ 신작 프리퀄, 개봉 전 프리뷰 흥행 성공",
-      "summary": "새로운 헝거게임 프리퀄 영화가 개봉 전 프리뷰 박스오피스에서 높은 성적을 기록하며 관객들과 만났다.",
-      "url": "https://www.bbc.com/news/articles/c8752w5vz2zqo",
-      "source": "BBC",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-20T01:11:57Z",
-      "storyKey": "newhungergamescastsayjoiningthefranchiseisnerveracking",
-      "isNew": true
-    },
-    {
-      "title": "모유와 탯줄에서도 검출된 UN 경고 화학물질",
-      "summary": "인체 내부인 모유와 탯줄에서까지 검출되어 UN이 심각성을 경고한 화학물질 문제가 대두됐다.",
+      "title": "모유와 탯줄에서도 검출된 유엔 경고 유해 화학물질 논란",
+      "summary": "유엔이 심각성을 경고한 특정 화학물질이 인체 내부인 모유와 탯줄에서도 검출되어 보건 우려가 커지고 있다.",
       "url": "https://www.mk.co.kr/news/it/12214349",
       "source": "매일경제",
       "country": "한국",
       "category": "과학",
       "publishedAt": "2026-11-20T00:59:10Z",
       "storyKey": "모유탯줄에서부터검출됐다un이경고한화학물질뭐길래",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "‘GTA VI’, 출시 첫날 매출 20억 달러 돌파",
-      "summary": "GTA 6가 출시 첫날부터 엄청난 판매고를 올리며 흥행 돌풍을 일으키고 있다.",
-      "url": "https://deadline.com/2026/11/gta-6-sales-launch-day-surge-videogame-1237229514/",
-      "source": "Deadline",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-11-20T00:29:00Z",
-      "storyKey": "gtavisalessurgepast2billiononlaunchdayasvicecitymaniatakesover",
-      "isNew": true
-    },
-    {
-      "title": "보이저 1호, 지구에서 1광일 거리 역사적 돌파",
-      "summary": "통신 장애를 극복한 NASA의 보이저 1호가 지구로부터 1광일 떨어진 거리에 도달하는 대기록을 세웠다.",
+      "title": "보이저 1호, 통신 장애 딛고 지구로부터 1광일 거리 역사적 돌파",
+      "summary": "통신 결함 문제를 극복한 나사의 보이저 1호가 지구로부터 1광일 떨어진 거리에 도달하며 우주 탐사의 새로운 이정표를 세웠다.",
       "url": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
       "source": "Space",
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-11-19T23:42:03Z",
       "storyKey": "voyager1teamunbowedbycommunicationsglitchcelebratesepic1lightdaydistancemilestone",
-      "isNew": true
-    },
-    {
-      "title": "시험제도 흔들리며 한국사회 버팀목 붕괴 위기 진단",
-      "summary": "각종 부정행위와 잡음으로 흔들리는 시험제도가 한국 사회의 신뢰를 위협하고 있다는 지적이다.",
-      "url": "https://www.yna.co.kr/view/AKR20261119089500546",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-11-19T21:55:01Z",
-      "storyKey": "율곡로흔들리는시험제도한국사회버팀목의붕괴위기",
-      "isNew": true
-    },
-    {
-      "title": "미국 주식 시장, 상승세 완화 속 사상 최고가 랠리 연장 전망",
-      "summary": "미국 주식 시장은 상승세가 다소 진정되면서도 역사적인 랠리를 이어갈 것으로 예측되고 있다.",
-      "url": "https://www.goldmansachs.com/insights/articles/us-stocks-predicted-to-extend-historic-rally-as-gains-moderate",
-      "source": "Goldman Sachs",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-19T20:42:21Z",
-      "storyKey": "usstocksarepredictedtoextendtheirhistoricrallyasgainsmoderate",
       "isNew": false
     }
   ],
   "briefing": [
-    "인공지능 기술의 급격한 발전과 함께 수능 등 국가 시험에서의 AI 부정행위가 심화되면서 정부의 강력한 대응과 제도 개편 논의가 이어지고 있다.",
-    "미국 증시의 혼조세와 연준의 매파적 기조 속에서 국내 증시는 코스피 4,900선이 붕괴되고 매도 사이드카가 발동되는 등 큰 폭의 하락세를 보였다.",
-    "스포츠, 문화, 기술 등 각 분야에서 이강인의 AFC 국제선수상 2연패, GTA VI의 흥행 대박 등 주요 인물과 콘텐츠의 성과가 주목받고 있다."
+    "미국 증시와 글로벌 기술·AI 관련 주식들이 대규모 투매와 조정 국면을 맞이했다.",
+    "국내외에서 공공 및 사회적 현안에 대응하기 위한 제도 개편과 사이버 보안 수장 교체 등이 이뤄졌다.",
+    "문화, 스포츠, 우주 탐사 분야에서는 신작 대작 흥행과 탐사선 도달 등 굵직한 성과들이 이어졌다."
   ],
   "trends": [
     {
       "category": "정치",
-      "summary": "더불어민주당이 조희대 대법원장 탄핵소추를 당론으로 채택하며 계엄 적법성을 둘러싼 정치권의 공방이 거세지고 있다."
+      "summary": "미국 하원 의장 경고 및 국내 야당의 대법원장 탄핵소추 당론 채택 등 정치권의 대립과 기강 확립 움직임이 이어지고 있다."
     },
     {
       "category": "경제",
-      "summary": "매파적인 연준 전망과 AI 관련 매도세 여파로 금값이 하락세를 보이고 전반적인 자산 시장이 변동성을 겪고 있다."
+      "summary": "미 증시의 조정 국면 진입과 기업공개(IPO) 기업의 주가 하락 및 수출 1조 달러 돌파 등 거시경제 지표와 시장 변동성이 주목받고 있다."
     },
     {
       "category": "기술",
-      "summary": "스마트안경을 악용한 신종 부정행위가 적발되는 등 첨단 기술이 범죄나 부정 수단으로 악용되는 사례가 늘고 있다."
+      "summary": "대규모 엔터테인먼트 판매 기록을 세운 신작 게임 출시와 스마트기기를 이용한 부정행위 적발 등 기술 관련 이슈가 보도됐다."
     },
     {
       "category": "문화",
-      "summary": "조세호의 유튜브 복귀 논란부터 '헝거게임' 프리퀄 및 'GTA VI' 같은 대형 콘텐츠들의 흥행 소식이 이어지고 있다."
+      "summary": "인기 프랜차이즈 영화의 사전 상영 흥행 성공과 할리우드 캐스팅 소식, 연예인 복귀 논란 등이 대중문화계의 주요 화두가 되었다."
     },
     {
       "category": "스포츠",
-      "summary": "축구선수 이강인이 사상 첫 AFC 국제선수상 2연패를 달성했고 NFL 스타 나쿠아는 품행 위반으로 징계를 받았다."
+      "summary": "프로야구 트레이드 성사와 미국 프로미식축구(NFL) 쿼터백 교체, 축구 선수 관련 현지 언론 평가 등이 전해졌다."
     },
     {
       "category": "과학",
-      "summary": "베피콜롬보 우주선이 수성에 도착하고 보이저 1호가 1광일 거리에 도달하는 등 우주 탐사 분야의 굵직한 성과가 전해졌다."
+      "summary": "수성에 도착한 베피콜롬보 우주선과 지구로부터 1광일 거리에 도달한 보이저 1호 등 우주 탐사 성과가 발표됐다."
     },
     {
       "category": "IT",
-      "summary": "센스톤의 미국 수도시설 사이버보안 프로젝트 참여와 병원 보안 전문가들의 대응책 논의 등 보안 중요성이 커지고 있다."
+      "summary": "서비스 장애 대응을 위한 백악관의 사이버 보안 책임자 교체와 클라우드의 데이터 주권 보호 전략 등이 발표됐다."
     },
     {
       "category": "주식",
-      "summary": "코스피가 미국발 충격과 반도체주 약세로 4,900선이 무너져 매도 사이드카가 발동되는 등 증시 침체가 나타났다."
+      "summary": "AI 테마주 매도세로 인한 월스트리트의 급락과 코스피 지수 4900선 붕괴 등 국내외 증시의 하락세가 두드러졌다."
     },
     {
       "category": "사회",
-      "summary": "시험제도의 신뢰성이 흔들리는 가운데 모유와 탯줄에서 유해 화학물질이 검출되는 등 사회적 우려가 커지고 있다."
+      "summary": "국가시험 제도 개편 지시, 만성 신장 질환 선별검사 촉구 및 화학물질 검출 경고 등 사회 전반의 제도적·보건적 현안이 다뤄졌다."
     },
     {
       "category": "AI",
-      "summary": "수능 AI 부정행위 풍자 및 단속과 더불어 간질 치료 격차 해소 등 인공지능의 양면적 영향에 대한 논의가 활발하다."
+      "summary": "인공지능 테마 투매로 인한 엔비디아의 시총 순위 하락과 대학 총장의 AI 비전 제시 등 관련 산업의 명암이 교차했다."
     }
   ]
 }
