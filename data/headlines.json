@@ -1,152 +1,262 @@
 {
-  "generatedAt": "2026-11-22T00:23:45.103694Z",
+  "generatedAt": "2026-11-22T08:04:46.801048Z",
   "items": [
     {
-      "title": "주식시장 조정? 최고투자책임자는 S&P 500 지수가 45% 급등해 10,000선에 도달할 것으로 전망합니다",
-      "summary": "한 최고투자책임자는 주식시장 조정 속에서도 S&P 500 지수가 45% 급등해 10,000선에 이를 것이라고 전망했습니다.",
+      "title": "시애틀 공항 비행기 탑승객 2명 체포한 이민세관단속국(ICE)",
+      "summary": "시애틀 공항에서 이민세관단속국(ICE)의 고위급 체포 작전이 벌어져 주지사가 이를 비판하며 칠링한 현장이라고 평가했다.",
+      "url": "https://www.nytimes.com/2026/11/22/us/ice-arrest-passengers-seattle-airport.html",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-11-22T06:36:05Z",
+      "storyKey": "iceofficersarrest2passengersboardingaflightatseattleairport",
+      "isNew": true
+    },
+    {
+      "title": "고등학교 수준의 사이버 보안 교육 과정 확충이 시급하다는 새 보고서 발표",
+      "summary": "새로운 보고서는 고등학교 단계에서 사이버 보안 교육 과정을 확대할 필요성이 시급하다고 강조했다.",
+      "url": "https://nkytribune.com/2026/11/new-report-demonstrates-urgent-need-to-expand-high-school-level-cybersecurity-courses/",
+      "source": "Northern Kentucky Tribune",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-11-22T05:42:47Z",
+      "storyKey": "newreportdemonstratesurgentneedtoexpandhighschoollevelcybersecuritycourses",
+      "isNew": true
+    },
+    {
+      "title": "인공지능 구축을 위한 은밀한 경쟁의 내막",
+      "summary": "인공지능을 개발하기 위한 치열하고 은밀한 경쟁의 내부 상황을 조명했다.",
+      "url": "https://www.aei.org/multimedia/inside-the-secret-race-to-build-artificial-intelligence-the-gray-area/",
+      "source": "American Enterprise Institute - AEI",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-22T05:15:42Z",
+      "storyKey": "insidethesecretracetobuildartificialintelligencethegrayarea",
+      "isNew": true
+    },
+    {
+      "title": "선거개입 논란·수시 먹통…최교진, '수능 대혼란'에 결국 사임",
+      "summary": "대통령이 AI 부정행위 등의 책임을 통감하며 사의를 표명한 최교진 교육부 장관의 사표를 수리했다.",
+      "url": "https://www.yna.co.kr/view/AKR20261122026800530",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-22T05:01:56Z",
+      "storyKey": "선거개입논란수시먹통최교진수능대혼란에결국사임",
+      "isNew": true
+    },
+    {
+      "title": "‘음주운전’ 고경표, ‘핑계고’ 시상식 후보 선정에 ‘시끌’",
+      "summary": "음주운전 사고로 활동을 중단한 고경표가 '핑계고' 시상식 인기상 후보에 올라 논란이 일었다.",
+      "url": "https://news.jtbc.co.kr/article/NB12329246",
+      "source": "JTBC",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-11-22T05:01:00Z",
+      "storyKey": "음주운전고경표핑계고시상식후보선정에시끌",
+      "isNew": true
+    },
+    {
+      "title": "비트코인과 은 매도세 속에서도 조용히 버텨낸 S&P 500",
+      "summary": "비트코인과 은 시장의 매도세에도 불구하고 S&P 500 지수는 흔들리지 않는 모습을 보였다.",
+      "url": "https://www.stonex.com/en-gb/news-and-analysis/sandp-500-quietly-shrugs-off-the-bitcoin-and-silver-selloff/",
+      "source": "StoneX",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-22T04:59:26Z",
+      "storyKey": "sp500quietlyshrugsoffthebitcoinandsilverselloff",
+      "isNew": true
+    },
+    {
+      "title": "FBI도 해킹 당했나...AI 시대 美 사이버 보안 비상",
+      "summary": "미국 연방수사국(FBI)의 해킹 의혹과 함께 인공지능 시대의 사이버 보안 위기가 고조되고 있다.",
+      "url": "https://www.ajunews.com/view/20261122131809738",
+      "source": "아주경제",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-22T04:57:30Z",
+      "storyKey": "fbi도해킹당했나ai시대사이버보안비상",
+      "isNew": true
+    },
+    {
+      "title": "건강보험료 내고도 혜택 못 받는다면…“정당한 권리 보장해야”",
+      "summary": "건강보험료를 납부하고도 적절한 혜택을 받지 못하는 이들의 정당한 권리를 보장해야 한다는 목소리가 나왔다.",
+      "url": "https://www.dongponews.net/news/articleView.html?idxno=61824",
+      "source": "재외동포신문",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-11-22T04:26:27Z",
+      "storyKey": "건강보험료내고도혜택못받는다면정당한권리보장해야",
+      "isNew": true
+    },
+    {
+      "title": "재초환 부담 지방도 예외 없다…대전 1억·대구 6000만원 예상",
+      "summary": "재건축초과이익환수제 부담금의 지방 적용으로 대전과 대구 등 지방에서도 억대 혹은 수천만 원의 분담금 비상이 걸렸다.",
+      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01580966645648344",
+      "source": "마켓인",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-11-22T04:18:49Z",
+      "storyKey": "재초환부담지방도예외없다대전1억대구6000만원예상",
+      "isNew": true
+    },
+    {
+      "title": "아이폰 잠금 화면을 더 멋지게 만드는 맞춤 설정 방법",
+      "summary": "아이폰 사용자가 잠금 화면을 더욱 개성 있고 멋지게 꾸밀 수 있는 커스텀 설정 방법들을 소개했다.",
+      "url": "https://www.bgr.com/2317828/iphone-customizations-make-lock-screen-cooler/",
+      "source": "BGR",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-11-22T03:47:00Z",
+      "storyKey": "theseiphonecustomizationscanmakeyourlockscreenlookcooler",
+      "isNew": true
+    },
+    {
+      "title": "오픈AI, 음성 모델 'GPT-라이브-1.1' 출시…대기 요금 60% 인하",
+      "summary": "오픈AI가 새로운 음성 모델 'GPT-라이브-1.1'을 공개하고 대기 요금을 60% 인하했다.",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217655",
+      "source": "AI타임스",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-11-22T03:01:05Z",
+      "storyKey": "오픈ai음성모델gpt라이브11출시대기요금60인하",
+      "isNew": true
+    },
+    {
+      "title": "조희대 탄핵 나선 민주당 “한덕수 판결은 탄핵 사유 삼지 않기로”",
+      "summary": "더불어민주당이 조희대 대법원장 탄핵을 추진하는 가운데 야권 일각에서는 억지 사유라며 반발하고 있다.",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1288466.html",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-22T02:48:00Z",
+      "storyKey": "조희대탄핵나선민주당한덕수판결은탄핵사유삼지않기로",
+      "isNew": true
+    },
+    {
+      "title": "테네시, LSU 꺾고 대학 플레이오프 진출 청신호",
+      "summary": "테네시 대학이 쿼터백 페이존 브랜던의 후반 터치다운 활약에 힘입어 LSU를 꺾고 승리했다.",
+      "url": "https://www.espn.com/college-football/recap?gameId=401856754",
+      "source": "ESPN",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-22T02:38:42Z",
+      "storyKey": "tennessee2713lsunov212026gamerecap",
+      "isNew": true
+    },
+    {
+      "title": "8년의 여정 끝에 마침내 수성에 도달한 베피콜롬보",
+      "summary": "유럽과 일본의 공동 탐사선 베피콜롬보가 8년간의 우주 비행 끝에 수성 궤도 진입에 성공하며 첫 이미지를 전송했다.",
+      "url": "https://www.nature.com/articles/d41586-026-03803-8",
+      "source": "Nature",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-11-22T02:29:15Z",
+      "storyKey": "bepicolombofinallyreachesmercuryaftereightyearodyssey",
+      "isNew": true
+    },
+    {
+      "title": "국제우주정거장에서 지구로 귀환한 스페이스X 드래곤 화물선",
+      "summary": "과학 연구 장비와 화물을 가득 실은 스페이스X 드래곤 캡슐이 국제우주정거장(ISS) 임무를 마치고 지구로 돌아왔다.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
+      "source": "Space",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-11-22T02:18:17Z",
+      "storyKey": "spacexdragoncargocapsulereturnstoearthfromtheiss",
+      "isNew": true
+    },
+    {
+      "title": "[핌in청주] 노구치, 신한은행의 KB전 2승 견인 \"다같이 리바운드 참가 승인\"",
+      "summary": "신한은행이 노구치 등의 활약과 3점슛 공세를 앞세워 KB국민은행을 꺾고 3연승으로 공동 선두에 올랐다.",
+      "url": "https://m.newspim.com/news/view/20261122000036",
+      "source": "뉴스핌",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-22T01:42:00Z",
+      "storyKey": "핌in청주노구치신한은행의kb전2승견인다같이리바운드참가승인",
+      "isNew": true
+    },
+    {
+      "title": "마일리 사이러스와 맥스 모란도의 결혼",
+      "summary": "가수 마일리 사이러스가 팜스프링스에서 약혼자 맥스 모란도와 결혼식을 올렸다.",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/miley-cyrus-maxx-morando-married-1236760559/",
+      "source": "The Hollywood Reporter",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-11-22T01:08:13Z",
+      "storyKey": "mileycyrusandmaxxmorandoaremarried",
+      "isNew": true
+    },
+    {
+      "title": "은퇴전 치른 추성훈 \"사랑아, 미안하지만 용돈 없다\"…대전료 전액 기부",
+      "summary": "22년 격투 인생의 마지막 경기에서 판정패한 추성훈이 대전료 전액을 기부하며 딸 추사랑에게 유쾌한 농담을 건넸다.",
+      "url": "https://weekly.chosun.com/news/articleView.html?idxno=57352",
+      "source": "주간조선",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-22T00:36:58Z",
+      "storyKey": "은퇴전치른추성훈사랑아미안하지만용돈없다대전료전액기부",
+      "isNew": true
+    },
+    {
+      "title": "주식시장 조정? S&P 500 지수가 10,000까지 급등할 것이라는 전망",
+      "summary": "일부 최고투자책임자는 현재의 주식시장 조정 국면에도 불구하고 S&P 500이 크게 상승할 것이라고 전망했다.",
       "url": "https://fortune.com/2026/11/21/stock-market-correction-sp500-2027-forecasts-ai-boom-fed-rate-hikes/",
       "source": "Fortune",
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-11-22T00:02:00Z",
       "storyKey": "stockmarketcorrectionthischiefinvestmentofficerseesthesp500soaring45to10000",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "경제·사회부처 주간 일정 (11월 23일 ~ 11월 27일)",
-      "summary": "11월 23일부터 27일까지 진행되는 정부의 주요 경제 및 사회부처 주간 일정이 공개되었습니다.",
+      "title": "[정부 주요 일정] 경제·사회부처 주간 일정 (11월 23일 ~ 11월 27일)",
+      "summary": "정부는 11월 23일부터 27일까지 주간 경제 및 사회부처 주요 일정을 공개했다.",
       "url": "https://www.etoday.co.kr/news/view/2651252",
       "source": "이투데이",
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-11-21T23:51:00Z",
       "storyKey": "정부주요일정경제사회부처주간일정11월23일11월27일",
-      "isNew": true
-    },
-    {
-      "title": "AI 데이터센터 구축 속도 향상…인허가 일괄 처리 및 평가 특례 도입",
-      "summary": "인공지능 데이터센터 구축을 가속화하기 위해 인허가 일괄 처리와 평가 특례 제도가 마련되었습니다.",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976211",
-      "source": "대한민국 정책브리핑",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-11-21T23:11:20Z",
-      "storyKey": "ai데이터센터구축빨라진다인허가일괄처리평가특례마련",
-      "isNew": true
-    },
-    {
-      "title": "멕시코 특수부대 급습 작전으로 수배 중이던 마약 카르텔 보스 '엘 차포 이시드로' 체포",
-      "summary": "미국 FBI 최다 지명수배자 명단에 있던 멕시코 마약 카르텔 보스 '엘 차포 이시드로'가 멕시코 특수부대의 극적인 군사 작전 끝에 체포되었습니다.",
-      "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
-      "source": "The Guardian",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-11-21T22:52:00Z",
-      "storyKey": "allegedmexicandrugcartelbosselchapoisidroarrestedinspecialforcesraid",
       "isNew": false
     },
     {
-      "title": "정부 자문위원, 종말 대비 비상식량 비축하는 이들을 과민반응이 아니라고 평가",
-      "summary": "정부 자문위원이 종말 대비 비상식량을 비축하는 사람들의 행동이 과민반응이 아니라는 입장을 밝혔습니다.",
-      "url": "https://www.newsnationnow.com/vargasreports/americans-supply-stocking-expert/",
-      "source": "NewsNation",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-11-21T22:22:20Z",
-      "storyKey": "governmentadvisorsaysdoomsdaysupplystockersarentoverreacting",
+      "title": "코스피 희망이 보인다 9,000p 시대 다시 옵니다",
+      "summary": "국내 주식시장에서 코스피가 다시 9,000포인트 시대를 맞이할 것이라는 전망이 제기됐다.",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445869",
+      "source": "연합인포맥스",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-11-21T22:58:22Z",
+      "storyKey": "코스피희망이보인다9000p시대다시옵니다",
       "isNew": true
     },
     {
-      "title": "브리엘 비어만, 플로리다에서 빌리 세이들과 결혼…크로이와 형제들은 불참",
-      "summary": "브리엘 비어만이 플로리다에서 빌리 세이들과 결혼식을 올렸으나, 크로이와 형제들은 참석하지 않았습니다.",
-      "url": "https://www.tmz.com/2026/11/21/brielle-biermann-marries-billy-seidl/",
-      "source": "TMZ",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-21T22:18:36Z",
-      "storyKey": "briellebiermannmarriesbillyseidlinfloridakroyandbrothersabsent",
-      "isNew": true
-    },
-    {
-      "title": "에뛰드 럭키햄 클라우드 필터 쿠션 기획세트 포슬린 1개",
-      "summary": "에뛰드의 포슬린 색상 럭키햄 클라우드 필터 쿠션 기획세트 1개 제품 정보입니다.",
+      "title": "에뛰드 럭키햄 클라우드 필터 쿠션 기획세트, 포슬린, 1개",
+      "summary": "에뛰드 럭키햄 클라우드 필터 쿠션 포슬린 색상 기획세트 제품 정보이다.",
       "url": "https://toss.im/_m/rvgr54GC",
       "source": "toss.im",
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-11-21T21:59:34Z",
       "storyKey": "에뛰드럭키햄클라우드필터쿠션기획세트포슬린1개",
-      "isNew": true
-    },
-    {
-      "title": "스페이스X 때보다 못 미쳤지만… 서학개미, 상장 첫날 앤트로픽 주식 2,200억 원 매수",
-      "summary": "역대 최대 규모의 앤트로픽 IPO 직후 뉴욕증시 폭락과 AI 거품론 속에서 서학개미들이 상장 첫날 2,200억 원어치를 매수했습니다.",
-      "url": "https://www.yna.co.kr/view/AKR20261121030200008",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-11-21T21:10:02Z",
-      "storyKey": "스페이스x때보다는뚝서학개미상장첫날앤트로픽2천200억매수",
-      "isNew": true
-    },
-    {
-      "title": "같은 4,800선인데도 코스피 '1조 클럽' 기업, 1월보다 11% 감소",
-      "summary": "코스피가 동일한 4,800선을 기록했음에도 불구하고 '1조 클럽'에 가입한 기업 수는 1월에 비해 11% 줄어들었습니다.",
-      "url": "https://www.yna.co.kr/view/AKR20261121035000008",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-11-21T21:05:01Z",
-      "storyKey": "같은4800선인데도코스피1조클럽1월보다11줄었다",
-      "isNew": true
-    },
-    {
-      "title": "네브래스카, AP 톱 25 연패 끊고 오하이오 주립대 상대로 이변의 승리 거둬",
-      "summary": "네브래스카가 랭킹 상위 상대로 이어오던 31경기 연패 사슬을 끊고 14위 오하이오 주립대를 꺾으며 상대의 플레이오프 진출을 좌절시켰습니다.",
-      "url": "https://www.espn.com/college-football/story/_/id/50553426/nebraska-snaps-ap-top-25-losing-skid-upsets-ohio-state",
-      "source": "ESPN",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-21T20:50:00Z",
-      "storyKey": "nebraskasnapsaptop25losingskidupsetsohiostate",
-      "isNew": true
-    },
-    {
-      "title": "‘인류의 종말’: 로봇 손 제작 경쟁이 우리를 도태시킬 것인가?",
-      "summary": "인공지능 분야에서 로봇 손을 개발하려는 노력이 인류를 도태시킬 수 있다는 우려에 대한 고찰입니다.",
-      "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
-      "source": "The Guardian",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-21T19:15:00Z",
-      "storyKey": "thedoomofhumanitywillthequesttomakerobotichandsrenderusobsoleteaiartificialintelligence",
       "isNew": false
     },
     {
-      "title": "앤트로픽 IPO, 중소기업을 위한 '골드러시의 서막' 알린다",
-      "summary": "앤트로픽의 상장이 월스트리트와 실리콘밸리 간의 시각 차이를 드러내고, 직원 대다수를 백만장자로 만들며 월가에 거대한 파장을 일으켰습니다.",
+      "title": "앤스로픽 IPO는 소상공인에게 '골드러시의 시작'을 의미한다는 전문가 분석",
+      "summary": "앤스로픽의 대규모 기업공개(IPO)가 월스트리트의 기술주 폭락 장세와 충돌하며 직원들의 주식 가치에도 큰 변화를 가져왔다.",
       "url": "https://www.foxbusiness.com/economy/anthropic-ipo-signals-beginning-gold-rush-small-businesses-says-biz-tech-ceo",
       "source": "Fox Business",
       "country": "미국",
       "category": "경제",
       "publishedAt": "2026-11-21T17:54:21Z",
-      "storyKey": "anthropiciposignalsbeginningofagoldrushforsmallbusinessessaysbiztechceo",
+      "storyKey": "anthropiciposignalsbeginningofagoldrushforsmallbusinessesbiztechceosays",
       "isNew": true
     },
     {
-      "title": "정실 정치",
-      "summary": "정실 정치의 개념과 영향에 관한 내용입니다.",
-      "url": "https://phenomenalworld.org/interviews/patronage-politics/",
-      "source": "Phenomenal World",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-11-21T17:35:58Z",
-      "storyKey": "patronagepolitics",
-      "isNew": true
-    },
-    {
-      "title": "기술주와 AI를 강타한 시장 매도세에 대한 전문가들의 진단",
-      "summary": "기술주와 AI 시장을 휩쓴 매도세를 두고 AI 거품론과 경제적 영향에 대한 전문가들의 진단이 이어지고 있습니다.",
+      "title": "기술주와 AI 주가 폭락 장세에 대한 전문가들의 진단",
+      "summary": "월스트리트를 강타한 인공지능 및 기술주 매도세와 거품 붕괴 원인을 두고 다양한 분석이 나오고 있다.",
       "url": "https://www.businessinsider.com/stock-market-plunge-tech-ai-michael-burry-nvda-ant-2026-11",
       "source": "Business Insider",
       "country": "미국",
@@ -156,30 +266,8 @@
       "isNew": false
     },
     {
-      "title": "젠슨 황 퇴진설에 중국 규제까지 겹쳐 이중고 겪는 AI 클라우드 업체",
-      "summary": "AI 클라우드 업체들이 젠슨 황의 퇴진과 중국의 규제라는 이중고에 직면했습니다.",
-      "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026112120573388159a1f309431_1",
-      "source": "글로벌이코노믹",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-11-21T17:00:00Z",
-      "storyKey": "젠슨황퇴진에규제까지ai클라우드업체이중고",
-      "isNew": false
-    },
-    {
-      "title": "'GTA 6', 기록적인 38억 달러 규모 출시 및 레오니다에서 발견되는 비밀들",
-      "summary": "'GTA 6'가 출시 첫날 38억 달러에 달하는 역대 최고 수준의 소매 판매 기록을 세우며 엔터테인먼트 시장의 신기원을 열었습니다.",
-      "url": "https://tech.yahoo.com/gaming/breaking-news/live/gta-6-live-updates-record-38-billion-launch-viral-clips-and-the-secrets-players-are-finding-in-leonida-163038757.html",
-      "source": "Yahoo Tech",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-11-21T16:55:28Z",
-      "storyKey": "gta6liveupdatesrecord38billionlaunchviralclipsandthesecretsplayersarefindinginleonida",
-      "isNew": true
-    },
-    {
-      "title": "'헝거게임: 서쪽의 해돋이' 5,600만 달러로 오프닝 기록",
-      "summary": "'헝거게임' 프리퀄 영화 '서쪽의 해돋이'가 개봉하여 5,600만 달러(예상치 최대 1억 2천만 달러)의 오프닝 성적을 거두었습니다.",
+      "title": "‘헝거게임: 수확의 날의 해돋이’ 5,600만 달러로 오프닝 흥행",
+      "summary": "영화 '헝거게임' 프리퀄 신작이 극장가에서 높은 오프닝 흥행 수익을 기록하며 개봉했다.",
       "url": "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-of-the-reaping-opening-day-1236954987/",
       "source": "Variety",
       "country": "미국",
@@ -189,194 +277,106 @@
       "isNew": false
     },
     {
-      "title": "과학자들 발견: AI는 결국 인간의 뇌처럼 작동하지 않을 수 있어",
-      "summary": "과학자들은 인공지능이 실제 인간의 뇌와는 다르게 작동할 수 있다는 사실을 발견했습니다.",
+      "title": "인공지능은 결국 인간의 뇌처럼 작동하지 않을 수 있다는 연구 결과",
+      "summary": "과학자들은 인공지능이 실제 인간의 뇌와는 다른 방식으로 작동할 수 있다는 사실을 발견했다.",
       "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
-      "source": "ScienceDaily",
+      "source": "Science Daily",
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-11-21T15:25:56Z",
       "storyKey": "aimaynotworklikethehumanbrainafterallscientistsdiscover",
-      "isNew": true
-    },
-    {
-      "title": "\"격투기 인생, 정말 재밌었다!\" 추성훈, 눈물과 함께 전한 아름다운 은퇴 선언",
-      "summary": "추성훈이 고척 현장에서 22년간의 격투기 인생을 마무리하며 파이트머니 전액 기부와 함께 감동적인 은퇴 소감을 밝혔습니다.",
-      "url": "https://www.mt.co.kr/sports/2026/11/22/2026112118370880059",
-      "source": "머니투데이",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-21T15:01:00Z",
-      "storyKey": "격투기인생xx재밌었다추성훈다운은퇴선언눈물과함께아름다운퇴장고척현장머니투데이",
-      "isNew": true
-    },
-    {
-      "title": "2026년 11월 22일 오늘의 운세 오행별 행운의 컬러",
-      "summary": "2026년 11월 22일 오행별 행운의 컬러를 담은 오늘의 운세 정보입니다.",
-      "url": "https://www.hankyung.com/article/2026110936367",
-      "source": "한국경제",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-11-21T15:00:11Z",
-      "storyKey": "오늘의운세2026년11월22일오행별행운의컬러",
-      "isNew": true
-    },
-    {
-      "title": "주식시장의 10% 하락은 불안하지만 아주 드문 일은 아닙니다",
-      "summary": "주식시장에서 나타나는 10% 수준의 하락은 불안감을 주지만 역사적으로 드문 현상은 아닙니다.",
-      "url": "https://abcnews.com/Business/wireStory/10-drop-stock-market-unnerving-unusual-138341954",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-21T14:59:43Z",
-      "storyKey": "a10dropforthestockmarketisunnervingbutitsnotthatunusual",
-      "isNew": true
-    },
-    {
-      "title": "이 대통령 “수능 부정행위 포상금 1건당 1억 원…부정행위자 수만큼 가산 지급”",
-      "summary": "이 대통령은 수능 부정행위를 철저히 추적하기 위해 신고 포상금을 건당 1억 원으로 올리고 부정행위자 수만큼 가산하겠다고 밝혔습니다.",
-      "url": "https://www.hani.co.kr/arti/politics/politics_general/1288438.html",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-21T13:27:00Z",
-      "storyKey": "이대통령수능부정행위포상금1건당1억원부정행위자수만큼가산",
-      "isNew": true
-    },
-    {
-      "title": "유럽·일본 합작 베피콜롬보 탐사선, 오늘 수성 궤도 진입",
-      "summary": "8년의 우주 항해 끝에 유럽과 일본의 합작 X선 망원경 탐사선 베피콜롬보가 수성 궤도에 도착해 첫 이미지를 전달했습니다.",
-      "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
-      "source": "Space",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-11-21T11:00:00Z",
-      "storyKey": "europeanjapanesebepicolomboprobearrivesinorbitaroundmercurytoday",
       "isNew": false
     },
     {
-      "title": "'은퇴 예고' 최민정, 쇼트트랙 월드투어 1000m서 3연속 금메달 획득",
-      "summary": "은퇴를 예고한 쇼트트랙 간판 최민정이 안방에서 열린 월드투어 여자 1000m에서 3연속 우승을 차지했습니다.",
-      "url": "https://imnews.imbc.com/news/2026/sports/article/6867495_36946.html",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-21T10:27:20Z",
-      "storyKey": "은퇴예고최민정쇼트트랙월드투어1000m3연속금메달",
-      "isNew": false
-    },
-    {
-      "title": "보이저 1호, 지구에서 1광일 거리 도달했으나 현재 데이터 송신 중단",
-      "summary": "인류가 만든 최초의 물체인 보이저 1호가 지구로부터 1광일 거리에 도달했으나 현재는 데이터를 보내지 못하고 있습니다.",
-      "url": "https://mashable.com/science/nasa-voyager-1-data-outage-continues-past-one-light-day",
-      "source": "Mashable",
+      "title": "미국, 중국, 그리고 양극화된 AI 경쟁의 대가",
+      "summary": "미국과 중국 간의 양극화된 인공지능 패권 경쟁이 가져오는 사회적, 경제적 비용을 분석했다.",
+      "url": "https://time.com/article/2026/11/21/america-china-and-the-costs-of-the-bipolar-ai-race/",
+      "source": "Time Magazine",
       "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-11-21T10:18:51Z",
-      "storyKey": "voyager1hitonelightdaybutisntsendinghomeanydatarightnow",
-      "isNew": false
+      "category": "사회",
+      "publishedAt": "2026-11-21T12:00:07Z",
+      "storyKey": "americachinaandthecostsofthebipolarairace",
+      "isNew": true
     },
     {
-      "title": "“낙태했어야” “머리 열어 소변” “금붕어”…안하무인 젠슨 황 부녀 논란",
-      "summary": "젠슨 황 부녀와 관련된 무례한 발언들과 논란 내용입니다.",
+      "title": "“낙태했어야” “머리 열어 소변” “금붕어”…안하무인 젠슨황 부녀",
+      "summary": "젠슨 황 부녀와 관련된 자극적인 발언 및 논란을 다룬 보도이다.",
       "url": "https://www.donga.com/news/Inter/article/all/20261121/135065038/2",
       "source": "동아일보",
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-11-21T10:14:00Z",
       "storyKey": "낙태했어야머리열어소변금붕어안하무인젠슨황",
-      "isNew": true
-    },
-    {
-      "title": "변호사단체 \"민주당은 조희대 대법원장 탄핵 추진 즉각 중단하라\"",
-      "summary": "변호사단체가 더불어민주당을 향해 조희대 대법원장 탄핵 추진을 중단할 것을 촉구했습니다.",
-      "url": "https://www.chosun.com/national/court_law/2026/11/21/6BNELMPDGVCTJP52V4VASPORY4/",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-21T08:16:43Z",
-      "storyKey": "변호사단체민주당조희대대법원장탄핵추진중단하라",
       "isNew": false
     },
     {
-      "title": "[단독] MBK, 일본 와콤 1조 원대 인수…삼성전자도 재출자 참여",
-      "summary": "MBK 파트너스가 일본 와콤을 1조 원대에 인수하며 삼성전자도 재출자로 참여했습니다.",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02036886645648016&mediaCodeNo=257",
-      "source": "이데일리",
-      "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-11-21T05:33:02Z",
-      "storyKey": "단독mbk와콤1조원대인수삼성전자도재출자",
-      "isNew": true
-    },
-    {
-      "title": "해킹부터 커닝까지, AI의 역습에 직면해 비상 걸린 한국 사회",
-      "summary": "해킹과 부정행위 등 인공지능 기술 악용으로 인해 한국 사회 전반에 비상이 걸렸습니다.",
-      "url": "https://www.opengo.center/news/articleView.html?idxno=41088",
-      "source": "열린정책뉴스",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-11-21T03:59:00Z",
-      "storyKey": "해킹에커닝까지ai의역습에한국사회비상",
-      "isNew": true
-    },
-    {
-      "title": "167년 동안 풀리지 않던 수학 최대 난제 ‘리만 가설’, AI가 증명했다고 주장",
-      "summary": "167년간 미해결 상태였던 수학의 최대 난제인 리만 가설을 인공지능이 증명했다고 주장했습니다.",
+      "title": "167년 안 풀린 수학 최대 난제 ‘리만 가설’, AI가 증명 주장",
+      "summary": "167년 동안 해결되지 않았던 수학의 난제인 '리만 가설'을 인공지능이 증명했다고 주장하는 연구가 나왔다.",
       "url": "https://www.chosun.com/economy/science/2026/11/21/EIBR47HSIBBSDBGW73KPAKA554/",
       "source": "조선일보",
       "country": "한국",
       "category": "과학",
       "publishedAt": "2026-11-21T01:39:00Z",
       "storyKey": "167년안풀린수학최대난제리만가설ai가증명주장",
+      "isNew": false
+    },
+    {
+      "title": "‘작은 원전’ 소형모듈원자로(SMR), 곳곳서 차질… 한국 계획은 괜찮나",
+      "summary": "차세대 에너지원으로 꼽히는 소형모듈원자로(SMR) 사업이 여러 곳에서 차질을 빚으면서 한국의 관련 계획에도 우려가 제기되고 있다.",
+      "url": "https://www.chosun.com/economy/economy_general/2026/11/21/HMRSXGFH6FAHVEUCJTGGIZTKXU/",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-11-20T21:00:00Z",
+      "storyKey": "작은원전smr곳곳서차질한국계획은괜찮나",
       "isNew": true
     }
   ],
   "briefing": [
-    "AI 기술의 급격한 발전과 함께 데이터센터 인허가 완화 및 수학 난제 증명 시도가 이어지는 한편, 해킹과 부정행위 등 AI 역습에 대한 우려도 커지고 있습니다.",
-    "앤트로픽의 대규모 IPO 상장과 기술주 매도세가 맞물리면서 뉴욕증시와 국내 증시에서 AI 거품론과 투자 열풍이 동시에 조명받고 있습니다.",
-    "정치권의 대법원장 탄핵 공방부터 수능 부정행위 방지 대책, 마약 카르텔 보스 체포 등 국내외 사회·정치적 현안들이 활발히 보도되고 있습니다."
+    "국내외 정치권에서 장관 사임, 대법원장 탄핵 추진, 이민 단속 등 사법 및 행정 마찰이 이어지고 있다.",
+    "뉴욕증시와 기술·AI 관련 시장에서는 앤스로픽 IPO와 맞물려 주가 변동성과 거품 붕괴 우려가 대두되고 있다.",
+    "교육, 과학, 기술 분야에서는 수능 혼란, AI의 수학 난제 증명, 우주 탐사선 수성 도착 등 다양한 성과와 현안이 발생했다."
   ],
   "trends": [
     {
       "category": "정치",
-      "summary": "대법원장 탄핵 추진을 둘러싼 여야의 공방과 함께 정부의 수능 부정행위 근절 대책 발표가 이어지고 있습니다."
+      "summary": "정치권은 교육부 장관 사임과 야권의 대법원장 탄핵 추진 등으로 혼란을 겪고 있다."
     },
     {
       "category": "경제",
-      "summary": "앤트로픽의 대규모 IPO 상장과 기술주 매도세 여파로 시장 내 자금 유동성과 거품 논란이 주목받고 있습니다."
+      "summary": "재건축초과이익환수제 부담금 논란과 함께 소상공인 관련 IPO 이슈가 주목받고 있다."
     },
     {
       "category": "기술",
-      "summary": "AI 데이터센터 인허가 특례 마련과 일본 와콤 인수 등 첨단 기술 및 인수합병 소식이 전해졌습니다."
+      "summary": "사이버 보안 교육의 필요성이 대두되는 한편 소형모듈원자로(SMR) 사업 등이 차질을 빚고 있다."
     },
     {
       "category": "문화",
-      "summary": "영화 '헝거게임' 프리퀄의 흥행 성적과 연예계 결혼 및 운세 정보가 보도되었습니다."
+      "summary": "연예계 음주운전 논란과 함께 영화 개봉 및 결혼 소식 등 문화계 소식이 전해졌다."
     },
     {
       "category": "스포츠",
-      "summary": "추성훈 선수의 감동적인 은퇴와 최민정 선수의 쇼트트랙 월드투어 우승 소식이 전해졌습니다."
+      "summary": "국내 여자농구와 대학 미식축구, 격투기 은퇴전 등 다양한 스포츠 경기 결과가 전해졌다."
     },
     {
       "category": "과학",
-      "summary": "보이저 1호의 1광일 거리 도달과 베피콜롬보 탐사선의 수성 궤도 진입 소식이 전해졌습니다."
+      "summary": "베피콜롬보 탐사선의 수성 도착과 스페이스X 화물선의 지구 귀환 등 우주 탐사 성과가 있었다."
     },
     {
       "category": "IT",
-      "summary": "AI 클라우드 업체의 이중고와 함께 종말 대비 비상식량 비축 움직임 등이 다뤄졌습니다."
+      "summary": "사이버 보안 비상 상황과 함께 쿠션 상품 등 다양한 IT 및 소비재 소식이 보도됐다."
     },
     {
       "category": "주식",
-      "summary": "S&P 500 전망과 코스피 '1조 클럽' 기업 수 변화, 증시 조정에 대한 분석이 나왔습니다."
+      "summary": "글로벌 증시의 기술주 매도세와 S&P 500 및 코스피 지수의 전망이 엇갈리고 있다."
     },
     {
       "category": "사회",
-      "summary": "AI를 악용한 해킹과 커닝 등 사회적 부작용에 대응하기 위한 움직임이 나타나고 있습니다."
+      "summary": "건강보험 혜택 보장 요구와 정부 주요 경제·사회부처 일정 등이 다뤄졌다."
     },
     {
       "category": "AI",
-      "summary": "AI가 리만 가설 증장을 주장하고 인간 뇌와의 작동 방식 차이가 제기되는 등 기술적 진전과 논란이 이어지고 있습니다."
+      "summary": "오픈AI의 새 음성 모델 출시와 인공지능의 리만 가설 증명 주장을 비롯한 AI 기술 발전이 이어지고 있다."
     }
   ]
 }
