@@ -1,382 +1,337 @@
 {
-  "generatedAt": "2026-11-24T02:16:52.925557Z",
+  "generatedAt": "2026-11-24T12:40:27.308953Z",
   "items": [
     {
-      "title": "KISTI “중동전쟁 후 에너지 안보 관심 증가…AI·탄소중립 정책 연계 필요”",
-      "summary": "KISTI는 중동전쟁 이후 높아진 에너지 안보 관심에 따라 AI와 탄소중립 정책의 연계가 필요하다고 밝혔다.",
-      "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=418285",
-      "source": "충청뉴스",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-11-24T02:08:15Z",
-      "storyKey": "kisti중동전쟁후에너지안보관심증가ai탄소중립정책연계필요",
+      "title": "The Morning Risk Report: U.S. Chip Restrictions Amplify Shell Company Headaches in AI Ecosystem",
+      "summary": "",
+      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-chip-restrictions-amplify-shell-company-headaches-in-ai-ecosystem-fd7a749d",
+      "source": "WSJ",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-24T12:36:46Z",
+      "storyKey": "themorningriskreportuschiprestrictionsamplifyshellcompanyheadachesinaiecosystem",
       "isNew": true
     },
     {
-      "title": "신세계, AI 퍼스널 쇼퍼 '원픽' 출시",
-      "summary": "신세계가 고객의 옷 고르기 고민을 덜어주기 위해 AI 퍼스널 쇼퍼 서비스 '원픽'을 출시했다.",
-      "url": "https://m.joseilbo.com/news/view.htm?newsid=580306&class2=&class=3",
-      "source": "조세일보",
+      "title": "The Challenges of Teaching Critical AI Skills",
+      "summary": "",
+      "url": "https://today.uconn.edu/2026/11/the-challenges-of-teaching-critical-ai-skills/?utm_source=uconn-today-plugin",
+      "source": "UConn Today",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-24T12:04:20Z",
+      "storyKey": "thechallengesofteachingcriticalaiskills",
+      "isNew": true
+    },
+    {
+      "title": "문학은 인간만의 것?…신춘문예·공모전 ‘AI 사용 여부 밝혀라’",
+      "summary": "",
+      "url": "https://www.khan.co.kr/article/202611242048005",
+      "source": "경향신문",
       "country": "한국",
       "category": "AI",
-      "publishedAt": "2026-11-24T01:48:26Z",
-      "storyKey": "옷고르기고민끝신세계ai퍼스널쇼퍼원픽출시",
+      "publishedAt": "2026-11-24T11:48:00Z",
+      "storyKey": "문학은인간만의것신춘문예공모전ai사용여부밝혀라",
       "isNew": true
     },
     {
-      "title": "삼성SDS, 임원 10명 승진…AI 전환·클라우드 핵심 인재 발탁",
-      "summary": "삼성SDS가 AI 전환과 클라우드 사업을 이끌 핵심 인재를 중심으로 임원 10명을 승진시켰다.",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732775",
-      "source": "ebn.co.kr",
+      "title": "[공공 클라우드 도입 촉진사업] 데이터드리븐 '클리포' “교사 평가 업무 지원”",
+      "summary": "",
+      "url": "https://www.etnews.com/20261124000516",
+      "source": "전자신문",
       "country": "한국",
       "category": "IT",
-      "publishedAt": "2026-11-24T01:09:08Z",
-      "storyKey": "속보삼성sds임원10명승진ai전환클라우드핵심인재발탁",
+      "publishedAt": "2026-11-24T11:45:11Z",
+      "storyKey": "공공클라우드도입촉진사업데이터드리븐클리포교사평가업무지원",
       "isNew": true
     },
     {
-      "title": "AI 해킹 공포 확산에 사이버 보안업계 대형 M&A",
-      "summary": "AI 해킹에 대한 공포가 확산되면서 사이버 보안업계에서 대형 M&A가 활발히 이뤄지고 있다.",
-      "url": "https://www.yna.co.kr/amp/view/AKR20261124054600009",
-      "source": "연합뉴스",
+      "title": "손흥민과 MLS컵 PO에서 맞대결…정상빈 웃었다",
+      "summary": "",
+      "url": "https://www.khan.co.kr/article/202611242032025",
+      "source": "경향신문",
       "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-11-24T00:55:47Z",
-      "storyKey": "ai해킹공포확산에사이버보안업계대형ma",
+      "category": "스포츠",
+      "publishedAt": "2026-11-24T11:32:00Z",
+      "storyKey": "손흥민과mls컵po에서맞대결정상빈웃었다",
       "isNew": true
     },
     {
-      "title": "코스피 3.6% 상승 출발…엔비디아 훈풍에 삼전·하이닉스 급등",
-      "summary": "엔비디아 훈풍의 영향으로 삼성전자와 SK하이닉스가 급등하며 코스피가 3.6% 상승 출발했다.",
-      "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611240937387681_005.html",
-      "source": "YTN",
+      "title": "Wall St futures dip as chip stocks cool after Nvidia-fueled rally",
+      "summary": "",
+      "url": "https://www.reuters.com/business/wall-st-futures-dip-chip-stocks-cool-after-nvidia-fueled-rally-2026-11-24/",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-24T11:04:34Z",
+      "storyKey": "wallstfuturesdipaschipstockscoolafternvidiafueledrally",
+      "isNew": true
+    },
+    {
+      "title": "한국환경기술사회, 네팔 홍수 피해 복구 성금 300만원 전달",
+      "summary": "",
+      "url": "https://www.hkbs.co.kr/news/articleView.html?idxno=839422",
+      "source": "환경일보",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-11-24T10:52:12Z",
+      "storyKey": "한국환경기술사회네팔홍수피해복구성금300만원전달",
+      "isNew": true
+    },
+    {
+      "title": "County College of Morris named among America's best community colleges by TIME magazine",
+      "summary": "",
+      "url": "https://wrnjradio.com/county-college-of-morris-named-among-americas-best-community-colleges-by-time-magazine/",
+      "source": "WRNJ Radio",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-11-24T10:44:47Z",
+      "storyKey": "countycollegeofmorrisnamedamongamericasbestcommunitycollegesbytimemagazine",
+      "isNew": true
+    },
+    {
+      "title": "Weekly market commentary",
+      "summary": "",
+      "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
+      "source": "BlackRock",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-24T10:16:27Z",
+      "storyKey": "weeklymarketcommentary",
+      "isNew": true
+    },
+    {
+      "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+      "summary": "",
+      "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+      "source": "The New York Times",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-24T10:03:11Z",
+      "storyKey": "fromchinesefactorytowntothenvidiascandaltheriseofalicehuang",
+      "isNew": true
+    },
+    {
+      "title": "젠슨황 복귀에 코스피 급등…5천선 회복",
+      "summary": "",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8721221",
+      "source": "KBS 뉴스",
       "country": "한국",
       "category": "주식",
-      "publishedAt": "2026-11-24T00:37:00Z",
-      "storyKey": "코스피36상승출발엔비디아훈풍에삼전닉스급등",
+      "publishedAt": "2026-11-24T10:03:00Z",
+      "storyKey": "젠슨황복귀에코스피급등5천선회복",
       "isNew": true
     },
     {
-      "title": "러시아 군용기 KADIZ 무단 진입…울릉도 한때 경계경보 발령",
-      "summary": "러시아 군용기의 KADIZ 무단 진입으로 울릉도에 한때 경계경보와 주민 대피령이 내려졌으나 오전 7시 56분 민방공 경보가 해제되었다.",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261124091045kr0",
-      "source": "연합뉴스TV",
+      "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+      "summary": "",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
+      "source": "NPR",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-24T10:00:00Z",
+      "storyKey": "forworkplaceculturechampionsjensenhuangsreturnisunfathomable",
+      "isNew": true
+    },
+    {
+      "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
+      "summary": "",
+      "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/",
+      "source": "STAT",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-24T09:35:39Z",
+      "storyKey": "howartificialintelligenceisofferingnewhopeforstrokepatientsinthelastfrontier",
+      "isNew": true
+    },
+    {
+      "title": "UT San Antonio receives $7.6 million to expand national cybersecurity training",
+      "summary": "",
+      "url": "https://news.utsa.edu/2026/11/ut-san-antonio-receives-7-6-million-to-expand-national-cybersecurity-training/",
+      "source": "UT San Antonio Today",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-11-24T09:07:27Z",
+      "storyKey": "utsanantonioreceives76milliontoexpandnationalcybersecuritytraining",
+      "isNew": true
+    },
+    {
+      "title": "\"젠슨 황 컴백 도운 트럼프…엔비디아 지분 요구할 수도\"",
+      "summary": "",
+      "url": "https://www.hankyung.com/article/2026112477061",
+      "source": "한국경제",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-11-24T08:37:24Z",
+      "storyKey": "젠슨황컴백도운트럼프엔비디아지분요구할수도",
+      "isNew": true
+    },
+    {
+      "title": "“하…” 음주운전 고경표, 다친 미화원께 연락드렸냐 물었더니",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CMHkwbHZ5MXpSWlZZZm1heW0xMkUzOEhfYTkwTmQ3WHlYUGNwNW56cHZDdFBWRWViNERkSFgwWU9JdklROE8xbHo1N3JsSGttZ2UybXljN0I2Q2VIM3VxR3RZTXEydXNBZUUwZVpZenZPQQ?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-11-24T08:24:00Z",
+      "storyKey": "하음주운전고경표다친미화원께연락드렸냐물었더니",
+      "isNew": true
+    },
+    {
+      "title": "이용철, “무리한 지휘 안 한다”면서도…‘대통령 공소취소 안 한다고 못하나’ 묻자 “예”",
+      "summary": "",
+      "url": "https://www.khan.co.kr/article/202611241659001",
+      "source": "경향신문",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-11-24T00:10:00Z",
-      "storyKey": "러시아군용기여러대kadiz무단진입한때울릉도에경계경보",
+      "publishedAt": "2026-11-24T07:59:00Z",
+      "storyKey": "이용철무리한지휘안한다면서도대통령공소취소안한다고못하나묻자예",
+      "isNew": true
+    },
+    {
+      "title": "What Michigan's Kyle Whittingham said before facing Ohio State in The Game",
+      "summary": "",
+      "url": "https://247sports.com/college/ohio-state/longformarticle/what-michigan-wolverines-kyle-whittingham-said-before-facing-ohio-state-football-in-the-game-293220261/",
+      "source": "247Sports",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-24T06:48:32Z",
+      "storyKey": "whatmichiganskylewhittinghamsaidbeforefacingohiostateinthegame",
+      "isNew": true
+    },
+    {
+      "title": "“이제 클라우드 사용자는 사람 아닌 AI”…AWS, 플랫폼 재편",
+      "summary": "",
+      "url": "https://www.sisajournal-e.com/news/articleViewAmp.html?idxno=425275",
+      "source": "시사저널e",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-24T05:22:09Z",
+      "storyKey": "이제클라우드사용자는사람아닌aiaws플랫폼재편",
+      "isNew": true
+    },
+    {
+      "title": "[영상] 빛나는 사쿠라·최윤아 매직…신한은행 4연승",
+      "summary": "",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8721009",
+      "source": "KBS 뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-24T04:41:00Z",
+      "storyKey": "영상빛나는사쿠라최윤아매직신한은행4연승",
+      "isNew": true
+    },
+    {
+      "title": "‘검은 가죽 재킷’ 벗은 젠슨 황 “오늘 제 첫 출근 날, 고맙다”",
+      "summary": "",
+      "url": "https://www.chosun.com/economy/tech_it/2026/11/24/PSALHYITCJHYXKYYHQT2ELBZJI/",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-11-24T01:53:00Z",
+      "storyKey": "검은가죽재킷벗은젠슨황오늘제첫출근날고맙다",
+      "isNew": true
+    },
+    {
+      "title": "중국산 로봇, 일하다가 자꾸 망가진다…투입 속도조절 나선 中 자동차업계",
+      "summary": "",
+      "url": "https://www.mk.co.kr/news/business/12216911",
+      "source": "매일경제",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-11-24T01:33:00Z",
+      "storyKey": "중국산로봇일하다가자꾸망가진다투입속도조절나선자동차업계",
+      "isNew": true
+    },
+    {
+      "title": "강금실 국정원장 후보자 출근",
+      "summary": "",
+      "url": "https://www.yna.co.kr/view/PYH20261124027400013",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-24T00:34:40Z",
+      "storyKey": "강금실국정원장후보자출근",
       "isNew": true
     },
     {
       "title": "복지부·한국사회복지협의회, 배민 손잡고 ‘그냥드림’ 사업 지원 확대",
-      "summary": "보건복지부와 한국사회복지협의회가 배달의민족과 협력하여 '그냥드림' 사업 지원을 확대한다.",
+      "summary": "",
       "url": "https://www.bokjitimes.com/news/articleView.html?idxno=44919",
       "source": "복지타임즈",
       "country": "한국",
       "category": "사회",
       "publishedAt": "2026-11-23T23:58:24Z",
       "storyKey": "복지부한국사회복지협의회배민손잡고그냥드림사업지원확대",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "현재 지원 가능한 사이버 보안 일자리 안내",
-      "summary": "현재 지원할 수 있는 다양한 사이버 보안 관련 일자리 정보가 공개되었다.",
-      "url": "https://www.helpnetsecurity.com/2026/11/24/cybersecurity-jobs-available-right-now-november-24-2026/",
-      "source": "Help Net Security",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-11-23T23:30:54Z",
-      "storyKey": "cybersecurityjobsavailablerightnownovember242026",
-      "isNew": true
-    },
-    {
-      "title": "음주운전 물의 고경표, 경찰 조사 후 미화원과 제작진에게 눈물의 사과",
-      "summary": "만취 교통사고로 음주운전 물의를 빚은 배우 고경표가 첫 경찰 조사를 마친 뒤 미화원과 제작진에게 눈물로 사과했다.",
-      "url": "https://www.ytn.co.kr/_ln/0134_202611240824105091",
-      "source": "YTN",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-11-23T23:24:00Z",
-      "storyKey": "방송앞두고날벼락고경표음주운전후첫등장자막뉴스",
-      "isNew": true
-    },
-    {
-      "title": "플로리다 주립대, 글렌 슈만 조지아대 수석코치를 새 미식축구 감독으로 선임",
-      "summary": "플로리다 주립대가 마이크 노벨의 후임으로 조지아대의 수석코치인 글렌 슈만을 새로운 미식축구 감독으로 임명했다.",
-      "url": "https://247sports.com/college/florida-state/article/florida-state-hires-glenn-schumann-as-new-head-football-coach-293159287/",
-      "source": "247Sports",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-23T23:22:53Z",
-      "storyKey": "floridastatehiresglennschumannasnewheadfootballcoach",
-      "isNew": true
-    },
-    {
-      "title": "트럼프의 지지 속 젠슨 황의 엔비디아 복귀에 공화당 내 갈등 발생",
-      "summary": "트럼프의 적극적인 지지로 젠슨 황이 엔비디아 CEO로 복귀한 가운데, 이를 두고 공화당 내에서 의견이 갈리고 있다.",
-      "url": "https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html",
-      "source": "The New York Times",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-23T23:18:45Z",
-      "storyKey": "republicansbreakwithtrumpoverjensenhuangsreinstatementatnvidia",
-      "isNew": true
-    },
-    {
-      "title": "젠슨 황 복귀에 엔비디아 시총 하루 새 삼성전자만큼 증가",
-      "summary": "트럼프의 보증으로 젠슨 황이 엔비디아에 복귀하면서, 하루 만에 삼성전자 시가총액에 달하는 규모가 불어났다.",
-      "url": "https://www.chosun.com/economy/int_economy/2026/11/24/QL5W3LKKZBDQ7O32P42E6B6UIE/",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-11-23T23:08:00Z",
-      "storyKey": "젠슨황돌아오자엔비디아시총하루새삼성전자만큼늘었다",
-      "isNew": true
-    },
-    {
-      "title": "티띠꾼, LPGA 최종전 우승으로 랭킹 1위 코르다 추격",
-      "summary": "티띠꾼이 LPGA 투어 챔피언십 최종전 우승을 차지하며 랭킹 1위 코르다와의 격차를 좁혔다.",
-      "url": "https://www.yna.co.kr/view/AKR20261124024900007",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-23T23:07:44Z",
-      "storyKey": "티띠꾼랭킹1위코르다추격lpga최종전우승으로격차좁혀",
-      "isNew": true
-    },
-    {
-      "title": "젠슨 황 복귀에 힘입어 미 증시 급등, 수조 달러 가치 상승",
-      "summary": "젠슨 황의 엔비디아 복귀에 대한 낙관론으로 미 증시가 급등하며 막대한 가치가 더해졌다.",
-      "url": "https://www.nbcnews.com/business/markets/stocks-rebound-ai-tech-selloff-nvidia-rcna610833",
-      "source": "NBC News",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-23T22:29:19Z",
-      "storyKey": "stockssurgeinbestdaysince2025addingtrillionsinvalueafterjensenhuangreturnstonvidia",
-      "isNew": true
-    },
-    {
-      "title": "트럼프, 아이오와주 뇌화물 폭발 9,500파운드 중단 지시",
-      "summary": "트럼프가 아이오와주에서 예정된 9,500파운드 규모의 납 아지드 폭발을 법원 승인 전까지 중단하라고 군에 지시했다.",
+      "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know",
+      "summary": "",
       "url": "https://www.pbs.org/newshour/nation/trump-told-the-army-to-pause-the-detonation-of-9500-pounds-of-lead-azide-in-iowa-heres-what-to-know",
       "source": "PBS",
       "country": "미국",
       "category": "정치",
       "publishedAt": "2026-11-23T22:05:00Z",
       "storyKey": "trumptoldthearmytopausethedetonationof9500poundsofleadazideiniowahereswhattoknow",
+      "isNew": false
+    },
+    {
+      "title": "무너지는 북극 땅, 60년 새 붕괴 지형 23배 늘어난 곳도... ‘나무 담요’ 기술도 등장",
+      "summary": "",
+      "url": "https://www.chosun.com/economy/tech_it/2026/11/24/FXKMQ2LHGBBR5CIXYPOTTVIDKI/",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "과학",
+      "publishedAt": "2026-11-23T21:11:07Z",
+      "storyKey": "무너지는북극땅60년새붕괴지형23배늘어난곳도나무담요기술도등장",
       "isNew": true
     },
     {
-      "title": "지난 30년간 흑백 간 사망률 격차 대폭 감소",
-      "summary": "지난 30년 동안 흑인과 백인 사이의 사망률 격차가 유의미하게 감소한 것으로 나타났다.",
-      "url": "https://medicalxpress.com/news/2026-11-significant-decrease-black-white-mortality.html",
-      "source": "Medical Xpress",
-      "country": "미국",
-      "category": "사회",
-      "publishedAt": "2026-11-23T22:00:32Z",
-      "storyKey": "significantdecreaseinblackwhitemortalitygapduringpast30years",
-      "isNew": true
-    },
-    {
-      "title": "애플 TV, '테드 라소' 시즌 5 제작 확정",
-      "summary": "애플 TV가 글로벌 히트작 '테드 라소'의 시즌 5 제작을 확정했다.",
-      "url": "https://deadline.com/2026/11/ted-lasso-renewed-season-5-apple-tv-1237231022/",
-      "source": "Deadline",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-23T20:30:00Z",
-      "storyKey": "tedlassorenewedforseason5byappletv",
-      "isNew": true
-    },
-    {
-      "title": "'블레이드 러너 2099', 로튼 토마토 비평가 점수가 이전 영화들 밑돌아",
-      "summary": "새로운 TV 시리즈 '블레이드 러너 2099'의 로튼 토마토 비평가 점수가 원작 영화들보다 낮은 기록을 보였다.",
+      "title": "‘Blade Runner 2099’ Rotten Tomatoes Critics’ Score Is Below Both ‘Blade Runner’ Movies",
+      "summary": "",
       "url": "https://www.forbes.com/sites/timlammers/2026/11/23/blade-runner-2099-rotten-tomatoes-critics-score-is-below-both-blade-runner-movies/",
       "source": "Forbes",
       "country": "미국",
       "category": "문화",
       "publishedAt": "2026-11-23T20:23:00Z",
       "storyKey": "bladerunner2099rottentomatoescriticsscoreisbelowbothbladerunnermovies",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "미국 인공지능 블랙마켓의 실태 조명",
-      "summary": "미국 내에서 형성된 인공지능 관련 블랙마켓의 내부 실태가 다뤄졌다.",
-      "url": "https://www.lawfaremedia.org/article/inside-the-black-market-for-america-s-artificial-intelligence",
-      "source": "Lawfare",
+      "title": "Steven Spielberg to Direct Western Movie Starring Cillian Murphy, Jessie Buckley; Paul Thomas Anderson to Write Script Based on ‘The Heart in Winter’",
+      "summary": "",
+      "url": "https://variety.com/2026/film/news/steven-spielberg-western-cillian-murphy-jessie-buckley-1236956084/",
+      "source": "Variety",
       "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-23T19:09:53Z",
-      "storyKey": "insidetheblackmarketforamericasartificialintelligence",
+      "category": "문화",
+      "publishedAt": "2026-11-23T18:03:00Z",
+      "storyKey": "stevenspielbergtodirectwesternmoviestarringcillianmurphyjessiebuckleypaulthomasandersontowritescriptbasedontheheartinwinter",
       "isNew": true
     },
     {
-      "title": "S&P 500 지수 차트, 데이터 및 관련 뉴스 제공",
-      "summary": "S&P 500 지수의 최신 차트와 데이터 및 관련 금융 뉴스가 제공된다.",
-      "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/",
-      "source": "Yahoo! Finance Canada",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-23T17:47:39Z",
-      "storyKey": "sp500gspcchartsdatanewsyahoofinance",
-      "isNew": true
-    },
-    {
-      "title": "추수감소절 연휴 폭풍 예고로 항공편 차질 등 여행길 혼잡 예상",
-      "summary": "항공사 결함에 이어 추수감사절 연휴를 앞두고 예고된 폭풍으로 인해 여행길에 큰 혼잡이 우려된다.",
-      "url": "https://apnews.com/article/thanksgiving-travel-airlines-flight-delays-storms-c26a27fd648f766252b54724d8a897a3",
-      "source": "AP News",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-23T17:41:29Z",
-      "storyKey": "thanksgivingtravelcouldbemessywithstormscomingafteraweekfilledwithairlineglitches",
-      "isNew": true
-    },
-    {
-      "title": "11월 비버 문 슈퍼문 관측 시기와 방법 안내",
-      "summary": "올해 첫 슈퍼문이자 11월 보름달인 비버 문을 관측할 수 있는 시기와 방법이 안내되었다.",
+      "title": "How and when to watch November’s beaver moon",
+      "summary": "",
       "url": "https://www.cnn.com/2026/11/23/science/november-beaver-supermoon-2026",
       "source": "CNN",
       "country": "미국",
       "category": "과학",
       "publishedAt": "2026-11-23T17:41:19Z",
       "storyKey": "howandwhentowatchnovembersbeavermoon",
-      "isNew": true
-    },
-    {
-      "title": "'GTA 6', 매력적인 캐릭터와 액션으로 흥행 기록 경신",
-      "summary": "'GTA 6'가 매력적인 캐릭터와 화려한 액션을 선보이며 압도적인 흥행 기록을 세웠다.",
-      "url": "https://apnews.com/article/grand-theft-auto-vi-6-video-game-82404adf585e7242e61fb42e8aa05481",
-      "source": "AP News",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-11-23T16:03:00Z",
-      "storyKey": "grandtheftautovilivesuptoitshypewithcompellingcharactersandspectacularaction",
-      "isNew": true
-    },
-    {
-      "title": "수정헌법 제1장은 인공지능을 보호해야 하는가에 대한 토론",
-      "summary": "인공지능에 대해 수정헌법 제1장이 보호를 제공해야 하는지를 두고 관련 토론이 진행되었다.",
-      "url": "https://law.vanderbilt.edu/silicon-speech-should-the-first-amendment-protect-artificial-intelligence-a-respectfully-dissent-series-debate/",
-      "source": "Vanderbilt Law School",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-23T15:30:20Z",
-      "storyKey": "siliconspeechshouldthefirstamendmentprotectartificialintelligencearespectfullydissentseriesdebate",
-      "isNew": true
-    },
-    {
-      "title": "동맹파 위성락 남고 외교안보라인 물갈이…한미 갈등 돌파구 모색",
-      "summary": "한미 난기류 속에서 동맹파 위성락을 제외한 외교안보라인이 개편되어 갈등 돌파구를 마련하고자 한다.",
-      "url": "https://www.hani.co.kr/arti/politics/bluehouse/1288745.html",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-23T13:27:00Z",
-      "storyKey": "동맹파위성락만남고외교안보라인물갈이한미갈등돌파구포석",
-      "isNew": true
-    },
-    {
-      "title": "수은 탐사선 베피콜롬보, 불확실한 상태로 수성 도착",
-      "summary": "소프트웨어 문제 등 장비 결함을 겪은 수성 탐사선 베피콜롬보가 불안정한 상태로 수성 궤도에 진입했다.",
-      "url": "https://www.theregister.com/science/2026/11/23/software-issues-have-even-reached-mercury-as-bepicolombo-probe-arrives-in-uncertain-state/5311554",
-      "source": "The Register",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-11-23T07:24:00Z",
-      "storyKey": "softwareissueshaveevenreachedmercuryasbepicolomboprobearrivesinuncertainstate",
-      "isNew": true
-    },
-    {
-      "title": "격투기 인생 마친 추성훈, 아내 야노 시호와 가족들의 감동 소감",
-      "summary": "격투기 선수 생활을 마무리한 추성훈에 대해 아내 야노 시호와 가족들이 감동과 배움의 소감을 전했다.",
-      "url": "https://www.news1.kr/sports/general-sport/6363162",
-      "source": "뉴스1",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-23T07:13:09Z",
-      "storyKey": "격투기인생마친추성훈아내야노시호감동과배움끊이지않아종합",
-      "isNew": true
-    },
-    {
-      "title": "AI가 167년 난제 리만 가설 풀이 제시했으나 사람은 아직 이해 못 해",
-      "summary": "오픈AI의 AI가 167년 동안 풀리지 않던 리만 가설의 해법을 내놓았으나 설명이 너무 방대해 인간은 아직 이해하지 못하고 있다.",
-      "url": "https://www.khan.co.kr/article/202611231608001",
-      "source": "경향신문",
-      "country": "한국",
-      "category": "과학",
-      "publishedAt": "2026-11-23T07:08:00Z",
-      "storyKey": "167년난제리만가설풀이내놓은ai설명만25만쪽에사람은아직이해못했다오픈ai개발상한둬야",
       "isNew": false
     },
     {
-      "title": "통신3사·네이버, AI 에이전트 전화 응대 거부하기로 결정",
-      "summary": "국내 통신 3사와 네이버가 AI 에이전트의 전화 응대를 거부하기로 뜻을 모았다.",
-      "url": "https://www.chosun.com/economy/tech_it/2026/11/23/56I3GEDHFVA5FACSFRL62BZIUQ/",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-11-23T05:35:01Z",
-      "storyKey": "단독통신3사네이버ai에이전트전화응대거부키로",
-      "isNew": false
-    },
-    {
-      "title": "가격 550만 원에 달하는 추억의 워크맨 등장",
-      "summary": "높은 가격표를 달고 출시된 고가의 워크맨 제품이 이목을 끌고 있다.",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01564566645648672&mediaCodeNo=257",
-      "source": "이데일리",
-      "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-11-23T00:08:57Z",
-      "storyKey": "아직도워크맨이나와가격보니550만원",
+      "title": "Thruster glitch clouds BepiColombo arrival at Mercury",
+      "summary": "",
+      "url": "https://spacenews.com/thruster-glitch-clouds-bepicolombo-arrival-at-mercury/",
+      "source": "SpaceNews",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-11-23T11:03:34Z",
+      "storyKey": "thrusterglitchcloudsbepicolomboarrivalatmercury",
       "isNew": true
     }
   ],
-  "briefing": [
-    "젠슨 황의 엔비디아 복귀와 트럼프의 개입이 미국 증시와 글로벌 IT·경제 시장에 강력한 호재로 작용했다.",
-    "AI 기술이 쇼핑, 보안, 수학 난제 풀이 등 다양한 산업 분야에 빠르게 도입되는 동시에 관련 규제와 인프라 정비가 화두로 떠올랐다.",
-    "러시아 군용기의 KADIZ 진입과 외교안보라인 개편, 국내외 치안·사건 사고 등 지정학적 및 사회적 이슈가 이어졌다."
-  ],
-  "trends": [
-    {
-      "category": "정치",
-      "summary": "러시아 군용기의 영공 인근 진입과 외교안보라인 개편 등 안보 및 외교 이슈가 주목받았다."
-    },
-    {
-      "category": "경제",
-      "summary": "젠슨 황의 복귀와 엔비디아의 급성장으로 글로벌 증시와 시장 경제에 큰 변동성이 나타났다."
-    },
-    {
-      "category": "기술",
-      "summary": "신작 게임의 대흥행과 통신·플랫폼 업계의 새로운 AI 에이전트 대응 정책이 발표되었다."
-    },
-    {
-      "category": "문화",
-      "summary": "방송가를 중심으로 유명 연예인의 사생활 논란과 대작 콘텐츠들의 시즌 갱신 및 평가가 이어졌다."
-    },
-    {
-      "category": "스포츠",
-      "summary": "골프 최종전 우승과 미식축구 감독 선임, 격투기 선수의 은퇴 소식이 전해졌다."
-    },
-    {
-      "category": "과학",
-      "summary": "수성 탐사선 도달과 슈퍼문 천문 현상 등 우주 과학계의 소식이 전파를 탔다."
-    },
-    {
-      "category": "IT",
-      "summary": "AI 해킹 우려에 따른 보안 업계의 M&A와 기업들의 클라우드·AI 중심 조직 개편이 활발하다."
-    },
-    {
-      "category": "주식",
-      "summary": "엔비디아 훈풍과 젠슨 황의 복귀 호재로 코스피와 미 증시가 동반 급등했다."
-    },
-    {
-      "category": "사회",
-      "summary": "취약계층 지원 확대와 인종 간 사망률 격차 감소 등 복지 및 보건 관련 소식이 전해졌다."
-    },
-    {
-      "category": "AI",
-      "summary": "신세계의 쇼핑 AI 도입과 수학 난제 해결 등 AI 기술의 적용 범위가 급격히 확대되고 있다."
-    }
-  ]
+  "briefing": [],
+  "trends": []
 }
