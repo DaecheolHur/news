@@ -1,382 +1,337 @@
 {
-  "generatedAt": "2026-11-26T01:48:53.924198Z",
+  "generatedAt": "2026-11-26T11:00:07.684042Z",
   "items": [
     {
-      "title": "미 백악관의 젠슨 황 재임명 압박과 엔비디아 관련 논란",
-      "summary": "미 백악관과 펜타곤 관계자들이 전시 법률을 활용해 엔비디아 CEO 젠슨 황을 재임명하는 방안을 검토했다.",
+      "title": "KPMG taps Anthropic’s Claude Mythos to power cybersecurity services",
+      "summary": "",
+      "url": "https://www.internationalaccountingbulletin.com/news/kpmg-taps-anthropics-claude-mythos-to-power-cybersecurity-services/",
+      "source": "International Accounting Bulletin",
+      "country": "미국",
+      "category": "IT",
+      "publishedAt": "2026-11-26T10:25:33Z",
+      "storyKey": "kpmgtapsanthropicsclaudemythostopowercybersecurityservices",
+      "isNew": true
+    },
+    {
+      "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+      "summary": "",
+      "url": "https://apnews.com/article/andy-taylor-dies-duran-duran-2334d13b2b0b0196488721611036d977",
+      "source": "AP News",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-11-26T09:47:00Z",
+      "storyKey": "andytaylorguitaristofnewwaveiconsdurandurandiesat65",
+      "isNew": true
+    },
+    {
+      "title": "미국, 사이버보안 컨트롤타워 재편…한국도 ‘사이버보안 차르’ 논의",
+      "summary": "",
+      "url": "https://byline.network/2026/11/26-668/",
+      "source": "바이라인네트워크",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-26T09:41:37Z",
+      "storyKey": "미국사이버보안컨트롤타워재편한국도사이버보안차르논의",
+      "isNew": true
+    },
+    {
+      "title": "코스피, 하루 만에 겨우 반등...상승폭 대부분 반납",
+      "summary": "",
+      "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611261840360059_005.html",
+      "source": "YTN",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-11-26T09:40:00Z",
+      "storyKey": "코스피하루만에겨우반등상승폭대부분반납",
+      "isNew": true
+    },
+    {
+      "title": "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline",
+      "summary": "",
+      "url": "https://www.britannica.com/topic/Major-Events-of-2026",
+      "source": "Britannica",
+      "country": "미국",
+      "category": "사회",
+      "publishedAt": "2026-11-26T09:18:49Z",
+      "storyKey": "majoreventsof2026popculturecurrenteventsnewstimeline",
+      "isNew": true
+    },
+    {
+      "title": "북한 AI 전문가 “AI 챗봇, 정치적 질문인지 먼저 판단 뒤 답변 생성” – RFA 자유아시아방송",
+      "summary": "",
+      "url": "https://www.rfa.org/korean/in-focus/2026/11/26/north-korea-ai-chatbot-wisdom-spring-emerges/",
+      "source": "Radio Free Asia",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-11-26T09:01:29Z",
+      "storyKey": "북한ai전문가ai챗봇정치적질문인지먼저판단뒤답변생성rfa자유아시아방송",
+      "isNew": true
+    },
+    {
+      "title": "인천 남동산단 PVC 공장화재 4시간만에 진화…시신 1구 발견(종합2보)",
+      "summary": "",
+      "url": "https://www.yna.co.kr/view/AKR20261126104652065",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-26T07:56:58Z",
+      "storyKey": "인천남동산단pvc공장화재4시간만에진화시신1구발견종합2보",
+      "isNew": true
+    },
+    {
+      "title": "코그니션, 코딩 모델 'SWE-2.1' 출시…장기 작업·사이버 보안 성능 강화",
+      "summary": "",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217826",
+      "source": "AI타임스",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-26T07:39:42Z",
+      "storyKey": "코그니션코딩모델swe21출시장기작업사이버보안성능강화",
+      "isNew": true
+    },
+    {
+      "title": "Widespread Use, Minimal Training: Generative Artificial Intelligence Among Undergraduate and Postgraduate Medical Students",
+      "summary": "",
+      "url": "https://www.cureus.com/articles/537500-widespread-use-minimal-training-generative-artificial-intelligence-among-undergraduate-and-postgraduate-medical-students",
+      "source": "Cureus",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-26T07:17:08Z",
+      "storyKey": "widespreaduseminimaltraininggenerativeartificialintelligenceamongundergraduateandpostgraduatemedicalstudents",
+      "isNew": true
+    },
+    {
+      "title": "홈런 20개 친 포수 허인서, KBO 신인상·수비상 동시 수상",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSVEY5djNGdzdpQkJoN1JaaVM1aW01cmJlZVQwT082S3FESlZkeHYxSndCcXNSNl90eDBudWFTcWxYcVpFem53VmVFZUsxSHpOaFlnUjNkYVpTUzdQeFFJd2FLSUxGVWc?oc=5",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-26T06:40:00Z",
+      "storyKey": "홈런20개친포수허인서kbo신인상수비상동시수상",
+      "isNew": true
+    },
+    {
+      "title": "KIA 김도영, 최고의 별 '우뚝'…2년 만에 KBO MVP 다시 수상(종합)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MX0JJTFRvR2tqVHFIMEZrRnpOYzZ3SndsZXBXd2ptczhvaThsd1FHUmpobEJSSDYzWVJjNU5tandqbTZfT25kUmVFRkxNMGdtVXB2Yi1mSWdkOFE?oc=5",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-26T06:35:31Z",
+      "storyKey": "kia김도영최고의별우뚝2년만에kbomvp다시수상종합",
+      "isNew": true
+    },
+    {
+      "title": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO",
+      "summary": "",
       "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/",
       "source": "The Washington Post",
       "country": "미국",
       "category": "경제",
-      "publishedAt": "2026-11-26T01:35:57Z",
+      "publishedAt": "2026-11-26T06:32:48Z",
       "storyKey": "hegsethpentagonofficialsfloatedusingwartimelawtoreappointnvidiaceo",
-      "isNew": true
-    },
-    {
-      "title": "사상 처음으로 기상 악화로 연기된 메이시스 추수감사절 퍼레이드",
-      "summary": "뉴욕에 다가오는 심각한 폭풍으로 인해 100년 역사상 처음으로 메이시스 추수감사절 퍼레이드가 토요일로 연기됐다.",
-      "url": "https://www.cbsnews.com/newyork/news/macys-thanksgiving-day-parade-postponed/",
-      "source": "CBS News",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-11-26T01:16:06Z",
-      "storyKey": "macysthanksgivingdayparadepostponeduntilsaturdayduetoweatherforfirsttimeinits100yearhistory",
-      "isNew": true
-    },
-    {
-      "title": "디트로이트, 김하성 영입에 이어 올스타 출신 선발 가우스먼과 계약",
-      "summary": "김하성을 영입한 메이저리그 디트로이트가 올스타 출신 베테랑 선발투수 가우스먼과 1년 계약에 합의했다.",
-      "url": "https://www.mt.co.kr/sports/2026/11/26/202611261003779106O",
-      "source": "머니투데이",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-26T01:07:00Z",
-      "storyKey": "김하성영입한디트로이트이번엔355억쏜다올스타2회베테랑선발가우스먼과1년계약합의머니투데이",
-      "isNew": true
-    },
-    {
-      "title": "영국 밴드 듀란듀란의 기타리스트 앤디 테일러 암 투병 끝에 별세",
-      "summary": "80년대 인기 그룹 듀란듀란의 전 기타리스트 앤디 테일러가 암 투병 끝에 향년 65세로 사망했다.",
-      "url": "https://www.hani.co.kr/arti/culture/music/1289173.html",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-11-26T00:57:00Z",
-      "storyKey": "뉴웨이브전설듀란듀란기타리스트앤디테일러별세",
-      "isNew": true
-    },
-    {
-      "title": "국립암센터, 사회연대경제 기반 암환자 사회복귀 지원 모델 선보인다",
-      "summary": "국립암센터가 사회연대경제 기반의 암환자 사회복귀 지원 모델을 선보인다.",
-      "url": "http://www.yakup.com/news/?mode=view&cat=13&cat2=&cat3=0&nid=335772",
-      "source": "약업신문",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-11-26T00:54:00Z",
-      "storyKey": "국립암센터사회연대경제기반암환자사회복귀지원모델선보인다",
-      "isNew": true
-    },
-    {
-      "title": "한국은행, 기준금리 3.25%로 0.25%p 인상",
-      "summary": "한국은행 금융통화위원회가 기준금리를 연 3%에서 3.25%로 0.25%포인트 인상했다.",
-      "url": "https://imnews.imbc.com/news/2026/econo/article/6868715_36932.html",
-      "source": "MBC 뉴스",
-      "country": "한국",
-      "category": "경제",
-      "publishedAt": "2026-11-26T00:51:09Z",
-      "storyKey": "속보한은기준금리325로025p인상",
-      "isNew": true
-    },
-    {
-      "title": "별이 다른 별을 삼키는 전 과정이 사상 처음 포착됐다",
-      "summary": "별이 다른 별을 집어삼키는 모든 과정이 사상 처음으로 포착됐다.",
-      "url": "https://www.hani.co.kr/arti/science/science_general/1288968.html",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "과학",
-      "publishedAt": "2026-11-26T00:30:47Z",
-      "storyKey": "별이별을꿀꺽하는모든과정사상처음포착했다",
       "isNew": false
     },
     {
-      "title": "웰컴저축은행, 3년 연속 지역사회공헌 인정기업 선정",
-      "summary": "웰컴저축은행이 3년 연속으로 지역사회공헌 인정기업에 선정됐다.",
-      "url": "https://www.etnews.com/20261126000082",
+      "title": "Algorithmic Constitutionalism: Reimagining Constitutional Authority in the Age of Artificial Intelligence",
+      "summary": "",
+      "url": "https://www.iconnectblog.com/algorithmic-constitutionalism-reimagining-constitutional-authority-in-the-age-of-artificial-intelligence/",
+      "source": "www.iconnectblog.com",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-26T06:06:15Z",
+      "storyKey": "algorithmicconstitutionalismreimaginingconstitutionalauthorityintheageofartificialintelligence",
+      "isNew": true
+    },
+    {
+      "title": "Horoscope for Thursday, November 26, 2026",
+      "summary": "",
+      "url": "https://chicago.suntimes.com/horoscopes/2026/11/26/horoscopes-today-thursday-november-26-2026",
+      "source": "Chicago Sun-Times",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-11-26T06:01:00Z",
+      "storyKey": "horoscopeforthursdaynovember262026",
+      "isNew": true
+    },
+    {
+      "title": "‘100일의 거짓말’ 작가, 친일 미화 논란 정면 돌파 “출발은 흔들려도 끝내 도달한 독립의 숭고함”",
+      "summary": "",
+      "url": "https://sports.khan.co.kr/article/202611261347003",
+      "source": "스포츠경향",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-11-26T04:47:00Z",
+      "storyKey": "100일의거짓말작가친일미화논란정면돌파출발은흔들려도끝내도달한독립의숭고함",
+      "isNew": true
+    },
+    {
+      "title": "한국경영기술지도사회, 2026 희망리턴패키지 재기사업화 '목표 초과 달성'",
+      "summary": "",
+      "url": "https://www.etnews.com/20261126000290",
       "source": "전자신문",
       "country": "한국",
       "category": "사회",
-      "publishedAt": "2026-11-26T00:23:37Z",
-      "storyKey": "웰컴저축은행3년연속지역사회공헌인정기업선정",
+      "publishedAt": "2026-11-26T04:34:04Z",
+      "storyKey": "한국경영기술지도사회2026희망리턴패키지재기사업화목표초과달성",
       "isNew": true
     },
     {
-      "title": "코스피, 폭락 딛고 반등하며 1% 오른 4745로 출발",
-      "summary": "코스피가 6% 폭락을 딛고 반등하며 1% 상승한 4745로 장을 시작했다.",
-      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=425328",
-      "source": "시사저널e",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-11-26T00:23:02Z",
-      "storyKey": "e마켓오프닝6폭락딛고반등코스피1오른4745출발",
-      "isNew": true
-    },
-    {
-      "title": "더존비즈온, 사이버보안·정보보호 특별자문위원회 출범",
-      "summary": "더존비즈온이 사이버보안과 정보보호를 위한 특별자문위원회를 출범했다.",
-      "url": "https://www.newspim.com/news/view/20261126000102",
-      "source": "뉴스핌",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-11-26T00:01:00Z",
-      "storyKey": "더존비즈온사이버보안정보보호특별자문위원회출범",
-      "isNew": true
-    },
-    {
-      "title": "이노그리드, 공공 클라우드 경쟁력 제고",
-      "summary": "이노그리드가 NHN클라우드 기반의 DaaS 디지털서비스 등을 통해 공공 클라우드 경쟁력을 높인다.",
-      "url": "https://www.etnews.com/20261126000066",
-      "source": "전자신문",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-11-26T00:00:44Z",
-      "storyKey": "이노그리드nhn클라우드기반daas디지털서비스등공공클라우드경쟁력제고",
-      "isNew": true
-    },
-    {
-      "title": "듀란듀란의 기타리스트 앤디 테일러, 65세로 별세",
-      "summary": "뉴웨이브 아이콘인 영국의 전설적인 밴드 듀란듀란의 기타리스트 앤디 테일러가 65세를 일기로 사망했다.",
-      "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
-      "source": "The Guardian",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-25T23:41:00Z",
-      "storyKey": "andytaylorguitaristindurandurandiesaged65",
-      "isNew": true
-    },
-    {
-      "title": "상무부 클라우드 BPA, AI 및 양자 이후 대비 구매의 지침 제시",
-      "summary": "상무부의 클라우드 BPA가 인공지능 및 양자 암호화 이후 시대의 구매를 위한 지침을 신호하고 있다.",
-      "url": "https://federalnewsnetwork.com/technology-main/2026/11/commerces-cloud-bpa-signals-template-for-ai-post-quantum-buys/",
-      "source": "Federal News Network",
-      "country": "미국",
-      "category": "IT",
-      "publishedAt": "2026-11-25T22:39:28Z",
-      "storyKey": "commercescloudbpasignalstemplateforaipostquantumbuys",
-      "isNew": true
-    },
-    {
-      "title": "경기연구원, AI의 가치관에 주목하다",
-      "summary": "경기연구원이 인공지능의 가치관에 주목하는 연구를 진행한다.",
-      "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=72062",
-      "source": "경기도뉴스포털",
-      "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-11-25T22:00:00Z",
-      "storyKey": "경기연구원ai의가치관에주목하다",
-      "isNew": true
-    },
-    {
-      "title": "미국 주식시장, AI 열풍이 거품으로 돌변하며 하락세 지속",
-      "summary": "인공지능 붐이 거품으로 돌변하면서 미국 주식시장의 하락세가 연장됐다.",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7",
-      "source": "WSJ",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-25T21:43:33Z",
-      "storyKey": "usstocksextendplungeasaiboomturnstobust",
-      "isNew": true
-    },
-    {
-      "title": "피츠버그 스틸러스, 마이크 매카시 감독 관련 발언 한 애런 로저스 방출",
-      "summary": "애런 로저스가 스틸러스 마이크 매카시 감독을 비판하는 인터뷰를 한 뒤 팀에서 방출됐다.",
-      "url": "https://www.espn.com/nfl/story/_/id/50597187/sources-confirm-aaron-rodgers-allegations-mike-mccarthy",
+      "title": "Rams vs. Packers: Week 12 NFL game highlights",
+      "summary": "",
+      "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
       "source": "ESPN",
       "country": "미국",
       "category": "스포츠",
-      "publishedAt": "2026-11-25T21:30:00Z",
-      "storyKey": "sourcescorroborateaaronrodgersallegationsaboutsteelershcmikemccarthy",
+      "publishedAt": "2026-11-26T04:26:00Z",
+      "storyKey": "ramsvspackersweek12nflgamehighlights",
       "isNew": true
     },
     {
-      "title": "나스닥과 S&P 500 하락 마감, AI 투자 압박과 엔비디아 하락",
-      "summary": "인공지능 투자 열풍에 대한 압박이 지속되면서 나스닥과 S&P 500 지수가 하락 마감하고 엔비디아도 4퍼센트 하락했다.",
-      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355",
-      "source": "Investopedia",
+      "title": "Macy's postpones Thanksgiving parade due to severe weather",
+      "summary": "",
+      "url": "https://www.bbc.com/news/articles/cwkgr38l2g9yo",
+      "source": "BBC",
       "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-25T21:21:33Z",
-      "storyKey": "marketsnewsnov252026nasdaqsp500closelowerasaitraderemainsunderpressurenvidiafalls4",
+      "category": "정치",
+      "publishedAt": "2026-11-26T04:04:14Z",
+      "storyKey": "macyspostponesthanksgivingparadeduetosevereweather",
       "isNew": true
     },
     {
-      "title": "인공지능 분야의 새로운 돌파구에 다가가고 있는가?",
-      "summary": "인공지능 분야에서 새로운 돌파구에 접근하고 있는지에 대한 논의가 이뤄지고 있다.",
-      "url": "https://acquirersmultiple.com/2026/11/are-we-approaching-a-breakthrough-in-artificial-intelligence/",
-      "source": "The Acquirer's Multiple",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-25T20:44:51Z",
-      "storyKey": "areweapproachingabreakthroughinartificialintelligence",
-      "isNew": true
-    },
-    {
-      "title": "충분한 폰, 가격 인상 없이 소형 안드로이드 폰에 대용량 배터리와 RAM 탑재",
-      "summary": "충분한 폰이 가격 인상 없이 소형 안드로이드 스마트폰에 더 큰 배터리와 더 많은 램, 저장 용량을 추가했다.",
-      "url": "https://9to5google.com/2026/11/25/enough-phone-ram-storage-battery-upgrades/",
-      "source": "9to5Google",
-      "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-11-25T19:10:00Z",
-      "storyKey": "enoughphoneisstuffingabiggerbatterymoreramstorageintoitssmallandroidphoneatnoextracost",
-      "isNew": true
-    },
-    {
-      "title": "헤라 우주선, 나사 DART 임무로 소행성에 생긴 경기장 크기의 구멍 포착",
-      "summary": "유럽우주국의 헤라 우주선이 나사의 다트 임무로 소행성에 패인 경기장 크기의 충돌구를 근접 촬영한 이미지를 공개했다.",
-      "url": "https://www.space.com/astronomy/asteroids/hera-spacecraft-gets-1st-up-close-look-at-stadium-sized-hole-punched-in-asteroid-by-nasa-dart-mission",
-      "source": "Space",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-11-25T17:30:00Z",
-      "storyKey": "heraspacecraftgets1stupcloselookatstadiumsizedholepunchedinasteroidbynasadartmission",
-      "isNew": true
-    },
-    {
-      "title": "인공지능과 인권: AI 시대의 인간 존엄성 보호",
-      "summary": "인공지능 시대에 인간의 존엄성을 보호하고 인권을 지키기 위한 논의가 다뤄진다.",
-      "url": "https://www.unesco.org/en/articles/artificial-intelligence-and-human-rights-protecting-human-dignity-age-ai",
-      "source": "UNESCO",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-25T16:11:30Z",
-      "storyKey": "artificialintelligenceandhumanrightsprotectinghumandignityintheageofai",
-      "isNew": false
-    },
-    {
-      "title": "댄싱 위드 더 스타 결승에서 의수 빠지는 사고 겪은 에즈라 프레치",
-      "summary": "패럴림픽 선수 에즈라 프레치가 댄싱 위드 더 스타 결승전 프리스타일 경연 중 의수가 빠지는 사고를 겪었으나 최종 우승을 차지했다.",
-      "url": "https://www.goodmorningamerica.com/culture/story/dancing-with-the-stars-season-35-champion-138388712",
-      "source": "Good Morning America",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-25T14:17:14Z",
-      "storyKey": "ezrafrechonhisdancingwiththestarsfinalemishapikindofblackedout",
-      "isNew": true
-    },
-    {
-      "title": "한국도로공사, IBK기업은행전 승리하며 6연승으로 선두 도약",
-      "summary": "한국도로공사가 IBK기업은행을 꺾고 파죽의 6연승을 달리며 여자배구 단독 1위로 도약했다.",
-      "url": "https://m.newspim.com/news/view/20261125001320",
-      "source": "뉴스핌",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-25T13:05:00Z",
-      "storyKey": "ai그래픽25일kovo한국도로공사ibk기업은행전도로공사6연승선두올라",
-      "isNew": false
-    },
-    {
-      "title": "창원지법 판사회의 \"법관 탄핵 추진은 사법권 독립과 헌법가치 훼손\"",
-      "summary": "창원지방법원 전체판사회의에서 정치권의 법관 탄핵 추진이 사법권 독립과 헌법 가치를 훼손한다고 밝혔다.",
-      "url": "https://www.hani.co.kr/arti/society/society_general/1289078.html",
+      "title": "“조희대 탄핵 찬성” 34%, “반대” 44% [NBS]",
+      "summary": "",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1289192.html",
       "source": "한겨레",
       "country": "한국",
       "category": "정치",
-      "publishedAt": "2026-11-25T11:27:00Z",
-      "storyKey": "창원지법판사회의법관탄핵추진은헌법가치훼손",
+      "publishedAt": "2026-11-26T02:33:00Z",
+      "storyKey": "조희대탄핵찬성34반대44nbs",
       "isNew": true
     },
     {
-      "title": "나스닥과 S&P 500 저점에서 반등하며 하락 폭 축소",
-      "summary": "투자자들이 저가 매수에 나서면서 나스닥과 S&P 500 지수가 장중 최저점에서 벗어나 하락 폭을 줄이며 마감했다.",
-      "url": "https://www.reuters.com/business/nasdaq-futures-slide-over-2-fresh-us-tariff-concerns-inflation-data-focus-2026-11-25/",
-      "source": "Reuters",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-25T10:08:00Z",
-      "storyKey": "nasdaqsp500enddownbutwellofflowsasinvestorsbuybargains",
+      "title": "[속보] 한은 총재 \"주식시장 침체가 민간 소비에 영향 미쳐\"",
+      "summary": "",
+      "url": "https://www.yna.co.kr/view/AKR20261126089900002",
+      "source": "연합뉴스",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-11-26T02:27:13Z",
+      "storyKey": "속보한은총재주식시장침체가민간소비에영향미쳐",
       "isNew": true
     },
     {
-      "title": "인디스타의 지역사회 포럼 재발명 논평",
-      "summary": "인디스타가 지역사회 포럼을 새롭게 재발명하는 방식에 대한 논평이 제기됐다.",
-      "url": "https://indianacapitalchronicle.com/2026/11/25/indystar-reinvents-the-community-forum/",
-      "source": "Indiana Capital Chronicle",
-      "country": "미국",
+      "title": "율사이트, 한국사회공헌협회 ‘임팩트온 2026’ 기업 사회공헌 실천사례 선정",
+      "summary": "",
+      "url": "https://www.socialimpactnews.net/news/articleView.html?idxno=8111",
+      "source": "소셜임팩트뉴스",
+      "country": "한국",
       "category": "사회",
-      "publishedAt": "2026-11-25T10:03:35Z",
-      "storyKey": "commentaryindystarreinventsthecommunityforum",
-      "isNew": false
+      "publishedAt": "2026-11-26T02:12:55Z",
+      "storyKey": "율사이트한국사회공헌협회임팩트온2026기업사회공헌실천사례선정",
+      "isNew": true
     },
     {
-      "title": "밤하늘을 밝게 비춘 비버 슈퍼문 사진 공개",
-      "summary": "밤하늘을 환하게 밝힌 11월의 비버 슈퍼문 모습이 포착됐다.",
-      "url": "https://www.bostonglobe.com/2026/11/25/metro/beaver-supermoon-photos-peak/",
-      "source": "The Boston Globe",
-      "country": "미국",
+      "title": "‘딥임팩트’처럼...NASA가 4년전 지구 방어 위해 우주선으로 들이받은 소행성 모습은?",
+      "summary": "",
+      "url": "https://www.chosun.com/economy/science/2026/11/26/ENDVFHSKFZHAROJJ6BUSZ7UTHE/",
+      "source": "조선일보",
+      "country": "한국",
       "category": "과학",
-      "publishedAt": "2026-11-25T07:24:00Z",
-      "storyKey": "seephotosofthebeaversupermoonshiningbrightinthenightsky",
+      "publishedAt": "2026-11-26T01:57:17Z",
+      "storyKey": "딥임팩트처럼nasa가4년전지구방어위해우주선으로들이받은소행성모습은",
       "isNew": true
     },
     {
-      "title": "FBI에 이어 CIA와 국가정보국 등 미국 정보기관들 보안 뚫려",
-      "summary": "FBI에 이어 CIA와 국가정보국 등 미국의 주요 정보기관들이 연달아 보안에 취점을 드러냈다.",
-      "url": "https://www.donga.com/news/Inter/article/all/20261125/135086566/1",
-      "source": "동아일보",
-      "country": "한국",
-      "category": "기술",
-      "publishedAt": "2026-11-25T01:51:00Z",
-      "storyKey": "fbi이어cia국가정보국정보기관줄줄이뚫렸다",
-      "isNew": true
-    },
-    {
-      "title": "한국은행 금통위 금리 결정을 앞둔 채권시장 시나리오",
-      "summary": "한국은행 금융통화위원회의 기준금리 결정을 하루 앞두고 채권시장의 다양한 시나리오가 주목받았다.",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446402",
-      "source": "연합인포맥스",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-25T00:55:00Z",
-      "storyKey": "11월금통위d1채권시장시나리오는",
-      "isNew": true
-    },
-    {
-      "title": "29% 상승에 버텨낸 투자자들로 종토방 들썩",
-      "summary": "주가가 29% 급등하며 오랜 기간 버텨온 투자자들의 종합토론방이 환호로 가득 찼다.",
-      "url": "https://www.hankyung.com/article/2026112474316",
+      "title": "\"삼성·애플도 못 피한다\"…20만원 들고 폰 사러 갔다가 '날벼락'",
+      "summary": "",
+      "url": "https://www.hankyung.com/article/202611261642g",
       "source": "한국경제",
       "country": "한국",
       "category": "기술",
-      "publishedAt": "2026-11-24T21:30:11Z",
-      "storyKey": "이악물고버티길잘했다29축포에종토방들썩분석",
+      "publishedAt": "2026-11-26T01:37:56Z",
+      "storyKey": "삼성애플도못피한다20만원들고폰사러갔다가날벼락",
+      "isNew": true
+    },
+    {
+      "title": "Stock Market Today: Dow closes higher after big comeback; S&P 500, Nasdaq fall but end well off lows — live update",
+      "summary": "",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia",
+      "source": "MarketWatch",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-25T22:55:00Z",
+      "storyKey": "stockmarkettodaydowcloseshigherafterbigcomebacksp500nasdaqfallbutendwellofflowsliveupdate",
+      "isNew": true
+    },
+    {
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "summary": "",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "source": "Ars Technica",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-11-25T22:36:45Z",
+      "storyKey": "europeanspacecraftfindschaoticsceneafterasteroiddeflectionexperiment",
+      "isNew": true
+    },
+    {
+      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
+      "summary": "",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863",
+      "source": "WSJ",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-25T22:21:00Z",
+      "storyKey": "usstocksmixedasnvidiaairoutcontinues",
+      "isNew": true
+    },
+    {
+      "title": "Nasdaq 100 Enters Bear Market Territory as AI Angst Fuels Losses",
+      "summary": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+      "source": "Bloomberg.com",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-25T21:52:28Z",
+      "storyKey": "nasdaq100entersbearmarketterritoryasaiangstfuelslosses",
+      "isNew": true
+    },
+    {
+      "title": "WhatsApp now lets you schedule messages in group and individual chats",
+      "summary": "",
+      "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+      "source": "TechCrunch",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-11-25T16:57:51Z",
+      "storyKey": "whatsappnowletsyouschedulemessagesingroupandindividualchats",
+      "isNew": true
+    },
+    {
+      "title": "젠슨 황, 떠났던 직원도 돌아올까…복귀 하루 만에 전 직원 앞 사과",
+      "summary": "",
+      "url": "https://m.joseilbo.com/news/view.htm?newsid=580373",
+      "source": "조세일보",
+      "country": "한국",
+      "category": "기술",
+      "publishedAt": "2026-11-24T23:08:16Z",
+      "storyKey": "젠슨황떠났던직원도돌아올까복귀하루만에전직원앞사과",
+      "isNew": true
+    },
+    {
+      "title": "Spacecraft overcomes glitch to reach Mercury's orbit after 8-year journey",
+      "summary": "",
+      "url": "https://www.cbsnews.com/news/bepicolombo-enters-mercury-orbit-despite-glitch/",
+      "source": "CBS News",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-11-24T15:39:00Z",
+      "storyKey": "spacecraftovercomesglitchtoreachmercurysorbitafter8yearjourney",
       "isNew": true
     }
   ],
-  "briefing": [
-    "미국과 한국 금융 및 주식시장에서 AI 관련 주가의 변동성과 거품 우려가 증시 전반에 압박 요인으로 작용하고 있다.",
-    "한국은행의 기준금리 인상과 미국의 금리 및 경제 지표 발표가 맞물려 각국 경제 시장에 큰 변화를 주고 있다.",
-    "스포츠계에서는 대형 선수들의 이적과 팀 내 갈등, 연승 행진 등 다양한 이슈가 주목받고 있다."
-  ],
-  "trends": [
-    {
-      "category": "정치",
-      "summary": "법관 탄핵 추진을 둘러싼 사법부 내부의 반발과 정치권의 공방이 이어지고 있다."
-    },
-    {
-      "category": "경제",
-      "summary": "한국은행의 기준금리 인상과 백악관의 주요 기업 CEO 지원 검토 등 통화 및 경제 정책 변화가 주목받고 있다."
-    },
-    {
-      "category": "기술",
-      "summary": "미국 정보기관들의 보안 취약점 노출과 스마트폰 사양 업그레이드 등 기술 보안 및 하드웨어 관련 소식이 전해졌다."
-    },
-    {
-      "category": "문화",
-      "summary": "전설적인 팝 밴드 기타리스트의 별세 소식과 대중문화 예술인의 도전과 성취가 조명되었다."
-    },
-    {
-      "category": "스포츠",
-      "summary": "김하성의 디트로이트 이적과 V리그 여자배구의 연승 행진, NFL 팀 내 선수 방출 등 다채로운 소식이 있었다."
-    },
-    {
-      "category": "과학",
-      "summary": "우주에서 별이 포식하는 현상과 소행성 충돌구 촬영 등 천문학적 발견이 이어졌다."
-    },
-    {
-      "category": "IT",
-      "summary": "공공 클라우드 경쟁력 제고와 사이버보안 특별자문위원회 출범 등 IT 인프라 강화 움직임이 나타났다."
-    },
-    {
-      "category": "주식",
-      "summary": "AI 관련주의 급락과 반등이 교차하며 미국과 한국의 증시가 큰 변동성을 보였다."
-    },
-    {
-      "category": "사회",
-      "summary": "암환자의 사회복귀 지원 모델과 지역사회공헌 기업 선정 등 사회적 가치 실현 활동이 전해졌다."
-    },
-    {
-      "category": "AI",
-      "summary": "AI 기술의 발전과 함께 AI의 가치관 및 인권 보호에 대한 연구와 논의가 부각되고 있다."
-    }
-  ]
+  "briefing": [],
+  "trends": []
 }
