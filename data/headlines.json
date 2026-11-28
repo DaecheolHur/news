@@ -1,42 +1,196 @@
 {
-  "generatedAt": "2026-11-27T22:04:11.545686Z",
+  "generatedAt": "2026-11-28T03:58:29.032743Z",
   "items": [
     {
-      "title": "미 공군 핵심 클라우드 해킹으로 후방 시스템 이관과 보안 패치 중단",
-      "summary": "미 공군의 핵심 클라우드 시스템이 해킹을 당해 후방 시스템 이관 및 보안 패치 작업이 줄줄이 중단되었습니다.",
+      "title": "FIFA 실사단, 유승민 대한체육회장과 접견…축구협회장 선거 논의",
+      "summary": "유승민 대한체육회장이 방한하는 FIFA-AFC 공동 대표단과 만나 축구협회장 선거 등 갈등 요소들을 조율할 예정이다.",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611281245355O1",
+      "source": "연합뉴스TV",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-28T03:45:00Z",
+      "storyKey": "fifa실사단유승민대한체육회장과접견축구협회장선거등논의",
+      "isNew": true
+    },
+    {
+      "title": "피츠버그 스틸러스, 브론코스 상대로 대승 거두며 분위기 반전",
+      "summary": "피츠버그 스틸러스가 에런 로저스 관련 논란을 딛고 단합된 모습을 보이며 덴버 브론코스를 상대로 압승을 거뒀다.",
+      "url": "https://www.skysports.com/nfl/news/13617341/nfl-pittsburgh-steelers-shock-denver-broncos-27-5-after-aaron-rodgers-drama-dominates-build-up-following-mike-mccarthy-claims",
+      "source": "Sky Sports",
+      "country": "미국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-28T03:33:37Z",
+      "storyKey": "nflpittsburghsteelersshockdenverbroncos275afteraaronrodgersdramadominatesbuildupfollowingmikemccarthyclaims",
+      "isNew": true
+    },
+    {
+      "title": "\"아시아 최대 인공지능 핵심 인프라\" 동해 AI 데이터센터 착공",
+      "summary": "아시아 최대 규모의 인공지능 핵심 인프라인 동해 AI 데이터센터가 착공식을 개최했다.",
+      "url": "https://www.ytn.co.kr/_ln/0101_202611281153103693",
+      "source": "YTN",
+      "country": "한국",
+      "category": "AI",
+      "publishedAt": "2026-11-28T02:53:00Z",
+      "storyKey": "아시아최대인공지능핵심인프라동해ai데이터센터착공식현장영상",
+      "isNew": true
+    },
+    {
+      "title": "미국 추수감사절 폭풍 피해로 대규모 정전 및 시설 파손 발생",
+      "summary": "미국 동부 지역을 강타한 강력한 추수감사절 폭풍으로 인해 수십만 가구의 전기가 끊기고 건물들이 피해를 입었다.",
+      "url": "https://www.nbcnews.com/news/us-news/much-country-thanksgiving-featured-nasty-weather-rcna611521",
+      "source": "NBC News",
+      "country": "미국",
+      "category": "정치",
+      "publishedAt": "2026-11-28T02:38:00Z",
+      "storyKey": "hundredsofthousandsstillwithoutpowerafterseverethanksgivingweather",
+      "isNew": true
+    },
+    {
+      "title": "25년 경력 빅테크 AI 과학자 \"대다수에 공부의 종말 올 것\" 경고",
+      "summary": "오랫동안 빅테크에서 근무해 온 AI 과학자가 인공지능 발전으로 인한 사회적 변화를 경고하며 회사를 떠났다.",
+      "url": "https://www.hani.co.kr/arti/culture/book/1289514.html",
+      "source": "한겨레",
+      "country": "한국",
+      "category": "과학",
+      "publishedAt": "2026-11-28T02:21:00Z",
+      "storyKey": "대다수에공부의종말올겁니다25년일한빅테크떠난ai과학자",
+      "isNew": true
+    },
+    {
+      "title": "젠슨 황, 가죽 재킷 벗고 400만 원대 디올 면 재킷 착용해 화제",
+      "summary": "엔비디아의 CEO 젠슨 황이 트레이드마크인 가죽 재킷 대신 고가의 디올 면 재킷을 입고 등장해 패션계의 주목을 받았다.",
+      "url": "https://www.chosun.com/culture-life/fashion-beauty/2026/11/28/Y37ZEHYJOBCM3O4QGMSABEKG7Q/",
+      "source": "조선일보",
+      "country": "한국",
+      "category": "경제",
+      "publishedAt": "2026-11-28T02:16:00Z",
+      "storyKey": "가죽벗고디올재킷입은젠슨황패션계470만원짜리겸손연출",
+      "isNew": true
+    },
+    {
+      "title": "증안펀드 기대감 속 코스피·코스닥 상승세 및 외국인 투자자 유입",
+      "summary": "증권시장 안정펀드에 대한 기대감이 커지면서 외국인 투자자들이 유입되어 코스닥과 코스피 지수가 크게 상승했다.",
+      "url": "https://www.mt.co.kr/stock/2026/11/27/2026112715454286871",
+      "source": "머니투데이",
+      "country": "한국",
+      "category": "주식",
+      "publishedAt": "2026-11-28T02:07:38Z",
+      "storyKey": "코스닥8코스피4쭉쭉증안펀드기대외인도올라탔다머니투데이",
+      "isNew": true
+    },
+    {
+      "title": "블랙 프라이데이 맞아 50달러 이하 알뜰 쇼핑 아이템 주목",
+      "summary": "블랙 프라이데이를 맞아 소비자들이 저렴한 가격에 구매할 수 있는 다양한 의류 및 실속형 할인 상품들이 인기를 끌고 있다.",
+      "url": "https://www.nbcnews.com/select/shopping/black-friday-2026-deals-under-50-rcna611475",
+      "source": "NBC News",
+      "country": "미국",
+      "category": "경제",
+      "publishedAt": "2026-11-28T02:03:00Z",
+      "storyKey": "blackfridayshoppingonabudgetthese57dealsareallunder50",
+      "isNew": true
+    },
+    {
+      "title": "미 공군까지 해킹 피해… 연이은 사이버 안보 비상",
+      "summary": "연방 기관인 FBI와 CIA에 이어 미 공군까지 해킹을 당하면서 미국 전역의 사이버 보안 태세에 초비상이 걸렸다.",
+      "url": "https://www.ikbc.co.kr/article/view/kbc202611280011",
+      "source": "KBC광주방송",
+      "country": "한국",
+      "category": "IT",
+      "publishedAt": "2026-11-28T01:56:01Z",
+      "storyKey": "fbicia이어미공군까지해킹하루가멀다하고뚫리는미국초비상",
+      "isNew": true
+    },
+    {
+      "title": "오윤아, 4세 연하 재혼 남편 첫 공개 및 웨딩 촬영 현장 화제",
+      "summary": "배우 오윤아가 훤칠한 체격의 4세 연하 재혼 남편을 최초로 공개하며 발리에서 진행한 웨딩 촬영의 우아한 자태를 뽐냈다.",
+      "url": "https://www.mt.co.kr/entertainment/2026/11/28/2026112810260260680",
+      "source": "머니투데이",
+      "country": "한국",
+      "category": "문화",
+      "publishedAt": "2026-11-28T01:33:02Z",
+      "storyKey": "오윤아남편첫공개훤칠한키에넓은어깨눈길머니투데이",
+      "isNew": true
+    },
+    {
+      "title": "김보라 안성시장, 사회연대경제 박람회 및 국제컨퍼런스 참석",
+      "summary": "김보라 안성시장이 대한민국 사회연대경제 박람회에 참석해 관련 정책을 논의했다.",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2024543",
+      "source": "매일일보",
+      "country": "한국",
+      "category": "사회",
+      "publishedAt": "2026-11-28T01:02:40Z",
+      "storyKey": "김보라안성시장대한민국사회연대경제박람회및국제컨퍼런스서정책논의",
+      "isNew": true
+    },
+    {
+      "title": "WWE 스타 브론슨 리드, 의료 합병증으로 38세 일기로 사망",
+      "summary": "프로레슬링 선수 브론슨 리드가 크라운 주얼 행사 이후 의료 합병증으로 세상을 떠나 동료 선수들의 추모가 이어졌다.",
+      "url": "https://bleacherreport.com/articles/25538198-wwes-bronson-reed-dies-age-38-due-medical-complications-following-crown-jewel",
+      "source": "Bleacher Report",
+      "country": "미국",
+      "category": "문화",
+      "publishedAt": "2026-11-28T01:00:41Z",
+      "storyKey": "wwesbronsonreeddiesatage38duetomedicalcomplicationsfollowingcrownjewel",
+      "isNew": true
+    },
+    {
+      "title": "블랙 프라이데이 맞아 애플 에어팟·아이패드 등 대규모 할인",
+      "summary": "블랙 프라이데이를 맞아 에어팟 프로와 맥북 등 애플의 주요 제품들이 역대급 할인가로 판매되고 있다.",
+      "url": "https://www.macrumors.com/2026/11/26/50-best-apple-black-friday-deals/",
+      "source": "MacRumors",
+      "country": "미국",
+      "category": "기술",
+      "publishedAt": "2026-11-28T00:55:00Z",
+      "storyKey": "the50bestappleblackfridaydealsstillavailableonairpodsipadsandmore",
+      "isNew": true
+    },
+    {
+      "title": "조작기소 특검 후보 이임성, 과거 경기도 고문변호사 이력 조명",
+      "summary": "조작기소 특검 후보로 지명된 이임성이 과거 이재명 대통령의 경기지사 시절 도청 고문변호사를 지냈다는 사실이 알려져 정치권 공방이 이어지고 있다.",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6869254_36918.html",
+      "source": "MBC 뉴스",
+      "country": "한국",
+      "category": "정치",
+      "publishedAt": "2026-11-27T23:58:30Z",
+      "storyKey": "조작기소특검후보이임성대통령경기지사시절도청고문변호사",
+      "isNew": true
+    },
+    {
+      "title": "AI 리부트와 관련 윤리적 쟁점을 탐색하는 움직임",
+      "summary": "인공지능의 재부팅 과정과 그를 둘러싼 다양한 윤리적 문제들에 대한 논의가 이루어지고 있다.",
+      "url": "https://www.pbs.org/newshour/show/exploring-an-ai-reboot-and-the-ethics-that-surround-it",
+      "source": "PBS",
+      "country": "미국",
+      "category": "AI",
+      "publishedAt": "2026-11-27T23:35:30Z",
+      "storyKey": "exploringanairebootandtheethicsthatsurroundit",
+      "isNew": true
+    },
+    {
+      "title": "미 공군 클라우드 해킹 여파로 보안 패치 및 시스템 이관 중단",
+      "summary": "미 공군의 핵심 클라우드 플랫폼이 해킹당하면서 후방 시스템 이관과 보안 패치 작업이 줄줄이 중단됐다.",
       "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611280529461591fda4f5ab74_1",
       "source": "글로벌이코노믹",
       "country": "한국",
       "category": "IT",
       "publishedAt": "2026-11-27T21:34:51Z",
       "storyKey": "미공군핵심클라우드까지해킹당해후방시스템이관보안패치줄줄이중단",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "블랙프라이데이 예산 절약 쇼핑: 50달러 미만의 추천 거래 41선 이상",
-      "summary": "월마트와 아마존 등에서 최대 70% 할인 등 다양한 블랙프라이데이 할인 행사가 진행 중입니다.",
-      "url": "https://www.nbcnews.com/select/shopping/black-friday-2026-deals-under-50-rcna611475",
-      "source": "NBC News",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-27T20:58:07Z",
-      "storyKey": "blackfridayshoppingonabudgetthese41dealsareallunder50",
-      "isNew": true
-    },
-    {
-      "title": "옷 코디와 시착을 돕는 패션 AI가 등장했으나 명확한 한계도 존재",
-      "summary": "오늘 입을 옷을 코디하고 시착해 주는 패션 AI가 등장했으나 여전히 명확한 한계가 지적되고 있습니다.",
-      "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611280558139422_005.html",
-      "source": "YTN",
+      "title": "강금실 국정원장 후보자 재산 및 법무법인 수령액 공개",
+      "summary": "국정원장 후보로 지명된 강금실의 재산 신고 내역과 법무법인에서의 고액 급여 수령 내역 등이 공개되었다.",
+      "url": "https://www.yna.co.kr/view/AKR20261127131600505",
+      "source": "연합뉴스",
       "country": "한국",
-      "category": "AI",
-      "publishedAt": "2026-11-27T20:58:00Z",
-      "storyKey": "오늘입을옷코디시착도해주는패션ai한계도명확",
+      "category": "정치",
+      "publishedAt": "2026-11-27T21:00:02Z",
+      "storyKey": "금주의관심인물국정원장후보강금실9급비하논란정영란",
       "isNew": true
     },
     {
-      "title": "미 공군 주요 클라우드 원 컴퓨팅 플랫폼 해킹 피해 발생",
-      "summary": "미 공군의 핵심 컴퓨팅 플랫폼인 클라우드 원이 해커들에게 침해당하는 사건이 발생했습니다.",
+      "title": "해커들, 미 공군 플래그십 클라우드 원 컴퓨팅 플랫폼 침해",
+      "summary": "해커들이 미 공군의 핵심 클라우드 컴퓨팅 플랫폼인 클라우드 원을 무단으로 침해하는 보안 사고가 발생했다.",
       "url": "https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/",
       "source": "Reuters",
       "country": "미국",
@@ -46,98 +200,21 @@
       "isNew": false
     },
     {
-      "title": "'더 챌린지' 출연자 타일러 덕워스의 사망 원인 공개",
-      "summary": "'더 챌린지' 스타 타일러 덕워스의 사망 원인이 밝혀졌습니다.",
-      "url": "https://www.tmz.com/2026/11/27/tyler-duckworth-cause-of-death/",
-      "source": "TMZ",
-      "country": "미국",
-      "category": "문화",
-      "publishedAt": "2026-11-27T20:42:53Z",
-      "storyKey": "thechallengestartylerduckworthcauseofdeathrevealed",
-      "isNew": true
-    },
-    {
-      "title": "젊은 KB의 가능성 확인한 라미레스 감독과 3연승 달린 대한항공",
-      "summary": "대한항공이 외인 선수가 없는 KB손보를 상대로 승리를 거두며 3연승을 달렸습니다.",
-      "url": "https://www.newspim.com/news/view/20261127001384",
-      "source": "뉴스핌",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-27T20:18:00Z",
-      "storyKey": "핌in계양젊은kb가능성확인한라미레스감독선수들자랑스러워더강한팀될것",
-      "isNew": true
-    },
-    {
-      "title": "GS칼텍스 이영택 감독이 밝힌 킨델란 속공 블로킹 약점 공략과 5연승 선두 탈환",
-      "summary": "실바의 맹활약을 앞세운 GS칼텍스가 흥국생명을 꺾고 5연승과 함께 선두를 탈환했습니다.",
-      "url": "https://www.newspim.com/news/view/20261127001383",
-      "source": "뉴스핌",
-      "country": "한국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-27T20:17:00Z",
-      "storyKey": "핌in인천5연승gs칼텍스이영택감독킨델란의속공블로킹약점집중공략",
-      "isNew": true
-    },
-    {
-      "title": "데브 피셔 미 연방상원의원 사무실, 남편의 극단적 선택으로 인한 사망 발표",
-      "summary": "데브 피셔 미 연방상원의원의 남편 브루스 피셔가 극단적 선택으로 사망했다고 의원실이 밝혔습니다.",
-      "url": "https://thehill.com/homenews/senate/6245545-deb-fischer-nebraska/",
-      "source": "The Hill",
-      "country": "미국",
-      "category": "정치",
-      "publishedAt": "2026-11-27T19:39:00Z",
-      "storyKey": "sendebfischersofficesaysherhusbanddiedbysuicide",
-      "isNew": true
-    },
-    {
-      "title": "기술주 반등에 힘입어 변동성 컸던 한 주를 상승세로 마감한 미 증시",
-      "summary": "미국 주식시장이 기술주의 반등에 힘입어 변동성이 컸던 한 주를 상승세로 마무리했습니다.",
-      "url": "https://www.aa.com.tr/en/americas/us-stocks-end-volatile-week-higher-as-tech-shares-rebound/4140905",
-      "source": "Anadolu Ajansı",
-      "country": "미국",
-      "category": "주식",
-      "publishedAt": "2026-11-27T19:26:36Z",
-      "storyKey": "usstocksendvolatileweekhigherastechsharesrebound",
-      "isNew": true
-    },
-    {
-      "title": "미국 소매업체의 AI 활용 증가에 따른 안전장치와 규제 요구 목소리",
-      "summary": "미국 소매업체들 사이에서 AI 사용이 늘어나면서 이에 대한 안전장치와 규제를 요구하는 목소리가 커지고 있습니다.",
+      "title": "미국 소매업체 AI 도입 급증 속 규제와 안전장치 마련 촉구",
+      "summary": "미국 소매업계에서 인공지능 활용이 늘어나면서 무분별한 도입을 막기 위한 가이드라인과 규제를 요구하는 목소리가 커지고 있다.",
       "url": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
       "source": "The Guardian",
       "country": "미국",
       "category": "AI",
       "publishedAt": "2026-11-27T19:21:00Z",
       "storyKey": "itsnothelpingcallsforguardrailsandregulationsasaiuserisesatusretailers",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "추수감사절 방송에서도 지원을 받지 못한 애런 로저스",
-      "summary": "애런 로저스를 둘러싼 전 동료들의 비판과 스틸러스와의 관계에 대한 논란이 이어지고 있습니다.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-got-no-support-from-the-thanksgiving-broadcasts",
-      "source": "NBC Sports",
-      "country": "미국",
-      "category": "스포츠",
-      "publishedAt": "2026-11-27T19:09:04Z",
-      "storyKey": "aaronrodgersgotnosupportfromthethanksgivingbroadcasts",
-      "isNew": true
-    },
-    {
-      "title": "인공지능(AI)과 조직화된 지식의 가능성",
-      "summary": "인공지능이 가져오는 체계적이고 조직화된 지식의 미래 가능성을 조명합니다.",
-      "url": "https://issues.org/artificial-intelligence-organized-knowledge-funtowicz/",
-      "source": "Issues in Science and Technology",
-      "country": "미국",
-      "category": "AI",
-      "publishedAt": "2026-11-27T18:41:51Z",
-      "storyKey": "aiandthepromiseoforganizedknowledge",
-      "isNew": true
-    },
-    {
-      "title": "휴일 이후 위험 선호 심리 회복으로 반등을 앞둔 미국 증시",
-      "summary": "휴일을 지나며 위험 선호 심리가 살아나면서 미국 증시가 반등할 것으로 예상됩니다.",
+      "title": "휴일 이후 위험 선호 심리 회복으로 미국 증시 반등 전망",
+      "summary": "휴일을 지나며 투자 심리가 회복됨에 따라 미국 주식시장이 반등세를 보일 것으로 예상된다.",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "country": "미국",
       "category": "주식",
       "publishedAt": "2026-11-27T18:29:09Z",
@@ -145,118 +222,74 @@
       "isNew": false
     },
     {
-      "title": "다우 지수 급등과 함께 2022년 이후 최고의 주간 상승률을 기록한 뉴욕 증시",
-      "summary": "휴일로 단축된 거래일 동안 다우 지수가 급등하며 2022년 이후 최고의 한 주를 기록했습니다.",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-thanksgiving-holiday-shortened-black-friday-trading",
-      "source": "MarketWatch",
-      "country": "미국",
-      "category": "경제",
-      "publishedAt": "2026-11-27T18:20:00Z",
-      "storyKey": "stockmarketnewsnov272026dowzoomshigherclinchesbestweeksince2022asstocksreboundinholidayshortenedtrade",
-      "isNew": true
-    },
-    {
-      "title": "스페이스X의 우주 데이터센터 위성 배치 허용 결정에 실망한 천문학자들",
-      "summary": "천문학자들이 스페이스X의 우주 데이터센터용 위성 배치 허가 결정에 대해 실망감을 표명했습니다.",
+      "title": "스페이스X의 우주 데이터센터 위성 배치 승인에 천문학계 우려",
+      "summary": "스페이스X가 우주 데이터센터용 위성을 배치할 수 있도록 허용한 결정에 대해 천문학자들이 실망감을 표명했다.",
       "url": "https://www.theguardian.com/science/2026/nov/27/astronomer-decision-spacex-datacenters",
       "source": "The Guardian",
       "country": "미국",
       "category": "사회",
       "publishedAt": "2026-11-27T17:43:00Z",
       "storyKey": "astronomersdisheartenedbydecisionallowingspacextodeploysatellitesforspacedatacenters",
+      "isNew": false
+    },
+    {
+      "title": "베피콜롬보 수성 탐사선, 궤도 진입 과정서 예상치 못한 기술적 난관 봉착",
+      "summary": "수성에 도착한 유럽의 베피콜롬보 탐사선이 소프트웨어 결함 등 예상치 못한 과제를 마주했으나 엔지니어들이 우회로를 개발해 궤도 진입을 진행 중이다.",
+      "url": "https://www.cnn.com/2026/11/27/science/bepicolombo-esa-jaxa-mercury",
+      "source": "CNN",
+      "country": "미국",
+      "category": "과학",
+      "publishedAt": "2026-11-27T17:14:15Z",
+      "storyKey": "bepicolomboslongawaitedarrivalatmercuryisntgoingquiteasplanned",
       "isNew": true
     },
     {
-      "title": "추수감사절 박스오피스를 지배한 영화 '헝거게임: 수확의 날 아침'",
-      "summary": "영화 '헝거게임: 수확의 날 아침'이 5일 동안 8,500만 달러의 흥행 수익을 올리며 추수감사절 박스오피스를 장악했습니다.",
+      "title": "카타르 꺾은 한국 남자농구, 월드컵 본선 진출 청신호",
+      "summary": "남자농구 대표팀이 카타르를 완파하며 월드컵 본선 진출 가능성을 높였고 베테랑 이승현의 투혼이 주목받았다.",
+      "url": "https://www.donga.com/news/Sports/article/all/20261128/135106125/2",
+      "source": "동아일보",
+      "country": "한국",
+      "category": "스포츠",
+      "publishedAt": "2026-11-27T16:40:00Z",
+      "storyKey": "카타르꺾은농구월드컵본선티켓청신호",
+      "isNew": true
+    },
+    {
+      "title": "영화 '헝거게임: 레아의 날에 뜬 해', 추수감사절 박스오피스 흥행",
+      "summary": "신작 영화 '헝거게임: 레아의 날에 뜬 해'가 추수감사절 연휴 동안 막대한 관객을 동원하며 박스오피스 흥행을 주도하고 있다.",
       "url": "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-reaping-thanksgiving-1236959537/",
       "source": "Variety",
       "country": "미국",
       "category": "문화",
       "publishedAt": "2026-11-27T16:35:00Z",
       "storyKey": "boxofficehungergamessunriseonreapingrulesthanksgiving",
-      "isNew": true
-    },
-    {
-      "title": "노동계의 65세 정년 연장과 재계의 60세 퇴직 후 재고용 입장 차이로 헛도는 논의",
-      "summary": "정년 연장을 두고 노동계는 65세 연장을, 재계는 60세 퇴직 후 재고용을 주장하며 노사 합의가 불발되었습니다.",
-      "url": "https://www.hani.co.kr/arti/society/labor/1289475.html",
-      "source": "한겨레",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-27T16:19:00Z",
-      "storyKey": "헛도는정년연장논의노동계65살연장재계60살퇴직뒤재고용",
       "isNew": false
     },
     {
-      "title": "맥북, 아이패드, 스튜디오 디스플레이를 포함한 애플의 블랙프라이데이 할인 시작",
-      "summary": "맥북, 아이패드, 에어팟 등 애플 제품들이 블랙프라이데이를 맞아 신저가 할인 행사에 돌입했습니다.",
-      "url": "https://appleinsider.com/articles/26/11/27/best-black-friday-apple-deals-deliver-up-to-800-off-macs-ipads-airpods-watch",
-      "source": "AppleInsider",
+      "title": "블룸버그, 중국 내에서 엔비디아 블랙웰 칩 발견 보도",
+      "summary": "밀반출이 불가능하다던 엔비디아의 대형 블랙웰 칩이 블룸버그 취재 결과 중국 내에서 발견되었다.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-said-nvidia-blackwell-155022452.html",
+      "source": "Yahoo Finance",
       "country": "미국",
-      "category": "기술",
-      "publishedAt": "2026-11-27T16:17:15Z",
-      "storyKey": "appleblackfridaydealshavelandedonmacbooksipadsstudiodisplay",
-      "isNew": true
-    },
-    {
-      "title": "미 공군 클라우드 해킹 발생으로 피해 규모 파악 중",
-      "summary": "미 공군 클라우드가 해킹당한 가운데 정확한 피해 규모를 파악하고 있습니다.",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8724982",
-      "source": "KBS 뉴스",
-      "country": "한국",
-      "category": "IT",
-      "publishedAt": "2026-11-27T16:01:00Z",
-      "storyKey": "미공군클라우드까지해킹피해규모파악중",
-      "isNew": true
-    },
-    {
-      "title": "소녀시대 유리가 '나 혼자 산다'에서 액션 배우의 꿈을 고백",
-      "summary": "소녀시대 유리가 '나 혼자 산다'에 출연해 20년 넘게 품어온 액션 배우의 꿈과 기계체조 도전기를 공개했습니다.",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/28/MQ3DKYZWMZRWCNDDHBRDIYRVMI/",
-      "source": "조선일보",
-      "country": "한국",
-      "category": "문화",
-      "publishedAt": "2026-11-27T15:33:00Z",
-      "storyKey": "소시유리알고보니액션배우꿈이었다다모하지원처럼되고파나혼산",
-      "isNew": true
-    },
-    {
-      "title": "조희대 대법원장 탄핵 추진에 대해 중대한 후폭풍을 우려하는 세계변호사협회",
-      "summary": "세계변호사협회가 조희대 대법원장 탄핵 움직임에 대해 중대한 후폭풍이 우려된다며 연대 성명을 발표했습니다.",
-      "url": "https://www.yna.co.kr/view/AKR20261127166500004",
-      "source": "연합뉴스",
-      "country": "한국",
-      "category": "정치",
-      "publishedAt": "2026-11-27T11:56:27Z",
-      "storyKey": "세계변호사협회조희대대법원장탄핵우려중대한후폭풍",
-      "isNew": true
-    },
-    {
-      "title": "외국인 순매수와 증안펀드 기대감에 코스피와 코스닥 지수 동반 급등",
-      "summary": "증권시장안전펀드 투입 기대감과 외국인의 순매수에 힘입어 코스피와 코스닥 지수가 동반 급등했습니다.",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8724661",
-      "source": "KBS 뉴스",
-      "country": "한국",
       "category": "경제",
-      "publishedAt": "2026-11-27T10:44:00Z",
-      "storyKey": "코스피코스닥동반급등외국인순매수",
-      "isNew": false
-    },
-    {
-      "title": "열대우림에 살았던 호모 에렉투스로 인해 뒤집힌 적응력에 대한 기존 아이디어",
-      "summary": "호모 에렉투스가 열대우림에 거주했다는 연구 결과가 나오며 인류의 적응력에 대한 기존의 생각이 뒤집혔습니다.",
-      "url": "https://www.nytimes.com/2026/11/27/science/homo-erectus-early-humans-china-rainforests.html",
-      "source": "The New York Times",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-11-27T10:02:16Z",
-      "storyKey": "homoerectuslivedinrainforestsupendingideasabouttheiradaptability",
+      "publishedAt": "2026-11-27T15:50:22Z",
+      "storyKey": "jensenhuangsaidnvidiasblackwellchipsweretoobigtosmugglebloombergjustfoundtheminchina",
       "isNew": true
     },
     {
-      "title": "이 대통령의 불공정과 불평등 해소가 진정한 빛의 혁명 완성이라는 발언",
-      "summary": "이 대통령은 불공정과 불평등의 해소가 진정한 빛의 혁명을 완성하는 길이라고 강조했습니다.",
+      "title": "변동성 큰 주간 속 저가 매수 유입으로 월스트리트 상승 마감",
+      "summary": "변동성이 심했던 한 주 동안 타격을 입었던 AI 관련 주식들이 반등하며 월스트리트 증시는 상승세로 마감했다.",
+      "url": "https://www.reuters.com/business/wall-st-futures-surge-investors-return-holiday-2026-11-27/",
+      "source": "Reuters",
+      "country": "미국",
+      "category": "주식",
+      "publishedAt": "2026-11-27T07:34:00Z",
+      "storyKey": "wallstreetendshigherasbatteredaistocksgaininvolatileweek",
+      "isNew": true
+    },
+    {
+      "title": "이 대통령 \"불공정·불평등 해소가 진정한 빛의 혁명 완성\"",
+      "summary": "이 대통령이 사회적 불공정과 불평등을 해소하는 것이 진정한 혁명 완성을 의미한다고 강조했다.",
       "url": "https://imnews.imbc.com/news/2026/politics/article/6869137_36912.html",
       "source": "MBC 뉴스",
       "country": "한국",
@@ -266,63 +299,30 @@
       "isNew": false
     },
     {
-      "title": "제8회 대한민국 사회연대경제박람회 개막과 주요 인사들의 현장 방문",
-      "summary": "제8회 대한민국 사회연대경제박람회가 개막하여 주요 인사들이 전시와 체험 현장을 방문했습니다.",
-      "url": "http://www.senews.kr/43313",
-      "source": "사회적경제뉴스",
-      "country": "한국",
-      "category": "사회",
-      "publishedAt": "2026-11-27T06:58:00Z",
-      "storyKey": "제8회대한민국사회연대경제박람회개막주요인사들전시체험현장방문",
-      "isNew": false
-    },
-    {
-      "title": "3600조 원이 증발하고 피할 곳도 사라진 코스피 시장의 투자자 고민",
-      "summary": "막대한 자금이 증발하며 투자자들이 마땅한 투자처를 찾지 못하는 코스피 시장의 어려움이 나타났습니다.",
-      "url": "https://www.mt.co.kr/stock/2026/11/26/2026112522334252823",
-      "source": "머니투데이",
-      "country": "한국",
-      "category": "주식",
-      "publishedAt": "2026-11-27T06:48:35Z",
-      "storyKey": "이젠뭘사야하나3600조증발피할곳도사라진코스피머니투데이",
-      "isNew": false
-    },
-    {
-      "title": "세라믹 소재 적용 가능성이 제기되는 20주년 아이폰 한정판 모델 소식",
-      "summary": "출시 20주년을 맞는 아이폰에 세라믹 소재가 적용된 한정판 모델이 나올 것이라는 전망이 제기되었습니다.",
+      "title": "20주년 기념 아이폰 한정판 모델에 세라믹 소재 적용 전망",
+      "summary": "출시 20주년을 맞는 아이폰에 특별한 한정판 모델이 도입되며 세라믹 소재가 적용될 가능성이 제기됐다.",
       "url": "https://zdnet.co.kr/view/?no=20261127081155",
       "source": "지디넷코리아",
       "country": "한국",
       "category": "기술",
       "publishedAt": "2026-11-26T23:11:55Z",
       "storyKey": "20주년아이폰한정판모델나온다세라믹소재적용가능성",
-      "isNew": true
-    },
-    {
-      "title": "유럽우주국(ESA)의 헤라 임무를 통해 디모르포스에서 확인된 경기장 크기의 충돌구",
-      "summary": "유럽우주국(ESA)의 헤라 미션이 NASA의 우주선 충돌로 소행성 디모르포스에 생긴 경기장 크기의 충돌구 이미지를 공개했습니다.",
-      "url": "https://gizmodo.com/nasas-dart-mission-left-a-stadium-sized-crater-on-an-asteroid-and-we-just-got-the-pictures-to-prove-it-2000845935",
-      "source": "Gizmodo",
-      "country": "미국",
-      "category": "과학",
-      "publishedAt": "2026-11-26T16:52:29Z",
-      "storyKey": "esasheramissionrevealsstadiumsizedcraterondimorphos",
       "isNew": false
     },
     {
-      "title": "우주에서 보이저호가 건넨 위로를 전하는 카페 2030 칼럼",
-      "summary": "우주를 항해하는 보이저호가 인류에게 건네는 위로와 의미를 되새기는 칼럼입니다.",
-      "url": "https://www.chosun.com/opinion/cafe_2040/2026/11/26/LAY2DO4TEVCDFEJLKID4R2TV6Q/",
-      "source": "조선일보",
-      "country": "한국",
+      "title": "제임스 웹 우주망원경, 산소 함량 적은 초소형 저금속 은하 연구",
+      "summary": "제임스 웹 우주망원경이 태양의 산소 함량에 비해 극도로 적은 양의 산소를 가진 소형 은하를 정밀 관측했다.",
+      "url": "https://phys.org/news/2026-11-jwst-tiny-metal-poor-galaxy.html",
+      "source": "Phys.org",
+      "country": "미국",
       "category": "과학",
-      "publishedAt": "2026-11-26T15:04:10Z",
-      "storyKey": "카페2030우주에서보이저호가건넨위로",
+      "publishedAt": "2026-11-26T20:00:01Z",
+      "storyKey": "jwststudiesatinymetalpoorgalaxywithjustafractionofthesunsoxygenabundance",
       "isNew": true
     },
     {
-      "title": "안철수 의원의 저점 매수 소식 속 사상 최고가를 기록한 안랩",
-      "summary": "안철수 의원이 저점에서 대규모 매수를 진행한 가운데 안랩 주가가 사상 최고가를 기록했습니다.",
+      "title": "안철수 의원 안랩 주식 대량 매수 소식에 사상 최고가 기록",
+      "summary": "안철수 의원이 저점 구간에서 안랩 주식을 대거 매수했다는 소식이 전해지며 주가가 사상 최고가를 경신했다.",
       "url": "https://www.munhwa.com/article/11634457",
       "source": "문화일보",
       "country": "한국",
@@ -333,50 +333,50 @@
     }
   ],
   "briefing": [
-    "미 공군 클라우드 시스템이 해킹을 당해 주요 보안 패치와 시스템 이관 작업이 중단되는 보안 사고가 발생했습니다.",
-    "미국 증시는 기술주 반등과 휴일 이후 위험 선호 심리 회복에 힘입어 주간 기준 큰 폭의 상승세를 기록했습니다.",
-    "한국 증시는 외국인 순매수 유입과 증안펀드 투입 기대감 등에 힘입어 코스피와 코스닥이 동반 급등했습니다."
+    "미국 연방 기관과 공군 클라우드 시스템이 연이어 해킹 공격을 받으며 국가 안보와 사이버 보안에 비상이 걸렸다.",
+    "추수감사절 연휴를 맞아 미국의 유통 시장에서는 대규모 블랙프라이데이 할인 행사가 진행되는 동시에 AI 도입에 따른 규제 요구 목소리가 커지고 있다.",
+    "국내에서는 스포츠계의 국제 교류 및 농구 대표팀의 선전과 함께 증시 부양 기대감 및 정치권의 특검 관련 공방이 이어지고 있다."
   ],
   "trends": [
     {
       "category": "정치",
-      "summary": "정년 연장 노사 협의가 입장 차이로 최종 불발되었으며 조희대 대법원장 탄핵 움직임에 대한 국내외적 우려가 제기되었습니다."
+      "summary": "여야 간 특검 후보 인선과 과거 이력 및 국정원장 후보자를 둘러싼 공방이 이어지고 있다."
     },
     {
       "category": "경제",
-      "summary": "미국과 한국 등에서 블랙프라이데이 할인 행사와 증시 반등세가 이어지며 소비와 투자 심리가 활기를 띠었습니다."
+      "summary": "미국 블랙프라이데이 시즌을 맞아 다양한 할인 행사가 진행되는 가운데 젠슨 황의 의상 선택 등이 화제가 되었다."
     },
     {
       "category": "기술",
-      "summary": "애플의 블랙프라이데이 할인 행사가 시작되었고 20주년 아이폰에 세라믹 소재가 적용될 것이라는 전망이 나왔습니다."
+      "summary": "애플의 20주년 기념 아이폰 한정판 세라믹 소재 적용 전망과 함께 주요 IT 기기들의 할인 행사가 주목받고 있다."
     },
     {
       "category": "문화",
-      "summary": "영화 '헝거게임' 신작이 박스오피스를 장악한 가운데 연예계 스타들의 근황과 사망 소식이 전해졌습니다."
+      "summary": "영화 '헝거게임' 신작이 박스오피스 흥행을 주도하고 연예계의 결혼 및 부고 소식이 전해졌다."
     },
     {
       "category": "스포츠",
-      "summary": "국내 배구 리그에서 대한항공과 GS칼텍스가 각각 승리를 거두며 상승세를 이어갔습니다."
+      "summary": "남자농구 대표팀의 월드컵 본선 진출 청신호와 FIFA 실사단의 방한 및 NFL 경기 결과가 보도되었다."
     },
     {
       "category": "과학",
-      "summary": "열대우림에 거주했던 호모 에렉투스의 적응력 연구와 소행성 충돌구 이미지가 공개되는 등 학술적 발견이 이어졌습니다."
+      "summary": "수성 탐사선 베피콜롬보의 궤도 진입 과정 속 기술적 대응과 제임스 웹 우주망원경의 은하 관측 연구가 진행 중이다."
     },
     {
       "category": "IT",
-      "summary": "미 공군의 핵심 클라우드 플랫폼이 해킹 피해를 입어 후방 시스템 운영에 차질이 빚어졌습니다."
+      "summary": "미 공군과 주요 연방 기관들의 클라우드 및 서버가 잇따라 해킹을 당하며 보안에 큰 차질이 빚어졌다."
     },
     {
       "category": "주식",
-      "summary": "미 증시가 기술주 반등으로 강세를 보였고, 국내 증시도 외국인 매수세와 기대감 속에 반등했습니다."
+      "summary": "증안펀드 기대감과 외국인 유입으로 국내 증시가 상승세를 보였고 월스트리트도 변동성 끝에 반등했다."
     },
     {
       "category": "사회",
-      "summary": "스페이스X의 우주 데이터센터 위성 배치를 두고 천문학계의 우려가 제기되며 사회연대경제박람회가 개최되었습니다."
+      "summary": "미국 동부 지역은 추수감사절 폭풍으로 인한 대규모 정전 피해 복구에 나섰고 국내 사회적 메시지가 전달되었다."
     },
     {
       "category": "AI",
-      "summary": "패션 AI 서비스가 등장한 한편 소매업체들의 AI 도입 증가에 따른 규제와 안전장치 마련 요구가 커졌습니다."
+      "summary": "동해 AI 데이터센터가 착공된 가운데 유력 AI 과학자의 경고와 소매업계의 AI 도입 규제 목소리가 대두되었다."
     }
   ]
 }
